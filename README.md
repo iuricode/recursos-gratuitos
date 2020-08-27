@@ -1,34 +1,20 @@
-![Arte do repositório](rep-free.jpg)
+# Resources for websites
+One thing I always doubt when developing my projects is always, 'which color to use? Source? icons? illustration and images? '. So with this question I created this repository as an answer, here we have everything the developer front-end (even the back-end) needs, fonts, illustrations, icons, images and everything else!
 
-# Free Icons and Illustrations
-Just like everyone who designs a website, always looking at those fucking sites with incredible illustrations and compositions, but without the slightest idea of how to find good resources to create something similar in my projects. Over time I found sites that made them available and icons for free and saved them in a folder on my browser.
-
-However, just as one day I wished I had these resources to compose my interfaces, I believe that other developers and designers would also love to have access to a good collection to use at any time. That's why I'm creating this repository with all the links I found (and the ones I will find in the future) of icons of illustrations totally free. :)
-
-I hope everything is very useful;) And if so, share the repository with colleagues and / or groups
+## Image
+[Pexels](https://www.pexels.com/pt-br/)
+[Pixabay](https://pixabay.com/)
+[freepik](https://www.freepik.com/popular-photos)
+[unsplash](https://unsplash.com/)
+[freeimages](https://www.freeimages.com/pt)
+[iStock](https://www.istockphoto.com/)
+[StockSnap.io](https://stocksnap.io/)
+[gratisgraphy](https://gratisography.com/)
+[Burst](https://burst.shopify.com/free-images)
+[StockFreeImages](https://www.stockfreeimages.com/)
+[shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
 
 ## Illustrations
-[storytale.io](https://storytale.io/)  
-[Black illustrations](https://www.blackillustrations.com/)  
-[Flow Lava](https://flowlava.club/)  
-[Control](https://control.rocks/)  
-[Stories by Freepik](https://stories.freepik.com/)  
-[Blush](https://blush.design/)  
-[404 illustrations](https://error404.fun/)  
-[Blob Marker](https://www.blobmaker.app/)  
-[Scribbles](https://www.scribbbles.design/)  
-[Get Waves](https://getwaves.io/)  
-[Karthik Srinivas](https://www.karthiksrinivas.in/)  
-[Design.ai](https://designs.ai/graphicmaker/)  
-[Smash Illustrations](https://usesmash.com/)  
-[Undraw](https://undraw.co/)  
-[Open Doodles](https://www.opendoodles.com/)  
-[Stubborn Generator](https://stubborn.fun/)  
-[freellustrations](https://freellustrations.com/)  
-[Fresh Folk](https://fresh-folk.com/)  
-[Glaze](https://www.glazestock.com/)  
-[Abstrakt](https://www.abstrakt.design/)  
-[Mixkit Art](https://mixkit.co/free-stock-art/)  
 [Ouch](https://icons8.com/illustrations)  
 [DrawKit](https://www.drawkit.io/)  
 [Sapiens](https://sapiens.ui8.net/)  
@@ -50,6 +36,39 @@ I hope everything is very useful;) And if so, share the repository with colleagu
 [Kukla Kit](https://www.kukla-kit.com/)  
 [Construtor de Ilustrações](https://itg.digital/)  
 [Ara Illustration](https://www.aracreator.com/)
+[storytale.io](https://storytale.io/)  
+[Black illustrations](https://www.blackillustrations.com/)  
+[Flow Lava](https://flowlava.club/)  
+[Control](https://control.rocks/)  
+[Stories by Freepik](https://stories.freepik.com/)  
+[Blush](https://blush.design/)  
+[404 illustrations](https://error404.fun/)  
+[Blob Marker](https://www.blobmaker.app/)  
+[Scribbles](https://www.scribbbles.design/)  
+[Get Waves](https://getwaves.io/)  
+[Karthik Srinivas](https://www.karthiksrinivas.in/)  
+[Design.ai](https://designs.ai/graphicmaker/)  
+[Smash Illustrations](https://usesmash.com/)  
+[Undraw](https://undraw.co/)  
+[Open Doodles](https://www.opendoodles.com/)  
+[Stubborn Generator](https://stubborn.fun/)  
+[freellustrations](https://freellustrations.com/)  
+[Fresh Folk](https://fresh-folk.com/)  
+[Glaze](https://www.glazestock.com/)  
+[Abstrakt](https://www.abstrakt.design/)  
+[Mixkit Art](https://mixkit.co/free-stock-art/)  
+ 
+## Fonts
+[Google Fonts](https://fonts.google.com/)
+[NetFonts](https://www.netfontes.com.br/)
+[DaFont](https://www.dafont.com/pt/)
+[Font Squirrel](https://www.fontsquirrel.com/)
+[1001 Fontes](https://www.1001fonts.com/)
+[FontFabric](https://www.fontfabric.com/)
+[BeFonts](https://befonts.com/)
+[Urbanfonts](https://www.urbanfonts.com/free-fonts.htm)
+[Unblast](https://unblast.com/fonts/)
+
 ## Icons
 [css.gg](https://css.gg/)  
 [Icon Icons](https://icon-icons.com/)  
@@ -75,16 +94,12 @@ I hope everything is very useful;) And if so, share the repository with colleagu
 [Flaticon](https://www.flaticon.com/packs)  
 [Tabler Icons](https://tablericons.com/)  
 [Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
-[Line Awesome](https://icons8.com/line-awesome)  
+[Line Awesome](https://icons8.com/line-awesome) 
 
-## websites to find free resources
+## Some sites that will also help you
+[Pigment](https://pigment.shapefactory.co/)
+[Canva](https://www.canva.com/)
 [Evernote Design](https://www.evernote.design/)  
 [Newsletter UI Lab](https://uilab.com.br/)  
 [Design Resources](https://www.designresourc.es/)  
 [Bookmarks.design](https://www.bookmarks.design/)
-
-
-
-
-
-
