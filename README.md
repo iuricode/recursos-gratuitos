@@ -176,16 +176,3 @@ One thing I always doubt when developing my projects is always, 'which color to 
 [Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
 
 [Line Awesome](https://icons8.com/line-awesome) 
-
-## Some sites that will also help you
-[Pigment](https://pigment.shapefactory.co/)
-
-[Canva](https://www.canva.com/)
-
-[Evernote Design](https://www.evernote.design/) 
-
-[Newsletter UI Lab](https://uilab.com.br/)  
-
-[Design Resources](https://www.designresourc.es/) 
-
-[Bookmarks.design](https://www.bookmarks.design/)
