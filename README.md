@@ -2,7 +2,12 @@
 Uma coisa que sempre fico em dúvida na hora de desenvolver meus projetos é sempre as mesmas: 'Qual cor usar? Quais Fonte? Ícones? Ilustrações? Imagens? e onde aprender a desenvolver?'. Então, com essas perguntas eu criei este repositório como resposta!
 Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens e tudo mais!
 
-
+## 📕 Índice
+- [Imagens](#-imagens)
+- [Ilustrações](#-ilustrações)
+- [Cursos e Livros](#-cursos-e-livros)
+- [Fontes](#-fontes)
+- [Ícones](#-ícones)
 
 ## 🎯 Imagens
 [Pexels](https://www.pexels.com/pt-br/)
