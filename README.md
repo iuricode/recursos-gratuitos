@@ -4,7 +4,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 
 
-## Imagens
+## 🎯 Imagens
 [Pexels](https://www.pexels.com/pt-br/)
 
 [Pixabay](https://pixabay.com/)
@@ -27,7 +27,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
 
-## Ilustrações
+## 🎯 Ilustrações
 [Ouch](https://icons8.com/illustrations)  
 
 [DrawKit](https://www.drawkit.io/)  
@@ -110,7 +110,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [Mixkit Art](https://mixkit.co/free-stock-art/)
 
-## Cursos e Livros
+## 🎯 Cursos e Livros
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
 | -------------- | ---------------------------------- | ----------- | ------ |
@@ -234,7 +234,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | EN |  
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | PT-BR |
  
-## Fontes
+## 🎯 Fontes
 [Google Fonts](https://fonts.google.com/)
 
 [NetFonts](https://www.netfontes.com.br/)
@@ -253,7 +253,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [Unblast](https://unblast.com/fonts/)
 
-## Ícones
+## 🎯 Ícones
 [css.gg](https://css.gg/)  
 
 [Icon Icons](https://icon-icons.com/)  
