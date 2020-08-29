@@ -1,10 +1,22 @@
 # 📌 Conteúdos gratuitos para sites
-Uma coisa que sempre fico em dúvida na hora de desenvolver meus projetos é sempre as mesmas: 'Qual cor usar? Quais Fonte? Ícones? Ilustrações? Imagens? e onde aprender a desenvolver?'. Então, com essas perguntas eu criei este repositório como resposta!
-Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens e tudo mais!
+Uma coisa que sempre fico em dúvida na hora de desenvolver meus projetos é sempre as mesmas: 'Quais recursos de design usar no projeto e onde encontrá-los?'. 
+Então, com essas perguntas eu criei este repositório como resposta.
+Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais!
 
+## 📕 Índice
 
+- [Ilustrações e Vetores](#-ilustrações-e-vetores)
+- [Emojis](#-emojis)
+- [Imagens](#-imagens)
+- [Cursos e Livros](#-cursos-e-livros)
+- [Paletas de Cores](#-paletas-de-cores)
+- [Fontes](#-fontes)
+- [Ícones](#-ícones)
+- [Animações e Gifs](#-animações-e-gifs)
 
-## 🎯 Imagens
+## 🖼️ Imagens
+[Wunderstock](https://wunderstock.com/)
+
 [Pexels](https://www.pexels.com/pt-br/)
 
 [Pixabay](https://pixabay.com/)
@@ -12,6 +24,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 [freepik](https://www.freepik.com/popular-photos)
 
 [unsplash](https://unsplash.com/)
+
+[Behance](https://www.behance.net/galleries/illustration)
 
 [freeimages](https://www.freeimages.com/pt) 
 
@@ -21,13 +35,23 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [gratisgraphy](https://gratisography.com/)
 
+[Pinterest](https://br.pinterest.com/)
+
 [Burst](https://burst.shopify.com/free-images)
 
 [StockFreeImages](https://www.stockfreeimages.com/)
 
+[Freejpg](https://en.freejpg.com.ar/)
+
 [shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
 
-## 🎯 Ilustrações
+[Wunder Stock](https://wunderstock.com/)
+
+## 🚀 Ilustrações e Vetores
+[wannapik](https://www.wannapik.com/)
+
+[facebook Design](https://facebook.design/)
+
 [Ouch](https://icons8.com/illustrations)  
 
 [DrawKit](https://www.drawkit.io/)  
@@ -43,6 +67,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 [Vector Creator](https://icons8.com/vector-creator/) 
 
 [Delesign](https://delesign.com/)  
+
+[FreeVectors](https://www.freevectors.net/)
 
 [Paper Illustrations](https://iconscout.com/paper-illustrations)  
 
@@ -110,7 +136,16 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [Mixkit Art](https://mixkit.co/free-stock-art/)
 
-## 🎯 Cursos e Livros
+## 😛 Emojis
+[EmojiCopy](https://www.emojicopy.com/)
+
+[gitmoji](https://gitmoji.carloscuesta.me/)
+
+[Get Emoji](https://getemoji.com/)
+
+[Web Emoji](https://webemoji.org/)
+
+## 👨‍💻 Cursos e Livros
 
 | Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
 | -------------- | ---------------------------------- | ----------- | ------ |
@@ -233,8 +268,21 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | PT-BR |  
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | EN |  
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | PT-BR |
- 
-## 🎯 Fontes
+
+## 🎨 Paletas de Cores
+[Flat UI](https://flatuicolors.com/)
+
+[Material UI Colots](https://materialuicolors.co/)
+
+[Colordot](https://color.hailpixel.com/)
+
+[SpyColor.com](https://www.spycolor.com/)
+
+[uiGradients](https://uigradients.com/#Memariani)
+
+[Paletton](https://paletton.com/)
+
+## 🔤 Fontes
 [Google Fonts](https://fonts.google.com/)
 
 [NetFonts](https://www.netfontes.com.br/)
@@ -253,7 +301,11 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [Unblast](https://unblast.com/fonts/)
 
-## 🎯 Ícones
+## 🎉 Ícones
+[DrawKit](https://www.drawkit.io/free-icons)
+
+[Simple Icons](https://simpleicons.org/)
+
 [css.gg](https://css.gg/)  
 
 [Icon Icons](https://icon-icons.com/)  
@@ -272,7 +324,9 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [Icons8 Icons](https://icons8.com.br/icons)  
 
-[Feather](https://feathericons.com/)  
+[Feather](https://feathericons.com/)
+
+[React Icons](https://react-icons.github.io/react-icons/)
 
 [Iconscout](https://iconscout.com/)  
 
@@ -281,6 +335,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 [Noun Project](https://thenounproject.com/)  
 
 [Ionicons](https://ionicons.com/)  
+
+[Oblador](https://oblador.github.io/react-native-vector-icons/)
 
 [Font Awesome](https://fontawesome.com/)  
 
@@ -302,4 +358,13 @@ Aqui nós temos tudo que um desenvolvedor precisa. Esse repositório tem como ob
 
 [Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
 
-[Line Awesome](https://icons8.com/line-awesome) 
+[Line Awesome](https://icons8.com/line-awesome)
+
+## 😺 Animações e Gifs
+[Airbnb](https://airbnb.design/lottie/)
+
+[giphy](https://giphy.com/)
+
+[tenos](https://tenor.com/)
+
+[Repo GitHub](https://github.com/davisonio/awesome-gif#utilities)
