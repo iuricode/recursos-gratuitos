@@ -4,10 +4,9 @@ Então, com essas perguntas eu criei este repositório como resposta.
 Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais!
 
 ## 📕 Índice
-
+- [Imagens](#-imagens)
 - [Ilustrações e Vetores](#-ilustrações-e-vetores)
 - [Emojis](#-emojis)
-- [Imagens](#-imagens)
 - [Cursos e Livros](#-cursos-e-livros)
 - [Paletas de Cores](#-paletas-de-cores)
 - [Fontes](#-fontes)
