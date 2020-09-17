@@ -370,3 +370,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 [tenos](https://tenor.com/)
 
 [Repo GitHub](https://github.com/davisonio/awesome-gif#utilities)
+
+## 🌈 Seja um dos contribuidores<br>
+Quer fazer parte desse projeto? É simples!
+Faço um Fork nele colocando suas modificações e depois mande uma solicitação.
