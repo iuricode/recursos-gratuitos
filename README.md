@@ -274,6 +274,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 ## 🎨 Paletas de Cores
 [Flat UI](https://flatuicolors.com/)
 
+[Adobe Colors](https://color.adobe.com/pt/create/color-wheel)
+
 [Material UI Colots](https://materialuicolors.co/)
 
 [Colordot](https://color.hailpixel.com/)
