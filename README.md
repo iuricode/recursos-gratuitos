@@ -286,6 +286,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Paletton](https://paletton.com/)
 
+[Happy Hues](https://www.happyhues.co/)
+
 ## 🔤 Fontes
 [Google Fonts](https://fonts.google.com/)
 
