@@ -138,6 +138,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Mixkit Art](https://mixkit.co/free-stock-art/)
 
+[wannapik](https://www.wannapik.com/)
+
 ## 😛 Emojis
 [EmojiCopy](https://www.emojicopy.com/)
 
@@ -145,7 +147,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Get Emoji](https://getemoji.com/)
 
-[Web Emoji](https://webemoji.org/)
+[Stories Freepik](https://stories.freepik.com/)
 
 ## 👨‍💻 Cursos e Livros
 
