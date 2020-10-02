@@ -290,6 +290,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Happy Hues](https://www.happyhues.co/)
 
+[Design Seeds](https://www.design-seeds.com/)
+
 ## 🔤 Fontes
 [Google Fonts](https://fonts.google.com/)
 
