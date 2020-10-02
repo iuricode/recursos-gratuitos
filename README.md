@@ -140,6 +140,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [wannapik](https://www.wannapik.com/)
 
+[Canva](https://www.canva.com/)
+
 ## 😛 Emojis
 [EmojiCopy](https://www.emojicopy.com/)
 
@@ -289,6 +291,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 [Paletton](https://paletton.com/)
 
 [Happy Hues](https://www.happyhues.co/)
+
+[Design Seeds](https://www.design-seeds.com/)
 
 ## 🔤 Fontes
 [Google Fonts](https://fonts.google.com/)
