@@ -68,7 +68,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Vector Creator](https://icons8.com/vector-creator/) 
 
-[Delesign](https://delesign.com/)  
+[Delesign](https://delesign.com/free-designs/graphics)  
 
 [FreeVectors](https://www.freevectors.net/)
 
@@ -130,6 +130,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [freellustrations](https://freellustrations.com/)  
 
+[Free Illustrations](https://freeillustrations.xyz/)
+
 [Fresh Folk](https://fresh-folk.com/)  
 
 [Glaze](https://www.glazestock.com/)  
@@ -141,6 +143,14 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 [wannapik](https://www.wannapik.com/)
 
 [Canva](https://www.canva.com/)
+
+[Pixeltrue](https://www.pixeltrue.com/free-illustrations)
+
+[Isometric](https://isometric.online/)
+
+[WooBro](https://woobro.design/)
+
+[UI Store](https://www.uistore.design/categories/illustrations/)
 
 ## 😛 Emojis
 [EmojiCopy](https://www.emojicopy.com/)
