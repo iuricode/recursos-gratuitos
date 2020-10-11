@@ -178,6 +178,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | Livro |Não| EN |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | PT-BR |
 | [Codando](https://codando.org/material-gratuito/) | Cursos | Não | PT-BR |
+| [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | Não | PT-BR |
+| [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | Não | PT-BR |
 | [Codecademy](https://www.codecademy.com/ ) | Cursos | Não | EN |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | PT-BR |
 | [Codepip - Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) | Jogo | Não | EN |
@@ -210,6 +212,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 | [eXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | PT-BR |
 | [FalaDev](https://pizzadedados.com/) | Podcast | Não | PT-BR | 
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | PT-BR | 
+| [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| Não | PT-BR |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | PT-BR | 
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Cursos | Sim | PT-BR | |
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | PT-BR |
@@ -284,6 +287,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | PT-BR |  
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | EN |  
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | PT-BR |
+
 
 ## 🎨 Paletas de Cores
 [Flat UI](https://flatuicolors.com/)
