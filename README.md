@@ -54,6 +54,12 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Wunder Stock](https://wunderstock.com/)
 
+[reshot](https://www.reshot.com/)
+
+[pexels](https://www.pexels.com/pt-br/)
+
+[fake image](https://fakeimg.pl/) ótimo para criar wireframes
+
 ## 🚀 Ilustrações e Vetores
 [Wannapik](https://www.wannapik.com/)
 
