@@ -1,10 +1,15 @@
-# 📌 Conteúdos gratuitos para sites
+<h1 align="center">
+🌈<br> Conteúdos gratuitos para sites
+</h1>
 
 <img src="banner.jpg">
 
+<h4 align="center">
 Uma coisa que sempre fico em dúvida na hora de desenvolver meus projetos é sempre as mesmas: 'Quais recursos de design usar no projeto e onde encontrá-los?'. 
-Então, com essas perguntas eu criei este repositório como resposta.
+Então, com essas perguntas eu criei este repositório como resposta.<br>
 Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais.
+</h4>
+
 
 ## 📕 Índice
 - [Imagens](#-imagens)
@@ -23,15 +28,15 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Pixabay](https://pixabay.com/)
 
-[freepik](https://www.freepik.com/popular-photos)
+[Freepik](https://www.freepik.com/popular-photos)
 
-[unsplash](https://unsplash.com/)
+[Unsplash](https://unsplash.com/)
 
 [Behance](https://www.behance.net/galleries/illustration)
 
-[freeimages](https://www.freeimages.com/pt) 
+[Freeimages](https://www.freeimages.com/pt) 
 
-[iStock](https://www.istockphoto.com/) 
+[IStock](https://www.istockphoto.com/) 
 
 [StockSnap.io](https://stocksnap.io/)
 
@@ -45,14 +50,14 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Freejpg](https://en.freejpg.com.ar/)
 
-[shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
+[Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
 
 [Wunder Stock](https://wunderstock.com/)
 
 ## 🚀 Ilustrações e Vetores
-[wannapik](https://www.wannapik.com/)
+[Wannapik](https://www.wannapik.com/)
 
-[facebook Design](https://facebook.design/)
+[Facebook Design](https://facebook.design/)
 
 [Ouch](https://icons8.com/illustrations)  
 
@@ -96,7 +101,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Ara Illustration](https://www.aracreator.com/)
 
-[storytale.io](https://storytale.io/)  
+[Storytale.io](https://storytale.io/)  
 
 [Black illustrations](https://www.blackillustrations.com/)  
 
@@ -128,7 +133,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Stubborn Generator](https://stubborn.fun/)  
 
-[freellustrations](https://freellustrations.com/)  
+[Freellustrations](https://freellustrations.com/)  
 
 [Free Illustrations](https://freeillustrations.xyz/)
 
@@ -140,7 +145,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Mixkit Art](https://mixkit.co/free-stock-art/)
 
-[wannapik](https://www.wannapik.com/)
+[Wannapik](https://www.wannapik.com/)
 
 [Canva](https://www.canva.com/)
 
@@ -155,7 +160,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 ## 😛 Emojis
 [EmojiCopy](https://www.emojicopy.com/)
 
-[gitmoji](https://gitmoji.carloscuesta.me/)
+[Gitmoji](https://gitmoji.carloscuesta.me/)
 
 [Get Emoji](https://getemoji.com/)
 
@@ -300,7 +305,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [SpyColor.com](https://www.spycolor.com/)
 
-[uiGradients](https://uigradients.com/#Memariani)
+[UiGradients](https://uigradients.com/#Memariani)
 
 [Paletton](https://paletton.com/)
 
@@ -332,7 +337,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Simple Icons](https://simpleicons.org/)
 
-[css.gg](https://css.gg/)  
+[Css.gg](https://css.gg/)  
 
 [Icon Icons](https://icon-icons.com/)  
 
@@ -344,7 +349,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Remix Icon](https://remixicon.com/)  
 
-[freeicons.io](https://freeicons.io/)  
+[Freeicons.io](https://freeicons.io/)  
 
 [Iconfinder](https://www.iconfinder.com/free_icons)  
 
@@ -368,7 +373,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Boxicons](https://boxicons.com/)  
 
-[shape.so](https://shape.so/)  
+[Shape.so](https://shape.so/)  
 
 [Heroicons](https://heroicons.dev/)  
 
@@ -389,9 +394,9 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 ## 😺 Animações e Gifs
 [Airbnb](https://airbnb.design/lottie/)
 
-[giphy](https://giphy.com/)
+[Giphy](https://giphy.com/)
 
-[tenos](https://tenor.com/)
+[Tenos](https://tenor.com/)
 
 [Repo GitHub](https://github.com/davisonio/awesome-gif#utilities)
 
@@ -400,5 +405,5 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 <br>[⬆ Voltar ao topo](#-Índice)<br>
 
 ## 🌈 Seja um dos contribuidores<br>
-Quer fazer parte desse projeto? É simples!
+Quer fazer parte desse projeto? É simples!<br>
 Faço um Fork nele colocando suas modificações e depois mande uma solicitação.
