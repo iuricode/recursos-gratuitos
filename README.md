@@ -397,7 +397,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Free FrontEnd](https://freefrontend.com/)
 
-[⬆ voltar ao topo](#Índice)
+<br>[⬆ Voltar ao topo](#-Índice)<br>
 
 ## 🌈 Seja um dos contribuidores<br>
 Quer fazer parte desse projeto? É simples!
