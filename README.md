@@ -54,6 +54,12 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 
 [Wunder Stock](https://wunderstock.com/)
 
+[reshot](https://www.reshot.com/)
+
+[pexels](https://www.pexels.com/pt-br/)
+
+[fake image](https://fakeimg.pl/)
+
 ## 🚀 Ilustrações e Vetores
 [Wannapik](https://www.wannapik.com/)
 
@@ -156,6 +162,8 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 [WooBro](https://woobro.design/)
 
 [UI Store](https://www.uistore.design/categories/illustrations/)
+
+[UnDraw](https://undraw.co/)
 
 ## 😛 Emojis
 [EmojiCopy](https://www.emojicopy.com/)
