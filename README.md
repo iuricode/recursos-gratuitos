@@ -2,12 +2,16 @@
 🌈<br> Conteúdos gratuitos para sites
 </h1>
 
-<img src="banner.jpg">
+<h4 align="center">
+Um repositório com conteúdos gratuitos que te ajudará na criação de sites.
+</h4>
+
+<img src="banner.png">
 
 <h4 align="center">
-Uma coisa que sempre fico em dúvida na hora de desenvolver meus projetos é sempre as mesmas: 'Quais recursos de design usar no projeto e onde encontrá-los?'. 
-Então, com essas perguntas eu criei este repositório como resposta.<br>
-Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais.
+Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus projetos são sempre as mesmas: 'Quais recursos de design usar no projeto e onde encontrá-los?'. 
+Então, com essa dúvida criei este repositório como resposta.<br>
+Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais.
 </h4>
 
 
