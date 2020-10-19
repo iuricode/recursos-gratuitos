@@ -231,7 +231,7 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="assets/br.jpg" width="38px"> |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | <img src="assets/eua.png" width="38px"> |
-| [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | <img src="assets/br.jpg" width="25px">/ <img src="assets/eua.png" width="25px"> |
+| [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | <img src="assets/br.jpg" width="15px"><img src="assets/eua.png" width="15px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> |
 | [Future Learn](https://www.futurelearn.com) | Cursos | Não | <img src="assets/eua.png" width="38px"> |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="assets/eua.png" width="38px"> | 
