@@ -8,7 +8,6 @@ Um repositório com conteúdos gratuitos que te ajudará na criação de sites.
 
 <img src="./assets/banner.png">
 
-
 <h4 align="left">
 Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus projetos é sempre a mesma: "Quais recursos de design usar no projeto e onde encontrá-los?".<br>
 Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa. Esse repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais.
@@ -25,151 +24,92 @@ Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo qu
 - [Ícones](#-ícones)
 - [Animações e Gifs](#-animações-e-gifs)
 
+
 ## 🖼️ Imagens
-[Wunderstock](https://wunderstock.com/)
 
-[Pexels](https://www.pexels.com/pt-br/)
+| Links |
+| -------------- |
+| [Wunderstock](https://wunderstock.com/) |
+| [Pexels](https://www.pexels.com/pt-br/) |
+| [Pixabay](https://pixabay.com/) |
+| [Freepik](https://www.freepik.com/popular-photos) |
+| [Unsplash](https://unsplash.com/) |
+| [Behance](https://www.behance.net/galleries/illustration) |
+| [Freeimages](https://www.freeimages.com/pt) | 
+| [IStock](https://www.istockphoto.com/) | 
+| [StockSnap.io](https://stocksnap.io/) |
+| [Gratisgraphy](https://gratisography.com/) |
+| [Pinterest](https://br.pinterest.com/) |
+| [Burst](https://burst.shopify.com/free-images) |
+| [StockFreeImages](https://www.stockfreeimages.com/) |
+| [Freejpg](https://en.freejpg.com.ar/) |
+| [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) |
+| [Wunder Stock](https://wunderstock.com/) |
+| [Reshot](https://www.reshot.com/) |
+| [Pexels](https://www.pexels.com/pt-br/) |
+| [Fake image](https://fakeimg.pl/) |
 
-[Pixabay](https://pixabay.com/)
-
-[Freepik](https://www.freepik.com/popular-photos)
-
-[Unsplash](https://unsplash.com/)
-
-[Behance](https://www.behance.net/galleries/illustration)
-
-[Freeimages](https://www.freeimages.com/pt) 
-
-[IStock](https://www.istockphoto.com/) 
-
-[StockSnap.io](https://stocksnap.io/)
-
-[gratisgraphy](https://gratisography.com/)
-
-[Pinterest](https://br.pinterest.com/)
-
-[Burst](https://burst.shopify.com/free-images)
-
-[StockFreeImages](https://www.stockfreeimages.com/)
-
-[Freejpg](https://en.freejpg.com.ar/)
-
-[Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
-
-[Wunder Stock](https://wunderstock.com/)
-
-[Reshot](https://www.reshot.com/)
-
-[Pexels](https://www.pexels.com/pt-br/)
-
-[Fake image](https://fakeimg.pl/)
 
 ## 🚀 Ilustrações e Vetores
-[Wannapik](https://www.wannapik.com/)
 
-[Facebook Design](https://facebook.design/)
+| Links |
+| -------------- |
+| [Wannapik](https://www.wannapik.com/) |
+| [Facebook Design](https://facebook.design/) |
+| [Ouch](https://icons8.com/illustrations) |
+| [DrawKit](https://www.drawkit.io/)|
+| [Sapiens](https://sapiens.ui8.net/) |  
+| [Open Peeps](https://www.openpeeps.com/) |  
+| [Growww](https://growwwkit.com/illustrations/phonies/) |
+| [Illustrations](https://illlustrations.co/) |  
+| [Vector Creator](https://icons8.com/vector-creator/) | 
+| [Delesign](https://delesign.com/free-designs/graphics) |  
+| [FreeVectors](https://www.freevectors.net/) |
+| [Paper Illustrations](https://iconscout.com/paper-illustrations) |  
+| [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) |  
+| [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) |  
+| [Lukasadam](https://lukaszadam.com/illustrations) |  
+| [Manypixels Illustration Gallery](https://www.manypixels.co/gallery/) |  
+| [IRA Design](https://iradesign.io/) |  
+| [Absurd Design](https://absurd.design/) |  
+| [Humaaans](https://www.humaaans.com/) |  
+| [Toy Faces](https://amritpaldesign.com/toy-faces) |  
+| [Kukla Kit](https://www.kukla-kit.com/) |  
+| [Construtor de Ilustrações](https://itg.digital/) |  
+| [Ara Illustration](https://www.aracreator.com/) |
+| [Storytale.io](https://storytale.io/) |  
+| [Black illustrations](https://www.blackillustrations.com/) |  
+| [Flow Lava](https://flowlava.club/) |  
+| [Control](https://control.rocks/) |  
+| [Stories by Freepik](https://stories.freepik.com/) |  
+| [Blush](https://blush.design/) |  
+| [404 illustrations](https://error404.fun/) |  
+| [Blob Marker](https://www.blobmaker.app/) | 
+| [Scribbles](https://www.scribbbles.design/) |  
+| [Get Waves](https://getwaves.io/) |  
+| [Karthik Srinivas](https://www.karthiksrinivas.in/) |  
+| [Design.ai](https://designs.ai/graphicmaker/) | 
+| [Smash Illustrations](https://usesmash.com/) |  
+| [Undraw](https://undraw.co/) |  
+| [Open Doodles](https://www.opendoodles.com/) |  
+| [Stubborn Generator](https://stubborn.fun/) |  
+| [Freellustrations](https://freellustrations.com/) |  
+| [Free Illustrations](https://freeillustrations.xyz/) |
+| [Fresh Folk](https://fresh-folk.com/) |  
+| [Glaze](https://www.glazestock.com/) |  
+| [Abstrakt](https://www.abstrakt.design/) |
+| [Mixkit Art](https://mixkit.co/free-stock-art/) |
+| [Wannapik](https://www.wannapik.com/) |
+| [Canva](https://www.canva.com/) |
+| [Pixeltrue](https://www.pixeltrue.com/free-illustrations) |
+| [Isometric](https://isometric.online/) |
+| [WooBro](https://woobro.design/) |
+| [UI Store](https://www.uistore.design/categories/illustrations/) |
+| [UnDraw](https://undraw.co/) |
 
-[Ouch](https://icons8.com/illustrations)  
-
-[DrawKit](https://www.drawkit.io/)  
-
-[Sapiens](https://sapiens.ui8.net/)  
-
-[Open Peeps](https://www.openpeeps.com/)  
-
-[Growww](https://growwwkit.com/illustrations/phonies/)
-
-[Illustrations](https://illlustrations.co/)  
-
-[Vector Creator](https://icons8.com/vector-creator/) 
-
-[Delesign](https://delesign.com/free-designs/graphics)  
-
-[FreeVectors](https://www.freevectors.net/)
-
-[Paper Illustrations](https://iconscout.com/paper-illustrations)  
-
-[Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh)  
-
-[404 illustrations by kapwing](https://www.kapwing.com/404-illustrations)  
-
-[Lukasadam](https://lukaszadam.com/illustrations)  
-
-[Manypixels Illustration Gallery](https://www.manypixels.co/gallery/)  
-
-[IRA Design](https://iradesign.io/)  
-
-[Absurd Design](https://absurd.design/)  
-
-[Humaaans](https://www.humaaans.com/)  
-
-[Toy Faces](https://amritpaldesign.com/toy-faces)  
-
-[Kukla Kit](https://www.kukla-kit.com/)  
-
-[Construtor de Ilustrações](https://itg.digital/)  
-
-[Ara Illustration](https://www.aracreator.com/)
-
-[Storytale.io](https://storytale.io/)  
-
-[Black illustrations](https://www.blackillustrations.com/)  
-
-[Flow Lava](https://flowlava.club/)  
-
-[Control](https://control.rocks/)  
-
-[Stories by Freepik](https://stories.freepik.com/)  
-
-[Blush](https://blush.design/)  
-
-[404 illustrations](https://error404.fun/)  
-
-[Blob Marker](https://www.blobmaker.app/) 
-
-[Scribbles](https://www.scribbbles.design/)  
-
-[Get Waves](https://getwaves.io/)  
-
-[Karthik Srinivas](https://www.karthiksrinivas.in/)  
-
-[Design.ai](https://designs.ai/graphicmaker/) 
-
-[Smash Illustrations](https://usesmash.com/)  
-
-[Undraw](https://undraw.co/)  
-
-[Open Doodles](https://www.opendoodles.com/)  
-
-[Stubborn Generator](https://stubborn.fun/)  
-
-[Freellustrations](https://freellustrations.com/)  
-
-[Free Illustrations](https://freeillustrations.xyz/)
-
-[Fresh Folk](https://fresh-folk.com/)  
-
-[Glaze](https://www.glazestock.com/)  
-
-[Abstrakt](https://www.abstrakt.design/)
-
-[Mixkit Art](https://mixkit.co/free-stock-art/)
-
-[Wannapik](https://www.wannapik.com/)
-
-[Canva](https://www.canva.com/)
-
-[Pixeltrue](https://www.pixeltrue.com/free-illustrations)
-
-[Isometric](https://isometric.online/)
-
-[WooBro](https://woobro.design/)
-
-[UI Store](https://www.uistore.design/categories/illustrations/)
-
-[UnDraw](https://undraw.co/)
 
 ## 😛 Emojis
+
 | Links |
 | -------------- |
 | [EmojiCopy](https://www.emojicopy.com/) |
@@ -179,8 +119,8 @@ Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo qu
 
 ## 👨‍💻 Cursos e Livros
 
-| Descrição      | Tipo (Curso, Livro, etc)           | Certificado | Idioma |
-| -------------- | ---------------------------------- | ----------- | ------ |
+| Links      | Tipo  | Certificado | Idioma |
+| ---------- | ----- | ----------- | ------ |
 | [4noobs](https://github.com/he4rt/4noobs) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
@@ -311,116 +251,81 @@ Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo qu
 
 
 ## 🎨 Paletas de Cores
-[Flat UI](https://flatuicolors.com/)
 
-[Adobe Colors](https://color.adobe.com/pt/create/color-wheel)
+| Links |
+| -------------- |
+| [Flat UI](https://flatuicolors.com/) |
+| [Adobe Colors](https://color.adobe.com/pt/create/color-wheel) |
+| [Material UI Colots](https://materialuicolors.co/) |
+| [Colordot](https://color.hailpixel.com/) |
+| [SpyColor.com](https://www.spycolor.com/) |
+| [UiGradients](https://uigradients.com/#Memariani) |
+| [Paletton](https://paletton.com/) |
+| [Happy Hues](https://www.happyhues.co/) |
+| [Design Seeds](https://www.design-seeds.com/) |
 
-[Material UI Colots](https://materialuicolors.co/)
-
-[Colordot](https://color.hailpixel.com/)
-
-[SpyColor.com](https://www.spycolor.com/)
-
-[UiGradients](https://uigradients.com/#Memariani)
-
-[Paletton](https://paletton.com/)
-
-[Happy Hues](https://www.happyhues.co/)
-
-[Design Seeds](https://www.design-seeds.com/)
 
 ## 🔤 Fontes
-[Google Fonts](https://fonts.google.com/)
 
-[NetFonts](https://www.netfontes.com.br/)
-
-[DaFont](https://www.dafont.com/pt/)
-
-[Font Squirrel](https://www.fontsquirrel.com/)
-
-[1001 Fontes](https://www.1001fonts.com/)
-
-[FontFabric](https://www.fontfabric.com/)
-
-[BeFonts](https://befonts.com/)
-
-[Urbanfonts](https://www.urbanfonts.com/free-fonts.htm)
-
-[Unblast](https://unblast.com/fonts/)
+| Links |
+| -------------- |
+| [Google Fonts](https://fonts.google.com/) |
+| [NetFonts](https://www.netfontes.com.br/) |
+| [DaFont](https://www.dafont.com/pt/) |
+| [Font Squirrel](https://www.fontsquirrel.com/) |
+| [1001 Fontes](https://www.1001fonts.com/) |
+| [FontFabric](https://www.fontfabric.com/) |
+| [BeFonts](https://befonts.com/) |
+| [Urbanfonts](https://www.urbanfonts.com/free-fonts.htm) |
+| [Unblast](https://unblast.com/fonts/) |
 
 ## 🎉 Ícones
-[DrawKit](https://www.drawkit.io/free-icons)
 
-[Simple Icons](https://simpleicons.org/)
-
-[Css.gg](https://css.gg/)  
-
-[Icon Icons](https://icon-icons.com/)  
-
-[Freepik](https://br.freepik.com/)  
-
-[Ikonate](https://ikonate.com/)  
-
-[Tilda Icons](https://tilda.cc/free-icons/)  
-
-[Remix Icon](https://remixicon.com/)  
-
-[Freeicons.io](https://freeicons.io/)  
-
-[Iconfinder](https://www.iconfinder.com/free_icons)  
-
-[Icons8 Icons](https://icons8.com.br/icons)  
-
-[Feather](https://feathericons.com/)
-
-[React Icons](https://react-icons.github.io/react-icons/)
-
-[Iconscout](https://iconscout.com/)  
-
-[Eva Icons](https://akveo.github.io/eva-icons/) 
-
-[Noun Project](https://thenounproject.com/)  
-
-[Ionicons](https://ionicons.com/)  
-
-[Oblador](https://oblador.github.io/react-native-vector-icons/)
-
-[Font Awesome](https://fontawesome.com/)  
-
-[Boxicons](https://boxicons.com/)  
-
-[Shape.so](https://shape.so/)  
-
-[Heroicons](https://heroicons.dev/)  
-
-[Iconsvg](https://iconsvg.xyz/)  
-
-[Streamline UX](https://www.streamlineicons.com/ux/)  
-
-[Steamline Free](https://www.streamlineicons.com/free/)  
-
-[Flaticon](https://www.flaticon.com/packs)  
-
-[Tabler Icons](https://tablericons.com/)  
-
-[Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
-
-[Line Awesome](https://icons8.com/line-awesome)
+| Links |
+| -------------- |
+| [DrawKit](https://www.drawkit.io/free-icons) |
+| [Simple Icons](https://simpleicons.org/) |
+| [Css.gg](https://css.gg/) |  
+| [Icon Icons](https://icon-icons.com/) |  
+| [Freepik](https://br.freepik.com/) |  
+| [Ikonate](https://ikonate.com/) |  
+| [Tilda Icons](https://tilda.cc/free-icons/) |  
+| [Remix Icon](https://remixicon.com/) |  
+| [Freeicons.io](https://freeicons.io/) |  
+| [Iconfinder](https://www.iconfinder.com/free_icons) |  
+| [Icons8 Icons](https://icons8.com.br/icons) |  
+| [Feather](https://feathericons.com/) |
+| [React Icons](https://react-icons.github.io/react-icons/) |
+| [Iconscout](https://iconscout.com/) |  
+| [Eva Icons](https://akveo.github.io/eva-icons/) | 
+| [Noun Project](https://thenounproject.com/) |  
+| [Ionicons](https://ionicons.com/) |  
+| [Oblador](https://oblador.github.io/react-native-vector-icons/) |
+| [Font Awesome](https://fontawesome.com/) |  
+| [Boxicons](https://boxicons.com/) |  
+| [Shape.so](https://shape.so/) |  
+| [Heroicons](https://heroicons.dev/) |  
+| [Iconsvg](https://iconsvg.xyz/) |  
+| [Streamline UX](https://www.streamlineicons.com/ux/) |  
+| [Steamline Free](https://www.streamlineicons.com/free/) |  
+| [Flaticon](https://www.flaticon.com/packs) |  
+| [Tabler Icons](https://tablericons.com/) |  
+| [Newsbi Icon Pack](https://gumroad.com/l/lfdy) |  
+| [Line Awesome](https://icons8.com/line-awesome) |
 
 ## 😺 Animações e Gifs
-[Airbnb](https://airbnb.design/lottie/)
 
-[Giphy](https://giphy.com/)
+| Links |
+| -------------- |
+| [Airbnb](https://airbnb.design/lottie/) |
+| [Giphy](https://giphy.com/) |
+| [Tenos](https://tenor.com/)  |
+| [Repo GitHub](https://github.com/davisonio/awesome-gif#utilities) |
+| [Free FrontEnd](https://freefrontend.com/) |
 
-[Tenos](https://tenor.com/)
-
-[Repo GitHub](https://github.com/davisonio/awesome-gif#utilities)
-
-[Free FrontEnd](https://freefrontend.com/)
 
 <br>[⬆ Voltar ao topo](#-Índice)<br>
 
 ## 🌈 Seja um dos contribuidores<br>
 Quer fazer parte desse projeto? É simples!<br>
 Faça um fork dele e coloque as suas modificações, depois mande um pull request.<br>
-
