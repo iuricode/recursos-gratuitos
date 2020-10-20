@@ -170,13 +170,12 @@ Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo qu
 [UnDraw](https://undraw.co/)
 
 ## 😛 Emojis
-[EmojiCopy](https://www.emojicopy.com/)
-
-[Gitmoji](https://gitmoji.carloscuesta.me/)
-
-[Get Emoji](https://getemoji.com/)
-
-[Stories Freepik](https://stories.freepik.com/)
+| Links |
+| -------------- |
+| [EmojiCopy](https://www.emojicopy.com/) |
+| [Gitmoji](https://gitmoji.carloscuesta.me/) |
+| [Get Emoji](https://getemoji.com/) |
+| [Stories Freepik](https://stories.freepik.com/) |
 
 ## 👨‍💻 Cursos e Livros
 
