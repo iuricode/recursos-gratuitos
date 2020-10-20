@@ -10,7 +10,7 @@ Um repositório com conteúdos gratuitos que te ajudará na criação de sites.
 
 
 <h4 align="center">
-Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus projetos são sempre as mesmas: 'Quais recursos de design usar no projeto e onde encontrá-los?'. 
+Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus projetos é sempre a mesma: "Quais recursos de design usar no projeto e onde encontrá-los?". 
 Então, com essa dúvida criei este repositório como resposta.<br>
 Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo listar conteúdos gratuitos, como livros, cursos, fontes, ilustrações, ícones, imagens, emojis, paleta de cores, animações, gifs e muito mais.
 </h4>
@@ -60,11 +60,11 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 
 [Wunder Stock](https://wunderstock.com/)
 
-[reshot](https://www.reshot.com/)
+[Reshot](https://www.reshot.com/)
 
-[pexels](https://www.pexels.com/pt-br/)
+[Pexels](https://www.pexels.com/pt-br/)
 
-[fake image](https://fakeimg.pl/)
+[Fake image](https://fakeimg.pl/)
 
 ## 🚀 Ilustrações e Vetores
 [Wannapik](https://www.wannapik.com/)
@@ -208,9 +208,8 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [Collabcode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Coursera](https://pt.coursera.org/) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Cursos | Não | <img src="assets/eua.png" width="38px"> |
-| [cursae](https://www.cursae.com.br/)| Cursos | Sim | <img src="assets/br.jpg" width="38px"> |
+| [Cursae](https://www.cursae.com.br/)| Cursos | Sim | <img src="assets/br.jpg" width="38px"> |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="assets/br.jpg" width="38px"> |
-| [Curso em Vídeo (Gustavo Guanabara)](https://www.cursoemvideo.com/) | Youtube | Sim (Pago) | <img src="assets/br.jpg" width="38px"> | 
 | [Data Hackers](https://datahackers.com.br/podcast) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | Site | Sim | <img src="assets/br.jpg" width="38px"> |
@@ -228,7 +227,7 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)| Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) | Youtube/Cursos | Não | <img src="assets/br.jpg" width="38px">  | 
 | [Estratégia Tech](https://anchor.fm/estrategia-tech) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
-| [eXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [EXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [FalaDev](https://pizzadedados.com/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | <img src="assets/br.jpg" width="38px"> | 
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| Não | <img src="assets/br.jpg" width="38px"> |
@@ -237,7 +236,7 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="assets/br.jpg" width="38px"> |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos | Sim | <img src="assets/eua.png" width="38px"> |
-| [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | <img src="assets/br.jpg" width="15px"><img src="assets/eua.png" width="15px"> |
+| [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) | Desafios | Não | <img src="assets/br.jpg" width="20px"><img src="assets/eua.png" width="20px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> |
 | [Future Learn](https://www.futurelearn.com) | Cursos | Não | <img src="assets/eua.png" width="38px"> |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="assets/eua.png" width="38px"> | 
@@ -257,15 +256,15 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Sim | <img src="assets/br.jpg" width="38px"> |
 | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | <img src="assets/eua.png" width="38px"> |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
-| [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | <img src="assets/br.jpg" width="25px">/<img src="assets/eua.png" width="25px"> |
+| [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | <img src="assets/br.jpg" width="20px"><img src="assets/eua.png" width="20px"> |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Loiane Training](https://loiane.training/cursos) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> |  
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
-| [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Nao | <img src="assets/br.jpg" width="38px"> |  
-| [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Nao | <img src="assets/br.jpg" width="38px"> |  
+| [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |  
+| [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |  
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/) | Curso/Youtube | Sim | <img src="assets/br.jpg" width="38px"> | 
-| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Cursos | Não | <img src="assets/br.jpg" width="38px">/<img src="assets/eua.png" width="38px"> |
-| [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Nao | <img src="assets/br.jpg" width="38px"> | 
+| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Cursos | Não | <img src="assets/br.jpg" width="20px"><img src="assets/eua.png" width="20px"> |
+| [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
 | [NodeSchool](https://nodeschool.io/) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |  
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> | 
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
@@ -284,8 +283,8 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/)| Curso/Youtube | Sim | <img src="assets/br.jpg" width="38px"> |
 | [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
 | [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) | Repositório | Não | <img src="assets/br.jpg" width="38px"> |
-| [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | <img src="assets/br.jpg" width="38px"> | 
-| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | <img src="assets/br.jpg" width="38px"> | 
+| [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
 | [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | <img src="assets/br.jpg" width="38px"> |
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube/Cursos | Não | <img src="assets/br.jpg" width="38px"> | 
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube/Cursos | Não | <img src="assets/br.jpg" width="38px"> | 
@@ -301,7 +300,7 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) | Desafios | Não | <img src="assets/br.jpg" width="38px"> |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | Livro | Não | <img src="assets/br.jpg" width="38px"> |
-| [Web skills](https://andreasbm.github.io/web-skills/)| Site | Nao | <img src="assets/eua.png" width="38px"> |
+| [Web skills](https://andreasbm.github.io/web-skills/)| Site | Não | <img src="assets/eua.png" width="38px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso/Udemy | Não | <img src="assets/br.jpg" width="38px"> |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | <img src="assets/br.jpg" width="38px"> |  
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | <img src="assets/eua.png" width="38px"> |  
@@ -426,4 +425,5 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 
 ## 🌈 Seja um dos contribuidores<br>
 Quer fazer parte desse projeto? É simples!<br>
-Faço um Fork nele colocando suas modificações e depois mande uma solicitação.
+Faça um Fork dele e coloque as suas modificações, depois mande um pull request.<br>
+
