@@ -236,70 +236,76 @@ Aqui nós temos tudo que um desenvolvedor precisa. Este repositório tem como ob
 | [Future Learn](https://www.futurelearn.com) | Cursos | Não | <img src="assets/eua.png" width="38px"> |
 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="assets/eua.png" width="38px"> | 
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | <img src="assets/eua.png" width="38px"> | 
-| [High5Devs](http://high5devs.com/) | Blog | Não | PT-BR | 
-| [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | PT-BR | 
-| [HTML Dog](https://htmldog.com/) | Tutoriais | Não | EN | 
-| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN | 
-| [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | Não | PT-BR |
-| [JavaScript for Cats](http://jsforcats.com/) | Tutorial | Não | EN |
-| [JavaScript Katas](https://jskatas.org/ ) | Desafios | Não | EN |
-| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | EN |
-| [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso/Youtube | Sim | PT-BR |
-| [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | PT |
-| [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | PT-BR |
-| [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | PT-BR | 
-| [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Sim | PT |
-| [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | EN |
-| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | PT-BR | 
-| [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | PT-BR/EN |
-| [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | Não | PT-BR |
-| [Loiane Training](https://loiane.training/cursos) | Cursos | Sim | PT-BR |  
-| [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | PT-BR |
-| [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Nao | PT-BR |  
-| [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Nao | PT-BR |  
-| [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/) | Curso/Youtube | Sim | PT-BR | 
-| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Cursos | Não | PT/EN |
-| [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Nao | PT-BR | 
-| [NodeSchool](https://nodeschool.io/) | Cursos | Não | PT-BR |  
-| [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Cursos | Sim | PT-BR | 
-| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | PT-BR | 
-| [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | Livro | Não | PT |
-| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | pt-BR |
-| [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | Não | PT-BR |
-| [Pizza de Dados](https://pizzadedados.com/) | Podcast | Não | PT-BR | 
-| [PodProgramar]( https://mundopodcast.com.br/podprogramar/) | Podcast | Não | PT-BR |
-| [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | Livro | Não | EN | 
-| [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro | Não | PT-BR | 
-| [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis) | Youtube | Não | PT-BR | 
-| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | pt-BR | 
-| [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) | Youtube | Não | PT-BR |
-| [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | Não | PT-BR |
-| [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | PT-BR |
-| [Python Básico](https://solyd.com.br/treinamentos/python-basico/)| Curso/Youtube | Sim | PT-BR |
-| [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | PT-BR | 
-| [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) | Repositório | Não | PT-BR |
-| [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | PT-BR | 
-| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | PT-BR | 
-| [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | PT-BR |
-| [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube/Cursos | Não | PT-BR | 
-| [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube/Cursos | Não | PT-BR | 
-| [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | PT-BR | 
-| [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | PT-BR | 
-| [Test Automation University](https://testautomationu.applitools.com) | Cursos | Sim | EN | 
-| [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | EN |  
-| [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Palestras | Não | EN |
-| [The Odin Project](https://www.theodinproject.com/) | Cursos | Não | EN |
-| [Tim Tec](https://cursos.timtec.com.br/) | Cursos | Sim | PT-BR |
-| [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Cursos | Não | PT-BR |
-| [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Cursos | Não | PT-BR |
-| [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) | Desafios | Não | PT-BR |
-| [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | PT-BR |
-| [Vim para Noobs](https://leanpub.com/vimparanoobs) | Livro | Não | PT-BR |
-| [Web skills](https://andreasbm.github.io/web-skills/)| Site | Nao | EN |
-| [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso/Udemy | Não | PT-BR |
-| [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | PT-BR |  
-| [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | EN |  
-| [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | PT-BR |
+| [High5Devs](http://high5devs.com/) | Blog | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
+| [HTML Dog](https://htmldog.com/) | Tutoriais | Não | <img src="assets/eua.png" width="38px"> | 
+| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | <img src="assets/eua.png" width="38px"> | 
+| [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [JavaScript for Cats](http://jsforcats.com/) | Tutorial | Não | <img src="assets/eua.png" width="38px"> |
+| [JavaScript Katas](https://jskatas.org/ ) | Desafios | Não | <img src="assets/eua.png" width="38px"> |
+| [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | <img src="assets/eua.png" width="38px"> |
+| [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso/Youtube | Sim | <img src="assets/br.jpg" width="38px"> |
+| [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | <img src="assets/br.jpg" width="38px"> |
+| [Jessica Temporal](https://jtemporal.com/ ) | Blog | Não | <img src="assets/br.jpg" width="38px"> |
+| [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Sim | <img src="assets/br.jpg" width="38px"> |
+| [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Cursos | Sim | <img src="assets/eua.png" width="38px"> |
+| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Leticia Portella](https://leportella.com/pt-br) | Blog | Não | <img src="assets/br.jpg" width="25px">/<img src="assets/eua.png" width="25px"> |
+| [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Loiane Training](https://loiane.training/cursos) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> |  
+| [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Nao | <img src="assets/br.jpg" width="38px"> |  
+| [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Nao | <img src="assets/br.jpg" width="38px"> |  
+| [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/) | Curso/Youtube | Sim | <img src="assets/br.jpg" width="38px"> | 
+| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Cursos | Não | <img src="assets/br.jpg" width="38px">/<img src="assets/eua.png" width="38px"> |
+| [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Nao | <img src="assets/br.jpg" width="38px"> | 
+| [NodeSchool](https://nodeschool.io/) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |  
+| [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> | 
+| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
+| [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | Livro | Não | <img src="assets/br.jpg" width="38px"> |
+| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Pizza de Dados](https://pizzadedados.com/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
+| [PodProgramar]( https://mundopodcast.com.br/podprogramar/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> |
+| [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | Livro | Não | <img src="assets/eua.png" width="38px"> | 
+| [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | Livro | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
+| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Python Básico](https://solyd.com.br/treinamentos/python-basico/)| Curso/Youtube | Sim | <img src="assets/br.jpg" width="38px"> |
+| [Python Pro](https://www.youtube.com/user/renzonuccitelli) | Youtube | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) | Repositório | Não | <img src="assets/br.jpg" width="38px"> |
+| [Regis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ) | Youtube | NÃO | <img src="assets/br.jpg" width="38px"> | 
+| [Ricardo Sanches](https://www.youtube.com/user/RicVSanches) | Youtube | NÃO | <img src="assets/br.jpg" width="38px"> | 
+| [Rocketseat](https://rocketseat.com.br) | Youtube/Cursos/Podcast/Blog | Não | <img src="assets/br.jpg" width="38px"> |
+| [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube/Cursos | Não | <img src="assets/br.jpg" width="38px"> | 
+| [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube/Cursos | Não | <img src="assets/br.jpg" width="38px"> | 
+| [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> | 
+| [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> | 
+| [Test Automation University](https://testautomationu.applitools.com) | Cursos | Sim | <img src="assets/eua.png" width="38px"> | 
+| [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | <img src="assets/eua.png" width="38px"> |  
+| [The Conf InfoQ](https://www.infoq.com/br/the_conf/) | Palestras | Não | <img src="assets/eua.png" width="38px"> |
+| [The Odin Project](https://www.theodinproject.com/) | Cursos | Não | <img src="assets/eua.png" width="38px"> |
+| [Tim Tec](https://cursos.timtec.com.br/) | Cursos | Sim | <img src="assets/br.jpg" width="38px"> |
+| [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |
+| [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |
+| [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) | Desafios | Não | <img src="assets/br.jpg" width="38px"> |
+| [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Vim para Noobs](https://leanpub.com/vimparanoobs) | Livro | Não | <img src="assets/br.jpg" width="38px"> |
+| [Web skills](https://andreasbm.github.io/web-skills/)| Site | Nao | <img src="assets/eua.png" width="38px"> |
+| [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso/Udemy | Não | <img src="assets/br.jpg" width="38px"> |
+| [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | <img src="assets/br.jpg" width="38px"> |  
+| [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | <img src="assets/eua.png" width="38px"> |  
+| [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | Livro| Não | <img src="assets/eua.png" width="38px"> |
+| [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML5](https://drive.google.com/file/d/1QSU3Pl4U5kVL8fiHbl_n1F2zfbOjRzek/view?usp=sharing) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML the missing manual ](https://drive.google.com/file/d/1FwSmlKTHrJ9xSzcyhNby8RlRxY2ED1wz/view?usp=sharingg) | Livro| Não | <img src="assets/eua.png" width="38px"> |
 
 
 ## 🎨 Paletas de Cores
