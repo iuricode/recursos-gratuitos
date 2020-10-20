@@ -1,5 +1,5 @@
 <h1 align="center">
-🌈<br> Conteúdos gratuitos para sites
+  🌈<br>CONTEÚDOS GRATUITOS PARA SITES
 </h1>
 
 <h4 align="center">
@@ -11,15 +11,15 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 
 ## 📕 Índice
 
-🖼️ [Imagens](#-imagens)<br>
-🚀 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
-😛 [Emojis](#-emojis)<br>
-📚 [Livros](#-livros)<br>
-👨‍💻 [Cursos](#-cursos)<br>
-🎨 [Paletas de Cores](#-paletas-de-cores)<br>
-🔤 [Fontes](#-fontes)<br>
-🎉 [Ícones](#-ícones)<br>
-😺 [Animações e Gifs](#-animações-e-gifs)<br>
+📌 [Imagens](#-imagens)<br>
+📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
+📌 [Emojis](#-emojis)<br>
+📌 [Livros](#-livros)<br>
+📌 [Cursos](#-cursos)<br>
+📌 [Paletas de Cores](#-paletas-de-cores)<br>
+📌 [Fontes](#-fontes)<br>
+📌 [Ícones](#-ícones)<br>
+📌 [Animações e Gifs](#-animações-e-gifs)<br>
 
 
 ## 🖼️ Imagens
@@ -191,7 +191,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |  
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |  
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> | 
-| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Curso | Não | <img src="assets/br.jpg" width="20px"><img src="assets/eua.png" width="20px"> |
+| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Curso | Não | <img src="assets/br.jpg" width="20px"> |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Não | <img src="assets/br.jpg" width="40px"> | 
 | [NodeSchool](https://nodeschool.io/) | Curso | Não | <img src="assets/br.jpg" width="40px"> |  
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> | 
