@@ -186,6 +186,7 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | -------------- | ---------------------------------- | ----------- | ------ |
 | [4noobs](https://github.com/he4rt/4noobs) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
+| [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
 | [Balta.io](https://balta.io/cursos) | Cursos | Não | <img src="assets/br.jpg" width="38px"> |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | <img src="assets/eua.png" width="38px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
@@ -243,7 +244,12 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [Hacker Rank](https://www.hackerrank.com/) | Desafios | Não | <img src="assets/eua.png" width="38px"> | 
 | [High5Devs](http://high5devs.com/) | Blog | Não | <img src="assets/br.jpg" width="38px"> | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Podcast | Não | <img src="assets/br.jpg" width="38px"> | 
-| [HTML Dog](https://htmldog.com/) | Tutoriais | Não | <img src="assets/eua.png" width="38px"> | 
+| [HTML Dog](https://htmldog.com/) | Tutoriais | Não | <img src="assets/eua.png" width="38px"> |
+| [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | Livro| Não | <img src="assets/eua.png" width="38px"> |
+| [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML5](https://drive.google.com/file/d/1QSU3Pl4U5kVL8fiHbl_n1F2zfbOjRzek/view?usp=sharing) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
+| [HTML the missing manual ](https://drive.google.com/file/d/1FwSmlKTHrJ9xSzcyhNby8RlRxY2ED1wz/view?usp=sharingg) | Livro| Não | <img src="assets/eua.png" width="38px"> |
 | [Interneting is Hard](https://www.internetingishard.com/ ) | Tutorial | Não | <img src="assets/eua.png" width="38px"> | 
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | Não | <img src="assets/br.jpg" width="38px"> |
 | [JavaScript for Cats](http://jsforcats.com/) | Tutorial | Não | <img src="assets/eua.png" width="38px"> |
@@ -305,12 +311,6 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro | Não | <img src="assets/br.jpg" width="38px"> |  
 | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | Livro | Não | <img src="assets/eua.png" width="38px"> |  
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | <img src="assets/br.jpg" width="38px"> |
-| [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
-| [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
-| [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | Livro| Não | <img src="assets/eua.png" width="38px"> |
-| [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
-| [HTML5](https://drive.google.com/file/d/1QSU3Pl4U5kVL8fiHbl_n1F2zfbOjRzek/view?usp=sharing) | Livro| Não | <img src="assets/br.jpg" width="38px"> |
-| [HTML the missing manual ](https://drive.google.com/file/d/1FwSmlKTHrJ9xSzcyhNby8RlRxY2ED1wz/view?usp=sharingg) | Livro| Não | <img src="assets/eua.png" width="38px"> |
 
 
 ## 🎨 Paletas de Cores
@@ -425,5 +425,5 @@ Aqui tem tudo que um desenvolvedor precisa. Este repositório tem como objetivo 
 
 ## 🌈 Seja um dos contribuidores<br>
 Quer fazer parte desse projeto? É simples!<br>
-Faça um Fork dele e coloque as suas modificações, depois mande um pull request.<br>
+Faça um fork dele e coloque as suas modificações, depois mande um pull request.<br>
 
