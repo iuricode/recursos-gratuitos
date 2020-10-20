@@ -326,6 +326,36 @@ Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo qu
 
 <br>[⬆ Voltar ao topo](#-Índice)<br>
 
-## 🌈 Seja um dos contribuidores<br>
+## 🌈 Contribuidores<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/iuricode">
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/walysonfelipe">
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
+        <sub>
+          <b><<!---->Waly></b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joaomaranhao">
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
+        <sub>
+          <b>João Maranhão</b>
+        </sub>
+      </a><br>
+    </td>
+  </tr>
+</table>
+
+## ⛩ Seja um dos contribuidores<br>
 Quer fazer parte desse projeto? É simples!<br>
 Faça um fork dele e coloque as suas modificações, depois mande um pull request.<br>
