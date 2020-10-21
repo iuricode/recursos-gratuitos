@@ -141,6 +141,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | ---------- | ----- | ----------- | ------ |
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
+| [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Balta.io](https://balta.io/cursos) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="assets/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
@@ -160,6 +161,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Curso | Não | <img src="assets/eua.png" width="40px"> |
 | [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="assets/br.jpg" width="40px"> |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="assets/br.jpg" width="40px"> |
+| [Curso em Vídeo](https://https://www.cursoemvideo.com//) | Curso | Sim | <img src="assets/br.jpg" width="40px"> |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="assets/br.jpg" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
