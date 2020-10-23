@@ -31,18 +31,6 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Unsplash](https://unsplash.com/) | <img src="assets/eua.png" width="40px"> |
 | [Behance](https://www.behance.net/galleries/illustration) | <img src="assets/br.jpg" width="40px"> |
 | [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px"> |
-
-1
-
-<h1 align="center">
-
-2
-
-  🌈<br>Conteúdos gratuitos para sites
-
-3
-
-</h1>
 | [IStock](https://www.istockphoto.com/) | <img src="assets/br.jpg" width="40px"> | 
 | [StockSnap.io](https://stocksnap.io/) | <img src="assets/eua.png" width="40px"> |
 | [Gratisgraphy](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
