@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌈<br>CONTEÚDOS GRATUITOS PARA SITES
+  🌈<br>Conteúdos gratuitos para sites
 </h1>
 
 <h4 align="center">
@@ -9,7 +9,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 <img src="./assets/banner.png">
 
 
-## 📕 Índice
+## 📕 Índice 1
 
 📌 [Imagens](#-imagens)<br>
 📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
@@ -31,6 +31,18 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Unsplash](https://unsplash.com/) | <img src="assets/eua.png" width="40px"> |
 | [Behance](https://www.behance.net/galleries/illustration) | <img src="assets/br.jpg" width="40px"> |
 | [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px"> |
+
+1
+
+<h1 align="center">
+
+2
+
+  🌈<br>Conteúdos gratuitos para sites
+
+3
+
+</h1>
 | [IStock](https://www.istockphoto.com/) | <img src="assets/br.jpg" width="40px"> | 
 | [StockSnap.io](https://stocksnap.io/) | <img src="assets/eua.png" width="40px"> |
 | [Gratisgraphy](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
@@ -183,16 +195,19 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="assets/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
 
-<br>[⬆ Voltar ao índice](#-índice)<br>
+<br>[⬆ Voltar ao índice](#-índice-1)<br>
 
 ---
 
 <h1 align="center">
-  🌈<br>MATERIAIS GRATUITOS PARA ESTUDOS
+  🌈<br>Materiais gratuitos para estudos
 </h1>
 
 
-## 📕 Índice
+<img src="./assets/banner2.png">
+
+
+## 📕 Índice 2
 
 📌 [Livros](#-livros)<br>
 📌 [Cursos](#-cursos)<br>
@@ -345,7 +360,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Web skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
 
 
-<br>[⬆ Voltar ao índice](#-índice)<br>
+<br>[⬆ Voltar ao índice](#-índice-2)<br>
 
 ---
 
