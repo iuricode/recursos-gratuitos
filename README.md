@@ -23,7 +23,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 🖼️ Imagens
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Wunderstock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
 | [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> |
 | [Pixabay](https://pixabay.com/) | <img src="assets/eua.png" width="40px"> |
@@ -47,7 +47,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 🚀 Ilustrações e Vetores
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Wannapik](https://www.wannapik.com/) | <img src="assets/eua.png" width="40px"> |
 | [Facebook Design](https://facebook.design/) | <img src="assets/eua.png" width="40px"> |
 | [Ouch](https://icons8.com.br/illustrations) | <img src="assets/br.jpg" width="40px"> |
@@ -104,7 +104,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 😛 Emojis
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [EmojiCopy](https://www.emojicopy.com/) | <img src="assets/eua.png" width="40px"> |
 | [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="assets/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="assets/eua.png" width="40px"> |
@@ -114,7 +114,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 🎨 Paletas de Cores
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Flat UI](https://flatuicolors.com/) | <img src="assets/eua.png" width="40px"> |
 | [Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="assets/br.jpg" width="40px"> |
 | [Material UI Colots](https://materialuicolors.co/) | <img src="assets/eua.png" width="40px"> |
@@ -129,7 +129,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 🔤 Fontes
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Google Fonts](https://fonts.google.com/) | <img src="assets/eua.png" width="40px"> |
 | [NetFonts](https://www.netfontes.com.br/) | <img src="assets/br.jpg" width="40px"> |
 | [DaFont](https://www.dafont.com/pt/) | <img src="assets/br.jpg" width="40px"> |
@@ -143,7 +143,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 🎉 Ícones
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [DrawKit](https://www.drawkit.io/free-icons) | <img src="assets/eua.png" width="40px"> |
 | [Simple Icons](https://simpleicons.org/) | <img src="assets/eua.png" width="40px"> |
 | [Css.gg](https://css.gg/) | <img src="assets/eua.png" width="40px"> |
@@ -176,7 +176,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 😺 Animações e Gifs
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Airbnb](https://airbnb.design/lottie/) | <img src="assets/eua.png" width="40px"> |
 | [Giphy](https://giphy.com/) | <img src="assets/eua.png" width="40px"> |
 | [Tenos](https://tenor.com/) | <img src="assets/eua.png" width="40px"> |
@@ -206,7 +206,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 📚 Livros
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="assets/br.jpg" width="40px"> |
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="assets/eua.png" width="40px"> |
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | <img src="assets/br.jpg" width="40px"> | 
@@ -228,7 +228,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 👨‍💻 Cursos
 
 | Links      | Tipo  | Certificado | Idioma |
-| ---------- | ----- | ----------- | ------ |
+| :----------: | :------: | :----------: | :------: |
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
@@ -318,7 +318,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 🎤 Podcasts
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="assets/br.jpg" width="40px"> |
 | [Data Hackers](https://datahackers.com.br/podcast) | <img src="assets/br.jpg" width="40px"> | 
 | [Dev na Estrada](https://devnaestrada.com.br/) | <img src="assets/br.jpg" width="40px"> |
@@ -333,7 +333,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 💻 Sites e Blogs
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="assets/br.jpg" width="40px">|
 | [Eddabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> | 
 | [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="assets/br.jpg" width="40px"> |
