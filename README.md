@@ -183,7 +183,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="assets/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
 
-<br>[⬆ Voltar ao topo](#-índice)<br>
+<br>[⬆ Voltar ao índice](#-índice)<br>
 
 ---
 
@@ -196,6 +196,8 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 
 📌 [Livros](#-livros)<br>
 📌 [Cursos](#-cursos)<br>
+📌 [Podcasts](#-podcasts)<br>
+📌 [Sites e Blogs](#-sites-e-blogs)<br>
 
 
 ## 📚 Livros
@@ -336,7 +338,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> |
 | [Web skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
 
-<br>[⬆ Voltar ao topo](#-índice)<br>
+<br>[⬆ Voltar ao índice](#-índice)<br>
 
 ---
 
