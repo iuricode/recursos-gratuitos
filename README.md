@@ -185,6 +185,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 
 <br>[⬆ Voltar ao topo](#-índice)<br>
 
+---
 
 <h1 align="center">
   🌈<br>MATERIAIS GRATUITOS PARA ESTUDOS
@@ -308,8 +309,36 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso | Não | <img src="assets/br.jpg" width="40px"> | 
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | <img src="assets/br.jpg" width="40px"> |
 
+
+## 🎤 Podcasts
+
+| Links      | Idioma |
+| ---------- | ------ |
+| [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="assets/br.jpg" width="40px"> |
+| [Data Hackers](https://datahackers.com.br/podcast) | <img src="assets/br.jpg" width="40px"> | 
+| [Dev na Estrada](https://devnaestrada.com.br/) | <img src="assets/br.jpg" width="40px"> |
+| [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="assets/br.jpg" width="40px"> | 
+| [Hipsters Ponto Tech](https://hipsters.tech/) | <img src="assets/br.jpg" width="40px"> | 
+| [FalaDev](https://pizzadedados.com/) | <img src="assets/br.jpg" width="40px"> | 
+| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="assets/br.jpg" width="40px"> | 
+| [Pizza de Dados](https://pizzadedados.com/) | <img src="assets/br.jpg" width="40px"> | 
+| [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="assets/br.jpg" width="40px"> |
+
+
+## 💻 Sites e Blogs
+
+| Links      | Idioma |
+| ---------- | ------ |
+| [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="assets/br.jpg" width="40px">|
+| [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="assets/br.jpg" width="40px"> | 
+| [High5Devs](http://high5devs.com/) | <img src="assets/br.jpg" width="40px"> |
+| [Jessica Temporal](https://jtemporal.com/ ) | <img src="assets/br.jpg" width="40px"> |
+| [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> |
+| [Web skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
+
 <br>[⬆ Voltar ao topo](#-índice)<br>
 
+---
 
 ## 🌈 Contribuidores<br>
 <table>
