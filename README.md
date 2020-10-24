@@ -34,7 +34,7 @@
 | [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px"> |
 | [IStock](https://www.istockphoto.com/) | <img src="assets/br.jpg" width="40px"> | 
 | [StockSnap.io](https://stocksnap.io/) | <img src="assets/eua.png" width="40px"> |
-| [Gratisgraphy](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
+| [Gratisography](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
 | [Pinterest](https://br.pinterest.com/) | <img src="assets/br.jpg" width="40px"> |
 | [Burst](https://burst.shopify.com/free-images) | <img src="assets/eua.png" width="40px"> |
 | [StockFreeImages](https://www.stockfreeimages.com/) | <img src="assets/eua.png" width="40px"> |
@@ -42,7 +42,6 @@
 | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="assets/br.jpg" width="40px"> |
 | [Wunder Stock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
 | [Reshot](https://www.reshot.com/) | <img src="assets/eua.png" width="40px"> |
-| [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> |
 | [Fake image](https://fakeimg.pl/) | <img src="assets/eua.png" width="40px"> |
 
 ## 🚀 Ilustrações e Vetores
@@ -63,7 +62,7 @@
 | [Paper Illustrations](https://iconscout.com/paper-illustrations) | <img src="assets/eua.png" width="40px"> |  
 | [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) | <img src="assets/eua.png" width="40px"> |  
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="assets/eua.png" width="40px"> | 
-| [Lukasadam](https://lukaszadam.com/illustrations) | <img src="assets/eua.png" width="40px"> |
+| [Lukasz Adam](https://lukaszadam.com/illustrations) | <img src="assets/eua.png" width="40px"> |
 | [Manypixels Illustration Gallery](https://www.manypixels.co/gallery/) | <img src="assets/eua.png" width="40px"> |
 | [IRA Design](https://iradesign.io/) | <img src="assets/eua.png" width="40px"> |
 | [Absurd Design](https://absurd.design/) | <img src="assets/eua.png" width="40px"> |
@@ -92,8 +91,7 @@
 | [Fresh Folk](https://fresh-folk.com/) | <img src="assets/eua.png" width="40px"> |   
 | [Glaze](https://www.glazestock.com/) | <img src="assets/eua.png" width="40px"> |   
 | [Abstrakt](https://www.abstrakt.design/) | <img src="assets/eua.png" width="40px"> | 
-| [Mixkit Art](https://mixkit.co/free-stock-art/) | <img src="assets/eua.png" width="40px"> | 
-| [Wannapik](https://www.wannapik.com/) | <img src="assets/eua.png" width="40px"> | 
+| [Mixkit Art](https://mixkit.co/free-stock-art/) | <img src="assets/eua.png" width="40px"> |
 | [Canva](https://www.canva.com/) | <img src="assets/br.jpg" width="40px"> |
 | [Pixeltrue](https://www.pixeltrue.com/free-illustrations) | <img src="assets/eua.png" width="40px"> | 
 | [Isometric](https://isometric.online/) | <img src="assets/eua.png" width="40px"> | 
@@ -118,7 +116,7 @@
 | :----------: | :------: |
 | [Flat UI](https://flatuicolors.com/) | <img src="assets/eua.png" width="40px"> |
 | [Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="assets/br.jpg" width="40px"> |
-| [Material UI Colots](https://materialuicolors.co/) | <img src="assets/eua.png" width="40px"> |
+| [Material UI Colors](https://materialuicolors.co/) | <img src="assets/eua.png" width="40px"> |
 | [Colordot](https://color.hailpixel.com/) | <img src="assets/eua.png" width="40px"> |
 | [SpyColor.com](https://www.spycolor.com/) | <img src="assets/eua.png" width="40px"> |
 | [UiGradients](https://uigradients.com/#Memariani) | <img src="assets/eua.png" width="40px"> |
@@ -135,7 +133,7 @@
 | [NetFonts](https://www.netfontes.com.br/) | <img src="assets/br.jpg" width="40px"> |
 | [DaFont](https://www.dafont.com/pt/) | <img src="assets/br.jpg" width="40px"> |
 | [Font Squirrel](https://www.fontsquirrel.com/) | <img src="assets/eua.png" width="40px"> |
-| [1001 Fontes](https://www.1001fonts.com/) | <img src="assets/eua.png" width="40px"> |
+| [1001 Fonts](https://www.1001fonts.com/) | <img src="assets/eua.png" width="40px"> |
 | [FontFabric](https://www.fontfabric.com/) | <img src="assets/eua.png" width="40px"> |
 | [BeFonts](https://befonts.com/) | <img src="assets/eua.png" width="40px"> |
 | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="assets/br.jpg" width="40px"> |
@@ -168,7 +166,7 @@
 | [Heroicons](https://heroicons.dev/) | <img src="assets/eua.png" width="40px"> |  
 | [Iconsvg](https://iconsvg.xyz/) | <img src="assets/eua.png" width="40px"> |  
 | [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="assets/eua.png" width="40px"> |  
-| [Steamline Free](https://www.streamlineicons.com/free/) | <img src="assets/eua.png" width="40px"> |  
+| [Streamline Free](https://www.streamlineicons.com/free/) | <img src="assets/eua.png" width="40px"> |  
 | [Flaticon](https://www.flaticon.com/br/) | <img src="assets/br.jpg" width="40px"> | 
 | [Tabler Icons](https://tablericons.com/) | <img src="assets/eua.png" width="40px"> |  
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="assets/eua.png" width="40px"> |  
@@ -180,7 +178,7 @@
 | :----------: | :------: |
 | [Airbnb](https://airbnb.design/lottie/) | <img src="assets/eua.png" width="40px"> |
 | [Giphy](https://giphy.com/) | <img src="assets/eua.png" width="40px"> |
-| [Tenos](https://tenor.com/) | <img src="assets/eua.png" width="40px"> |
+| [Tenor](https://tenor.com/) | <img src="assets/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="assets/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
 
@@ -237,7 +235,7 @@
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="assets/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
-| [CaveriaTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
+| [CaveiraTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Codando](https://codando.org/material-gratuito/) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
@@ -266,7 +264,7 @@
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| Não | <img src="assets/br.jpg" width="40px"> |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | <img src="assets/br.jpg" width="40px"> | 
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Curso | Sim | <img src="assets/br.jpg" width="40px"> | |
-| [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
+| [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="assets/eua.png" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="assets/br.jpg" width="40px"> |
@@ -325,7 +323,7 @@
 | [Dev na Estrada](https://devnaestrada.com.br/) | <img src="assets/br.jpg" width="40px"> |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="assets/br.jpg" width="40px"> | 
 | [Hipsters Ponto Tech](https://hipsters.tech/) | <img src="assets/br.jpg" width="40px"> | 
-| [FalaDev](https://pizzadedados.com/) | <img src="assets/br.jpg" width="40px"> | 
+| [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) | <img src="assets/br.jpg" width="40px"> | 
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="assets/br.jpg" width="40px"> | 
 | [Pizza de Dados](https://pizzadedados.com/) | <img src="assets/br.jpg" width="40px"> | 
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="assets/br.jpg" width="40px"> |
@@ -336,7 +334,7 @@
 | Links      | Idioma |
 | :----------: | :------: |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="assets/br.jpg" width="40px">|
-| [Eddabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> | 
+| [Edabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> | 
 | [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="assets/br.jpg" width="40px"> |
 | [High5Devs](http://high5devs.com/) | <img src="assets/br.jpg" width="40px"> |
 | [HTML Dog](https://htmldog.com/) | <img src="assets/eua.png" width="40px"> |
@@ -346,7 +344,7 @@
 | [Jessica Temporal](https://jtemporal.com/ ) | <img src="assets/br.jpg" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> |
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="assets/br.jpg" width="40px">|
-| [Web skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
+| [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
 
 
 <br>[⬆ Voltar ao índice](#-índice-2)<br>
