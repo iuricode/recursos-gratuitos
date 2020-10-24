@@ -1,10 +1,11 @@
+> Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>.
+> Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
+
+---
+
 <h1 align="center">
   🌈<br>Conteúdos gratuitos para sites
 </h1>
-
-<h4 align="center">
-Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sempre a mesma: <i>Quais recursos de design usar no projeto e onde encontrá-los?</i>. Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para criar seus sites.
-</h4>
 
 <img src="./assets/banner.png">
 
