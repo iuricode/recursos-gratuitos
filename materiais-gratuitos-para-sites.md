@@ -8,7 +8,7 @@
 ## 📕 Índice
 
 
-<a href="./materiais-gratuitos-para-sites.md#-indice"> 📌 oi </a>
+<a href="materiais-gratuitos-para-sites.md#-indice"> 📌 oi </a>
 
 
 
