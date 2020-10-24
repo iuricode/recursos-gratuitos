@@ -8,7 +8,7 @@
 ## 📕 Índice
 
 
-<a href="https://github.com/walysonfelipe/recursos-gratuitos/blob/master/materiais-gratuitos-para-sites.md#-indice"> 📌 oi </a>
+<a href="./materiais-gratuitos-para-sites.md#-indice"> 📌 oi </a>
 
 
 
