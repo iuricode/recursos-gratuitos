@@ -205,10 +205,11 @@
 | Links      | Idioma |
 | :----------: | :------: |
 | [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="assets/br.jpg" width="40px"> |
+| [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="assets/br.jpg" width="40px"> | 
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="assets/eua.png" width="40px"> |
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | <img src="assets/br.jpg" width="40px"> | 
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="assets/eua.png" width="40px"> | 
-| [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/) | <img src="assets/br.jpg" width="40px"> |
+| [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="assets/br.jpg" width="40px"> |
 | [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | <img src="assets/eua.png" width="40px"> |
 | [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="assets/br.jpg" width="40px"> |
 | [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | <img src="assets/br.jpg" width="40px"> |
