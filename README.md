@@ -1,31 +1,28 @@
-<h1 align="center">
-🌈<br> Conteúdos gratuitos para sites
-</h1>
+> Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>.
+> Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
 
-<h4 align="center">
-Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sempre a mesma: <i>Quais recursos de design usar no projeto e onde encontrá-los?</i>. Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para criar seus sites.
-</h4>
+<h1 align="center">
+  🌈<br>Conteúdos gratuitos para sites
+</h1>
 
 <img src="./assets/banner.png">
 
 
-## 📕 Índice
+## 📕 Índice 1
 
-🖼️ [Imagens](#-imagens)<br>
-🚀 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
-😛 [Emojis](#-emojis)<br>
-📚 [Livros](#-livros)<br>
-👨‍💻 [Cursos](#-cursos)<br>
-🎨 [Paletas de Cores](#-paletas-de-cores)<br>
-🔤 [Fontes](#-fontes)<br>
-🎉 [Ícones](#-ícones)<br>
-😺 [Animações e Gifs](#-animações-e-gifs)<br>
+📌 [Imagens](#-imagens)<br>
+📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
+📌 [Emojis](#-emojis)<br>
+📌 [Paletas de Cores](#-paletas-de-cores)<br>
+📌 [Fontes](#-fontes)<br>
+📌 [Ícones](#-ícones)<br>
+📌 [Animações e Gifs](#-animações-e-gifs)<br>
 
 
 ## 🖼️ Imagens
 
-| Links      | Idioma |
-| ---------- | ------ |
+| Links      | Idioma | Links | Idioma |
+| :----------: | :------: |
 | [Wunderstock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
 | [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> |
 | [Pixabay](https://pixabay.com/) | <img src="assets/eua.png" width="40px"> |
@@ -35,7 +32,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px"> |
 | [IStock](https://www.istockphoto.com/) | <img src="assets/br.jpg" width="40px"> | 
 | [StockSnap.io](https://stocksnap.io/) | <img src="assets/eua.png" width="40px"> |
-| [Gratisgraphy](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
+| [Gratisography](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
 | [Pinterest](https://br.pinterest.com/) | <img src="assets/br.jpg" width="40px"> |
 | [Burst](https://burst.shopify.com/free-images) | <img src="assets/eua.png" width="40px"> |
 | [StockFreeImages](https://www.stockfreeimages.com/) | <img src="assets/eua.png" width="40px"> |
@@ -43,14 +40,12 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="assets/br.jpg" width="40px"> |
 | [Wunder Stock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
 | [Reshot](https://www.reshot.com/) | <img src="assets/eua.png" width="40px"> |
-| [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> |
 | [Fake image](https://fakeimg.pl/) | <img src="assets/eua.png" width="40px"> |
-
 
 ## 🚀 Ilustrações e Vetores
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Wannapik](https://www.wannapik.com/) | <img src="assets/eua.png" width="40px"> |
 | [Facebook Design](https://facebook.design/) | <img src="assets/eua.png" width="40px"> |
 | [Ouch](https://icons8.com.br/illustrations) | <img src="assets/br.jpg" width="40px"> |
@@ -65,7 +60,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Paper Illustrations](https://iconscout.com/paper-illustrations) | <img src="assets/eua.png" width="40px"> |  
 | [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) | <img src="assets/eua.png" width="40px"> |  
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="assets/eua.png" width="40px"> | 
-| [Lukasadam](https://lukaszadam.com/illustrations) | <img src="assets/eua.png" width="40px"> |
+| [Lukasz Adam](https://lukaszadam.com/illustrations) | <img src="assets/eua.png" width="40px"> |
 | [Manypixels Illustration Gallery](https://www.manypixels.co/gallery/) | <img src="assets/eua.png" width="40px"> |
 | [IRA Design](https://iradesign.io/) | <img src="assets/eua.png" width="40px"> |
 | [Absurd Design](https://absurd.design/) | <img src="assets/eua.png" width="40px"> |
@@ -94,34 +89,127 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Fresh Folk](https://fresh-folk.com/) | <img src="assets/eua.png" width="40px"> |   
 | [Glaze](https://www.glazestock.com/) | <img src="assets/eua.png" width="40px"> |   
 | [Abstrakt](https://www.abstrakt.design/) | <img src="assets/eua.png" width="40px"> | 
-| [Mixkit Art](https://mixkit.co/free-stock-art/) | <img src="assets/eua.png" width="40px"> | 
-| [Wannapik](https://www.wannapik.com/) | <img src="assets/eua.png" width="40px"> | 
+| [Mixkit Art](https://mixkit.co/free-stock-art/) | <img src="assets/eua.png" width="40px"> |
 | [Canva](https://www.canva.com/) | <img src="assets/br.jpg" width="40px"> |
 | [Pixeltrue](https://www.pixeltrue.com/free-illustrations) | <img src="assets/eua.png" width="40px"> | 
 | [Isometric](https://isometric.online/) | <img src="assets/eua.png" width="40px"> | 
 | [WooBro](https://woobro.design/) | <img src="assets/eua.png" width="40px"> | 
-| [UI Store](https://www.uistore.design/categories/illustrations/) | <img src="assets/eua.png" width="40px"> | 
+| [UI Store](https://www.uistore.design/categories/illustrations/) | <img src="assets/eua.png" width="40px"> |
+| [Free vectors](https://all-free-download.com/) | <img src="assets/eua.png" width="40px"> |
 
 
 ## 😛 Emojis
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [EmojiCopy](https://www.emojicopy.com/) | <img src="assets/eua.png" width="40px"> |
 | [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="assets/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="assets/eua.png" width="40px"> |
 | [Stories Freepik](https://stories.freepik.com/) | <img src="assets/eua.png" width="40px"> |
 
 
+## 🎨 Paletas de Cores
+
+| Links      | Idioma |
+| :----------: | :------: |
+| [Flat UI](https://flatuicolors.com/) | <img src="assets/eua.png" width="40px"> |
+| [Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="assets/br.jpg" width="40px"> |
+| [Material UI Colors](https://materialuicolors.co/) | <img src="assets/eua.png" width="40px"> |
+| [Colordot](https://color.hailpixel.com/) | <img src="assets/eua.png" width="40px"> |
+| [SpyColor.com](https://www.spycolor.com/) | <img src="assets/eua.png" width="40px"> |
+| [UiGradients](https://uigradients.com/#Memariani) | <img src="assets/eua.png" width="40px"> |
+| [Paletton](https://paletton.com/) | <img src="assets/eua.png" width="40px"> |
+| [Happy Hues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
+| [Design Seeds](https://www.design-seeds.com/) | <img src="assets/eua.png" width="40px"> |
+
+
+## 🔤 Fontes
+
+| Links      | Idioma |
+| :----------: | :------: |
+| [Google Fonts](https://fonts.google.com/) | <img src="assets/eua.png" width="40px"> |
+| [NetFonts](https://www.netfontes.com.br/) | <img src="assets/br.jpg" width="40px"> |
+| [DaFont](https://www.dafont.com/pt/) | <img src="assets/br.jpg" width="40px"> |
+| [Font Squirrel](https://www.fontsquirrel.com/) | <img src="assets/eua.png" width="40px"> |
+| [1001 Fonts](https://www.1001fonts.com/) | <img src="assets/eua.png" width="40px"> |
+| [FontFabric](https://www.fontfabric.com/) | <img src="assets/eua.png" width="40px"> |
+| [BeFonts](https://befonts.com/) | <img src="assets/eua.png" width="40px"> |
+| [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="assets/br.jpg" width="40px"> |
+| [Unblast](https://unblast.com/fonts/) | <img src="assets/eua.png" width="40px"> |
+
+## 🎉 Ícones
+
+| Links      | Idioma |
+| :----------: | :------: |
+| [DrawKit](https://www.drawkit.io/free-icons) | <img src="assets/eua.png" width="40px"> |
+| [Simple Icons](https://simpleicons.org/) | <img src="assets/eua.png" width="40px"> |
+| [Css.gg](https://css.gg/) | <img src="assets/eua.png" width="40px"> |
+| [Icon Icons](https://icon-icons.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Freepik](https://br.freepik.com/) | <img src="assets/br.jpg" width="40px"> | 
+| [Ikonate](https://ikonate.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Tilda Icons](https://tilda.cc/free-icons/) | <img src="assets/eua.png" width="40px"> |  
+| [Remix Icon](https://remixicon.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="assets/eua.png" width="40px"> |  
+| [Icons8 Icons](https://icons8.com.br/icons) | <img src="assets/br.jpg" width="40px"> | 
+| [Feather](https://feathericons.com/) | <img src="assets/eua.png" width="40px"> |
+| [React Icons](https://react-icons.github.io/react-icons/) | <img src="assets/eua.png" width="40px"> |
+| [Iconscout](https://iconscout.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="assets/eua.png" width="40px"> | 
+| [Noun Project](https://thenounproject.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Ionicons](https://ionicons.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Oblador](https://oblador.github.io/react-native-vector-icons/) | <img src="assets/eua.png" width="40px"> |
+| [Font Awesome](https://fontawesome.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Boxicons](https://boxicons.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Shape.so](https://shape.so/) | <img src="assets/eua.png" width="40px"> |  
+| [Heroicons](https://heroicons.dev/) | <img src="assets/eua.png" width="40px"> |  
+| [Iconsvg](https://iconsvg.xyz/) | <img src="assets/eua.png" width="40px"> |  
+| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="assets/eua.png" width="40px"> |  
+| [Streamline Free](https://www.streamlineicons.com/free/) | <img src="assets/eua.png" width="40px"> |  
+| [Flaticon](https://www.flaticon.com/br/) | <img src="assets/br.jpg" width="40px"> | 
+| [Tabler Icons](https://tablericons.com/) | <img src="assets/eua.png" width="40px"> |  
+| [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="assets/eua.png" width="40px"> |  
+| [Line Awesome](https://icons8.com/line-awesome) | <img src="assets/eua.png" width="40px"> |
+
+## 😺 Animações e Gifs
+
+| Links      | Idioma |
+| :----------: | :------: |
+| [Airbnb](https://airbnb.design/lottie/) | <img src="assets/eua.png" width="40px"> |
+| [Giphy](https://giphy.com/) | <img src="assets/eua.png" width="40px"> |
+| [Tenor](https://tenor.com/) | <img src="assets/eua.png" width="40px"> |
+| [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="assets/eua.png" width="40px"> |
+| [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
+
+<br>[⬆ Voltar ao índice](#-índice-1)<br>
+
+---
+
+<h1 align="center">
+  🌈<br>Materiais gratuitos para estudos
+</h1>
+
+
+<img src="./assets/banner2.png">
+
+
+## 📕 Índice 2
+
+📌 [Livros](#-livros)<br>
+📌 [Cursos](#-cursos)<br>
+📌 [Podcasts](#-podcasts)<br>
+📌 [Sites e Blogs](#-sites-e-blogs)<br>
+
+
 ## 📚 Livros
 
 | Links      | Idioma |
-| ---------- | ------ |
+| :----------: | :------: |
 | [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="assets/br.jpg" width="40px"> |
+| [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="assets/br.jpg" width="40px"> | 
 | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="assets/eua.png" width="40px"> |
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | <img src="assets/br.jpg" width="40px"> | 
 | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="assets/eua.png" width="40px"> | 
-| [Eloquente Javascript (2ª edição)](https://braziljs.github.io/eloquente-javascript/) | <img src="assets/br.jpg" width="40px"> |
+| [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="assets/br.jpg" width="40px"> |
 | [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | <img src="assets/eua.png" width="40px"> |
 | [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="assets/br.jpg" width="40px"> |
 | [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | <img src="assets/br.jpg" width="40px"> |
@@ -138,14 +226,15 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 ## 👨‍💻 Cursos
 
 | Links      | Tipo  | Certificado | Idioma |
-| ---------- | ----- | ----------- | ------ |
+| :----------: | :------: | :----------: | :------: |
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
+| [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Balta.io](https://balta.io/cursos) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="assets/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
-| [CaveriaTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
+| [CaveiraTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> |
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Codando](https://codando.org/material-gratuito/) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
@@ -160,6 +249,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Curso | Não | <img src="assets/eua.png" width="40px"> |
 | [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="assets/br.jpg" width="40px"> |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="assets/br.jpg" width="40px"> |
+| [Curso em Vídeo](https://https://www.cursoemvideo.com/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="assets/br.jpg" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
@@ -173,7 +263,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| Não | <img src="assets/br.jpg" width="40px"> |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | <img src="assets/br.jpg" width="40px"> | 
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Curso | Sim | <img src="assets/br.jpg" width="40px"> | |
-| [Filipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
+| [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="assets/eua.png" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="assets/br.jpg" width="40px"> |
@@ -191,7 +281,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |  
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | Não | <img src="assets/br.jpg" width="40px"> |  
 | [Microsoft Hyper-V Essentials](https://solyd.com.br/treinamentos/microsoft-hyper-v-essentials/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> | 
-| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Curso | Não | <img src="assets/br.jpg" width="20px"><img src="assets/eua.png" width="20px"> |
+| [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/ ) | Curso | Não | <img src="assets/br.jpg" width="40px"> |
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Não | <img src="assets/br.jpg" width="40px"> | 
 | [NodeSchool](https://nodeschool.io/) | Curso | Não | <img src="assets/br.jpg" width="40px"> |  
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Curso | Sim | <img src="assets/br.jpg" width="40px"> | 
@@ -223,80 +313,42 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | <img src="assets/br.jpg" width="40px"> |
 
 
-## 🎨 Paletas de Cores
+## 🎤 Podcasts
 
 | Links      | Idioma |
-| ---------- | ------ |
-| [Flat UI](https://flatuicolors.com/) | <img src="assets/eua.png" width="40px"> |
-| [Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="assets/br.jpg" width="40px"> |
-| [Material UI Colots](https://materialuicolors.co/) | <img src="assets/eua.png" width="40px"> |
-| [Colordot](https://color.hailpixel.com/) | <img src="assets/eua.png" width="40px"> |
-| [SpyColor.com](https://www.spycolor.com/) | <img src="assets/eua.png" width="40px"> |
-| [UiGradients](https://uigradients.com/#Memariani) | <img src="assets/eua.png" width="40px"> |
-| [Paletton](https://paletton.com/) | <img src="assets/eua.png" width="40px"> |
-| [Happy Hues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
-| [Design Seeds](https://www.design-seeds.com/) | <img src="assets/eua.png" width="40px"> |
+| :----------: | :------: |
+| [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="assets/br.jpg" width="40px"> |
+| [Data Hackers](https://datahackers.com.br/podcast) | <img src="assets/br.jpg" width="40px"> | 
+| [Dev na Estrada](https://devnaestrada.com.br/) | <img src="assets/br.jpg" width="40px"> |
+| [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="assets/br.jpg" width="40px"> | 
+| [Hipsters Ponto Tech](https://hipsters.tech/) | <img src="assets/br.jpg" width="40px"> | 
+| [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) | <img src="assets/br.jpg" width="40px"> | 
+| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="assets/br.jpg" width="40px"> | 
+| [Pizza de Dados](https://pizzadedados.com/) | <img src="assets/br.jpg" width="40px"> | 
+| [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="assets/br.jpg" width="40px"> |
 
 
-## 🔤 Fontes
-
-| Links      | Idioma |
-| ---------- | ------ |
-| [Google Fonts](https://fonts.google.com/) | <img src="assets/eua.png" width="40px"> |
-| [NetFonts](https://www.netfontes.com.br/) | <img src="assets/br.jpg" width="40px"> |
-| [DaFont](https://www.dafont.com/pt/) | <img src="assets/br.jpg" width="40px"> |
-| [Font Squirrel](https://www.fontsquirrel.com/) | <img src="assets/eua.png" width="40px"> |
-| [1001 Fontes](https://www.1001fonts.com/) | <img src="assets/eua.png" width="40px"> |
-| [FontFabric](https://www.fontfabric.com/) | <img src="assets/eua.png" width="40px"> |
-| [BeFonts](https://befonts.com/) | <img src="assets/eua.png" width="40px"> |
-| [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="assets/br.jpg" width="40px"> |
-| [Unblast](https://unblast.com/fonts/) | <img src="assets/eua.png" width="40px"> |
-
-## 🎉 Ícones
+## 💻 Sites e Blogs
 
 | Links      | Idioma |
-| ---------- | ------ |
-| [DrawKit](https://www.drawkit.io/free-icons) | <img src="assets/eua.png" width="40px"> |
-| [Simple Icons](https://simpleicons.org/) | <img src="assets/eua.png" width="40px"> |
-| [Css.gg](https://css.gg/) | <img src="assets/eua.png" width="40px"> |
-| [Icon Icons](https://icon-icons.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Freepik](https://br.freepik.com/) | <img src="assets/br.jpg" width="40px"> | 
-| [Ikonate](https://ikonate.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Tilda Icons](https://tilda.cc/free-icons/) | <img src="assets/eua.png" width="40px"> |  
-| [Remix Icon](https://remixicon.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="assets/eua.png" width="40px"> |  
-| [Icons8 Icons](https://icons8.com.br/icons) | <img src="assets/br.jpg" width="40px"> | 
-| [Feather](https://feathericons.com/) | <img src="assets/eua.png" width="40px"> |
-| [React Icons](https://react-icons.github.io/react-icons/) | <img src="assets/eua.png" width="40px"> |
-| [Iconscout](https://iconscout.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="assets/eua.png" width="40px"> | 
-| [Noun Project](https://thenounproject.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Ionicons](https://ionicons.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Oblador](https://oblador.github.io/react-native-vector-icons/) | <img src="assets/eua.png" width="40px"> |
-| [Font Awesome](https://fontawesome.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Boxicons](https://boxicons.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Shape.so](https://shape.so/) | <img src="assets/eua.png" width="40px"> |  
-| [Heroicons](https://heroicons.dev/) | <img src="assets/eua.png" width="40px"> |  
-| [Iconsvg](https://iconsvg.xyz/) | <img src="assets/eua.png" width="40px"> |  
-| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="assets/eua.png" width="40px"> |  
-| [Steamline Free](https://www.streamlineicons.com/free/) | <img src="assets/eua.png" width="40px"> |  
-| [Flaticon](https://www.flaticon.com/br/) | <img src="assets/br.jpg" width="40px"> | 
-| [Tabler Icons](https://tablericons.com/) | <img src="assets/eua.png" width="40px"> |  
-| [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="assets/eua.png" width="40px"> |  
-| [Line Awesome](https://icons8.com/line-awesome) | <img src="assets/eua.png" width="40px"> |
-
-## 😺 Animações e Gifs
-
-| Links      | Idioma |
-| ---------- | ------ |
-| [Airbnb](https://airbnb.design/lottie/) | <img src="assets/eua.png" width="40px"> |
-| [Giphy](https://giphy.com/) | <img src="assets/eua.png" width="40px"> |
-| [Tenos](https://tenor.com/) | <img src="assets/eua.png" width="40px"> |
-| [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="assets/eua.png" width="40px"> |
-| [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
+| :----------: | :------: |
+| [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="assets/br.jpg" width="40px">|
+| [Edabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> | 
+| [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="assets/br.jpg" width="40px"> |
+| [High5Devs](http://high5devs.com/) | <img src="assets/br.jpg" width="40px"> |
+| [HTML Dog](https://htmldog.com/) | <img src="assets/eua.png" width="40px"> |
+| [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="assets/eua.png" width="40px"> |
+| [JavaScript for Cats](http://jsforcats.com/) | <img src="assets/eua.png" width="40px"> |
+| [JavaScript Katas](https://jskatas.org/ ) | <img src="assets/eua.png" width="40px"> |
+| [Jessica Temporal](https://jtemporal.com/ ) | <img src="assets/br.jpg" width="40px"> |
+| [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> |
+| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="assets/br.jpg" width="40px">|
+| [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
 
 
-<br>[⬆ Voltar ao topo](#-índice)<br>
+<br>[⬆ Voltar ao índice](#-índice-2)<br>
+
+---
 
 ## 🌈 Contribuidores<br>
 <table>
@@ -313,7 +365,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
       <a href="https://github.com/walysonfelipe">
         <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
-          <b><<!---->Walyson></b>
+          <b><<!---->Waly></b>
         </sub>
       </a><br>
     </td>
@@ -322,6 +374,14 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
         <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
         <sub>
           <b>João Maranhão</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ff4LL">
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
+        <sub>
+          <b>Carlos Daniel</b>
         </sub>
       </a><br>
     </td>
