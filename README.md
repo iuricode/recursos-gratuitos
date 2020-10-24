@@ -1,8 +1,6 @@
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>.
 > Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
 
----
-
 <h1 align="center">
   🌈<br>Conteúdos gratuitos para sites
 </h1>
@@ -375,6 +373,14 @@
         <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
         <sub>
           <b>João Maranhão</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ff4LL">
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
+        <sub>
+          <b>Carlos Daniel</b>
         </sub>
       </a><br>
     </td>
