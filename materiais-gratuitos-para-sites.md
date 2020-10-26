@@ -6,10 +6,13 @@
 
 
 ## 📕 Índice
-📌  <a href="materiais-gratuitos-para-sites.md#-imagens">  Imagens </a><br> 
-📌  <a href="materiais-gratuitos-para-sites.md#-ilustrações-e-vetores">  Ilustrações e Vetores</a><br> 
-📌  <a href="materiais-gratuitos-para-sites.md#-imagens">  Imagens </a>
-
+📌 [Imagens](#-imagens)<br>
+📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
+📌 [Emojis](#-emojis)<br>
+📌 [Paletas de Cores](#-paletas-de-cores)<br>
+📌 [Fontes](#-fontes)<br>
+📌 [Ícones](#-ícones)<br>
+📌 [Animações e Gifs](#-animações-e-gifs)<br>
 
 ## 🖼️ Imagens
 
