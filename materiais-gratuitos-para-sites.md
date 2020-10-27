@@ -8,7 +8,7 @@
 📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
 📌 [Emojis](#-emojis)<br>
 📌 [Paletas de Cores](#-paletas-de-cores)<br>
-📌 [Fontes](#-fontes)<br>
+📌 [Fontes](#-fontes-e-fontes-de-ícone)<br>
 📌 [Ícones](#-ícones)<br>
 📌 [Animações e Gifs](#-animações-e-gifs)<br>
 📌 [Logos](#-logos)<br>
