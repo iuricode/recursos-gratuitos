@@ -19,6 +19,7 @@
 📌 [Ícones](materiais-gratuitos-para-sites.md#-ícones)<br>
 📌 [Animações e Gifs](materiais-gratuitos-para-sites.md#-animações-e-gifs)<br>
 
+
 ---
 
 <h1 align="center">
@@ -39,9 +40,6 @@
 
 
 
-<br>[⬆ Voltar ao ínicio](#-ínicio)<br>
-
----
 
 ## 🌈 Contribuidores<br>
 <table>
