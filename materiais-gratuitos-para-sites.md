@@ -8,7 +8,7 @@
 📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
 📌 [Emojis](#-emojis)<br>
 📌 [Paletas de Cores](#-paletas-de-cores)<br>
-📌 [Fontes](#-fontes-e-fontes-de-ícone)<br>
+📌 [Fontes e Fontes de ícones](#-fontes-e-fontes-de-ícones)<br>
 📌 [Ícones](#-ícones)<br>
 📌 [Animações e Gifs](#-animações-e-gifs)<br>
 📌 [Logos](#-logos)<br>
@@ -188,7 +188,7 @@
 | [UIColor Picker](https://uicolorpicker.com/) | <img src="assets/eua.png" width="40px"> |
 
 
-## 🔤 Fontes e Fontes de ícone
+## 🔤 Fontes e Fontes de ícones
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
