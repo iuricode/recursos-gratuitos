@@ -1,8 +1,8 @@
 <h1 align="center">
-  🌈<br>Conteúdos gratuitos para sites
+  🌈<br>Materiais gratuitos para sites
 </h1>
 
-<img src="./assets/banner.png">
+<img src="./assets/banner1.png">
 
 
 ## 📕 Índice
