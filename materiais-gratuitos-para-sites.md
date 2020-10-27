@@ -17,7 +17,7 @@
 > Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
 
 | Links   | Idioma | Links    | Idioma | Links    | Idioma |
-| :------------- | :----------: | :----------- | :-----------: | :----------- | :-----------: |
+| :-------------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | [Wunderstock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> | [Free Chinese Fonts](https://www.freechinesefont.com/) | <img src="assets/chinese.png" width="40px"> |
 | [Pixabay](https://pixabay.com/) | <img src="assets/eua.png" width="40px">  | [Behance](https://www.behance.net/galleries/illustration) | <img src="assets/br.jpg" width="40px"> |
 | [Freepik](https://www.freepik.com/popular-photos) | <img src="assets/eua.png" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px"> | 
