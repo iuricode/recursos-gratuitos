@@ -2,10 +2,10 @@
 > Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
 
 <h1 align="center">
-  🌈<br>Conteúdos gratuitos para sites
+  🌈<br>Materiais gratuitos para sites
 </h1>
 
-<img src="./assets/banner.png">
+<img src="./assets/banner1.png">
 
 
 
