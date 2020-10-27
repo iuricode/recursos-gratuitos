@@ -130,7 +130,7 @@
 | [High5Devs](http://high5devs.com/) | <img src="assets/br.jpg" width="40px"> | [JavaScript Katas](https://jskatas.org/ ) | <img src="assets/eua.png" width="40px"> |
 | [Jessica Temporal](https://jtemporal.com/ ) | <img src="assets/br.jpg" width="40px"> | [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> |
-| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="assets/br.jpg" width="40px">| | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="assets/eua.png" width="40px"> |
+| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="assets/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="assets/eua.png" width="40px"> |
 
 <br>[⬆ Voltar ao índice](#-índice)<br>
 
