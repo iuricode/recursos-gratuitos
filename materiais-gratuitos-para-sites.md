@@ -1,3 +1,5 @@
+<br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos)<br>
+
 <h1 align="center">
   🌈<br>Materiais gratuitos para sites
 </h1>
@@ -160,5 +162,3 @@
 | [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
 
 <br>[⬆ Voltar ao índice](materiais-gratuitos-para-sites.md#-índice)<br>
-<a href="./recursos-gratuitos">Inicio</a>
-
