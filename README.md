@@ -1,9 +1,10 @@
+<h1 align="center">
+  🌈<br>Recursos gratuitos
+</h1>
+
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>.
 > Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
 
-<h1 align="center">
-  🌈<br>Materiais gratuitos para sites
-</h1>
 
 <img src="./assets/banner1.png">
 
@@ -18,14 +19,9 @@
 📌 [Fontes](materiais-gratuitos-para-sites.md#-fontes)<br>
 📌 [Ícones](materiais-gratuitos-para-sites.md#-ícones)<br>
 📌 [Animações e Gifs](materiais-gratuitos-para-sites.md#-animações-e-gifs)<br>
-
+📌 [Logos](materiais-gratuitos-para-sites.md#-logos)<br>
 
 ---
-
-<h1 align="center">
-  🌈<br>Materiais gratuitos para estudos
-</h1>
-
 
 <img src="./assets/banner2.png">
 
