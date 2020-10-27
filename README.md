@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌈<br>Recursos gratuitos
+  <img src="./assets/logo.png">
 </h1>
 
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>.
