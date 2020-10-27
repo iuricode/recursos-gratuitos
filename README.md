@@ -16,7 +16,7 @@
 📌 [Ilustrações e Vetores](materiais-gratuitos-para-sites.md#-ilustrações-e-vetores)<br>
 📌 [Emojis](materiais-gratuitos-para-sites.md#-emojis)<br>
 📌 [Paletas de Cores](materiais-gratuitos-para-sites.md#-paletas-de-cores)<br>
-📌 [Fontes](materiais-gratuitos-para-sites.md#-fontes)<br>
+📌 [Fontes e Fontes de ícones](materiais-gratuitos-para-sites.md#-fontes-e-fontes-de-ícones)<br>
 📌 [Ícones](materiais-gratuitos-para-sites.md#-ícones)<br>
 📌 [Animações e Gifs](materiais-gratuitos-para-sites.md#-animações-e-gifs)<br>
 📌 [Logos](materiais-gratuitos-para-sites.md#-logos)<br>
