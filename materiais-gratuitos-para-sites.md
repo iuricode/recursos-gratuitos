@@ -14,6 +14,7 @@
 📌 [Logos](#-logos)<br>
 
 ## 🖼️ Imagens
+> Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
 
 | Links   | Idioma | Links    | Idioma |
 | :------------- | :----------: | :----------- | :-----------: |
@@ -54,7 +55,9 @@
 | [Creative Commons](https://search.creativecommons.org) | <img src="assets/eua.png" width="40px"> |
 
 
+
 ## 🚀 Ilustrações e Vetores
+> Vetores, clipart, ilustrações, padrões gratuitos e muito mais
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
@@ -121,6 +124,7 @@
 | [SVG wave](https://svgwave.in/) | <img src="assets/eua.png" width="40px"> |
 
 ## 😛 Emojis
+> Recursos para emojis
 
 | Links      | Idioma |
 | :----------: | :------: |
@@ -128,8 +132,10 @@
 | [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="assets/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="assets/eua.png" width="40px"> |
 | [Stories Freepik](https://stories.freepik.com/) | <img src="assets/eua.png" width="40px"> |
+| [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="assets/eua.png" width="40px"> |
 
 ## 🎨 Paletas de Cores
+> Sites e recursos que ajudam nas escolhas relacionadas às cores
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
@@ -189,6 +195,7 @@
 
 
 ## 🔤 Fontes e Fontes de ícones
+> Sites que oferecem fontes gratuitas, bem como ferramentas baseadas em fontes
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
@@ -269,6 +276,7 @@
 
 
 ## 🎉 Ícones
+> Recursos para ícones, incluindo png, svg e mais
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
@@ -299,6 +307,7 @@
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="assets/eua.png" width="40px"> |
 
 ## 😺 Animações e Gifs
+> Recursos de animações e gifs
 
 | Links      | Idioma |
 | :----------: | :------: |
@@ -309,6 +318,7 @@
 | [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
 
 ## 🎃 Logos
+> Recursos para logotipos
 
 | Links      | Idioma |
 | :----------: | :------: |
