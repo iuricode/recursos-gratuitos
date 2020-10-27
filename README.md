@@ -8,15 +8,16 @@
 <img src="./assets/banner.png">
 
 
+
 ## 📕 Índice 1
 
-📌 [Imagens](blob/master/materiais-gratuitos-para-estudos.md#-imagens)<br>
-📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
-📌 [Emojis](#-emojis)<br>
-📌 [Paletas de Cores](#-paletas-de-cores)<br>
-📌 [Fontes](#-fontes)<br>
-📌 [Ícones](#-ícones)<br>
-📌 [Animações e Gifs](#-animações-e-gifs)<br>
+📌 [Imagens](materiais-gratuitos-para-estudos.md#-imagens)<br>
+📌 [Ilustrações e Vetores](materiais-gratuitos-para-estudos.md#-ilustrações-e-vetores)<br>
+📌 [Emojis](materiais-gratuitos-para-estudos.md#-emojis)<br>
+📌 [Paletas de Cores](materiais-gratuitos-para-estudos.md#-paletas-de-cores)<br>
+📌 [Fontes](materiais-gratuitos-para-estudos.md#-fontes)<br>
+📌 [Ícones](materiais-gratuitos-para-estudos.md#-ícones)<br>
+📌 [Animações e Gifs](materiais-gratuitos-para-estudos.md#-animações-e-gifs)<br>
 
 ---
 
@@ -30,15 +31,15 @@
 
 ## 📕 Índice 2
 
-📌 [Livros](#-livros)<br>
-📌 [Cursos](#-cursos)<br>
-📌 [Podcasts](#-podcasts)<br>
-📌 [Sites e Blogs](#-sites-e-blogs)<br>
+📌 [Livros](materiais-gratuitos-para-estudos.md#-livros)<br>
+📌 [Cursos](materiais-gratuitos-para-estudos.md#-cursos)<br>
+📌 [Podcasts](materiais-gratuitos-para-estudos.md#-podcasts)<br>
+📌 [Sites e Blogs](materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
 
 
 
 
-<br>[⬆ Voltar ao índice](#-índice-2)<br>
+<br>[⬆ Voltar ao ínicio](#-ínicio)<br>
 
 ---
 
