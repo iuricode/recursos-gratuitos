@@ -1,9 +1,5 @@
 <br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos)<br>
 
-<h1 align="center">
-  🌈<br>Materiais gratuitos para sites
-</h1>
-
 <img src="./assets/banner1.png">
 
 
@@ -15,6 +11,7 @@
 📌 [Fontes](#-fontes)<br>
 📌 [Ícones](#-ícones)<br>
 📌 [Animações e Gifs](#-animações-e-gifs)<br>
+📌 [Logos](#-logos)<br>
 
 ## 🖼️ Imagens
 
@@ -107,9 +104,54 @@
 | [Paletton](https://paletton.com/) | <img src="assets/eua.png" width="40px"> |
 | [Happy Hues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
 | [Design Seeds](https://www.design-seeds.com/) | <img src="assets/eua.png" width="40px"> |
+| [Color Brewer 2](https://colorbrewer2.org/) | <img src="assets/eua.png" width="40px"> |
+| [Colormind.io](http://colormind.io) | <img src="assets/eua.png" width="40px"> |
+| [ColorCurves.app](https://colorcurves.app) | <img src="assets/eua.png" width="40px"> |
+| [Coolors](https://coolors.co) | <img src="assets/eua.png" width="40px"> |
+| [HTML Color Codes](https://htmlcolorcodes.com/) | <img src="assets/eua.png" width="40px"> |
+| [Colors & Fonts](https://www.colorsandfonts.com/) | <img src="assets/eua.png" width="40px"> |
+| [Palette List](https://www.palettelist.com/) | <img src="assets/eua.png" width="40px"> |
+| [Google Material Color Tool](https://material.io/resources/color/) | <img src="assets/eua.png" width="40px"> |
+| [Material Palette](https://www.materialpalette.com/) | <img src="assets/eua.png" width="40px"> |
+| [ColorSpace](https://mycolor.space/) | <img src="assets/eua.png" width="40px"> |
+| [Colorsinspo](https://colorsinspo.com/) | <img src="assets/eua.png" width="40px"> |
+| [ColorsWall](https://colorswall.com/) | <img src="assets/eua.png" width="40px"> |
+| [Adobe Trends](https://color.adobe.com/trends)| <img src="assets/eua.png" width="40px"> |
+| [Color Hunt](https://colorhunt.co/) | <img src="assets/eua.png" width="40px"> |
+| [Gradient Hunt](https://gradienthunt.com/) | <img src="assets/eua.png" width="40px"> |
+| [Web Gradients](https://webgradients.com/) | <img src="assets/eua.png" width="40px"> |
+| [ColorBox](https://www.colorbox.io) | <img src="assets/eua.png" width="40px"> |
+| [CSS gradient](https://cssgradient.io/) | <img src="assets/eua.png" width="40px"> |
+| [gradienta](https://gradienta.io/) | <img src="assets/eua.png" width="40px"> |
+| [Palette Generator](https://palettegenerator.colorion.co/) | <img src="assets/eua.png" width="40px"> |
+| [Material Palettes](https://material.colorion.co/) | <img src="assets/eua.png" width="40px"> |
+| [Grabient](https://www.grabient.com/) | <img src="assets/eua.png" width="40px"> |
+| [ShadeSwash](https://shadeswash.netlify.app/) | <img src="assets/eua.png" width="40px"> |
+| [BrandColors](http://brandcolors.net/) | <img src="assets/eua.png" width="40px"> |
+| [BRAND PALETTES](https://brandpalettes.com/) | <img src="assets/eua.png" width="40px"> |
+| [Material Design Palette Generator](http://mcg.mbitson.com) | <img src="assets/eua.png" width="40px"> |
+| [Colorate](https://colorate.azurewebsites.net/) | <img src="assets/eua.png" width="40px"> |
+| [0to255](https://www.0to255.com/) | <img src="assets/eua.png" width="40px"> |
+| [Color Blender](https://meyerweb.com/eric/tools/color-blend) | <img src="assets/eua.png" width="40px"> |
+| [Gradient Buttons](https://gradientbuttons.colorion.co/) | <img src="assets/eua.png" width="40px"> |
+| [Khroma](http://khroma.co/) | <img src="assets/eua.png" width="40px"> |
+| [whocanuse](https://whocanuse.com) | <img src="assets/eua.png" width="40px"> |
+| [Colorable](https://colorable.jxnblk.com/) | <img src="assets/eua.png" width="40px"> |
+| [Color Hex Picker](https://colorhexpicker.com) | <img src="assets/eua.png" width="40px"> |
+| [Saruwakakun](https://saruwakakun.com/en/color-ideas) | <img src="assets/eua.png" width="40px"> |
+| [Colorzilla](https://www.colorzilla.com/) | <img src="assets/eua.png" width="40px"> |
+| [Image Color Picker](https://image-color.com/) | <img src="assets/eua.png" width="40px"> |
+| [CombineCOLORS](https://combinecolors.com/) | <img src="assets/eua.png" width="40px"> |
+| [Color Lovers](https://www.colourlovers.com/palettes) | <img src="assets/eua.png" width="40px"> |
+| [HTML CSS Color](https://www.htmlcsscolor.com/) | <img src="assets/eua.png" width="40px"> |
+| [HEX Color Codes](https://hexcolorcodes.org/) | <img src="assets/eua.png" width="40px"> |
+| [CoolHue 2.0](https://webkul.github.io/coolhue/) | <img src="assets/eua.png" width="40px"> |
+| [Colors.lol](https://colors.lol/) | <img src="assets/eua.png" width="40px"> |
+| [colors.dopely](https://colors.dopely.top/) | <img src="assets/eua.png" width="40px"> |
+| [UIColor Picker](https://uicolorpicker.com/) | <img src="assets/eua.png" width="40px"> |
 
 
-## 🔤 Fontes
+## 🔤 Fontes e Fontes de ícone
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
@@ -119,6 +161,28 @@
 | [FontFabric](https://www.fontfabric.com/) | <img src="assets/eua.png" width="40px"> |
 | [BeFonts](https://befonts.com/) | <img src="assets/eua.png" width="40px"> |
 | [Unblast](https://unblast.com/fonts/) | <img src="assets/eua.png" width="40px"> |
+| [Use & Modify](https://usemodify.com/) | <img src="assets/eua.png" width="40px"> |
+| [Tiff](https://tiff.herokuapp.com/) | <img src="assets/eua.png" width="40px"> |
+| [TypeKit Practice](https://practice.typekit.com/) | <img src="assets/eua.png" width="40px"> |
+| [Fontjoy](https://fontjoy.com/) | <img src="assets/eua.png" width="40px"> |
+| [Golden Ratio](https://grtcalculator.com/) | <img src="assets/eua.png" width="40px"> |
+| [FontSpark](https://fontspark.app/) | <img src="assets/eua.png" width="40px"> |
+| [FontGet](https://www.fontget.com/) | <img src="assets/eua.png" width="40px"> |
+| [FontPair](https://fontpair.co/) | <img src="assets/eua.png" width="40px"> |
+| [Font Space](https://www.fontspace.com/)| <img src="assets/eua.png" width="40px"> |
+| [Abstract Fonts](http://www.abstractfonts.com/) | <img src="assets/eua.png" width="40px"> |
+| [Free Typography](https://freetypography.com/) | <img src="assets/eua.png" width="40px"> |
+| [Leon Sans](https://github.com/cmiscm/leonsans/) | <img src="assets/eua.png" width="40px"> |
+| [Lexend](https://www.lexend.com/) | <img src="assets/eua.png" width="40px"> |
+| [Fonts for Apple Platforms](https://developer.apple.com/fonts/) | <img src="assets/eua.png" width="40px"> |
+| [SFWin](https://github.com/blaisck/sfwin/) | <img src="assets/eua.png" width="40px"> |
+| [Font Flipper](https://fontflipper.com/) | <img src="assets/eua.png" width="40px"> |
+| [Fonts Arena](https://fontsarena.com/) | <img src="assets/eua.png" width="40px"> | 
+| [Arabic fonts](https://arabicfonts.net/) | <img src="assets/eua.png" width="40px"> |
+| [FontDrop](https://fontdrop.info) | <img src="assets/eua.png" width="40px"> |
+| [Open Foundry](https://open-foundry.com) | <img src="assets/eua.png" width="40px"> | 
+| [Glyphter](https://glyphter.com) | <img src="assets/eua.png" width="40px"> |
+| [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | <img src="assets/eua.png" width="40px"> |
 
 
 ## 🎉 Ícones
