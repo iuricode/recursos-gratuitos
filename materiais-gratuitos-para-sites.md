@@ -17,17 +17,41 @@
 
 | Links   | Idioma | Links    | Idioma |
 | :------------- | :----------: | :----------- | :-----------: |
-| [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> | [Wunderstock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
-| [Behance](https://www.behance.net/galleries/illustration) | <img src="assets/br.jpg" width="40px"> | [Pixabay](https://pixabay.com/) | <img src="assets/eua.png" width="40px"> 
-| [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px">| [Freepik](https://www.freepik.com/popular-photos) | <img src="assets/eua.png" width="40px"> |
-| [IStock](https://www.istockphoto.com/) | <img src="assets/br.jpg" width="40px"> | [Unsplash](https://unsplash.com/) | <img src="assets/eua.png" width="40px"> |
-| [Pinterest](https://br.pinterest.com/) | <img src="assets/br.jpg" width="40px"> | [StockSnap.io](https://stocksnap.io/) | <img src="assets/eua.png" width="40px"> |
-| [Freejpg](https://br.freejpg.com.ar/) | <img src="assets/br.jpg" width="40px"> | [Gratisography](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> |
-| [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="assets/br.jpg" width="40px"> | [Burst](https://burst.shopify.com/free-images) | <img src="assets/eua.png" width="40px"> |
-|     |     | [StockFreeImages](https://www.stockfreeimages.com/) | <img src="assets/eua.png" width="40px"> |
-|     |     | [Wunder Stock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
-|     |     | [Reshot](https://www.reshot.com/) | <img src="assets/eua.png" width="40px"> |
-|     |     | [Fake image](https://fakeimg.pl/) | <img src="assets/eua.png" width="40px"> |
+| [Wunderstock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="assets/br.jpg" width="40px"> | 
+| [Pixabay](https://pixabay.com/) | <img src="assets/eua.png" width="40px">  | [Behance](https://www.behance.net/galleries/illustration) | <img src="assets/br.jpg" width="40px"> |
+| [Freepik](https://www.freepik.com/popular-photos) | <img src="assets/eua.png" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="assets/br.jpg" width="40px"> | 
+| [Unsplash](https://unsplash.com/) | <img src="assets/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="assets/br.jpg" width="40px"> |
+| [StockSnap.io](https://stocksnap.io/) | <img src="assets/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="assets/br.jpg" width="40px"> |
+| [Gratisography](https://gratisography.com/) | <img src="assets/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="assets/br.jpg" width="40px"> |
+| [Burst](https://burst.shopify.com/free-images) | <img src="assets/eua.png" width="40px"> | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="assets/br.jpg" width="40px"> |
+| [StockFreeImages](https://www.stockfreeimages.com/) | <img src="assets/eua.png" width="40px"> |
+| [Wunder Stock](https://wunderstock.com/) | <img src="assets/eua.png" width="40px"> |
+| [Reshot](https://www.reshot.com/) | <img src="assets/eua.png" width="40px"> |
+| [Fake image](https://fakeimg.pl/) | <img src="assets/eua.png" width="40px"> |
+| [Magdeleine](https://magdeleine.co/) | <img src="assets/eua.png" width="40px"> |
+| [Picspree](https://picspree.com) | <img src="assets/eua.png" width="40px"> |
+| [Life of Pix](https://www.lifeofpix.com/) | <img src="assets/eua.png" width="40px"> |
+| [Morguefile](https://morguefile.com/) | <img src="assets/eua.png" width="40px"> |
+| [Kaboom Pics](https://kaboompics.com/) | <img src="assets/eua.png" width="40px"> |
+| [New Old Stock](https://nos.twnsnd.co/) | <img src="assets/eua.png" width="40px"> |
+| [Pic Jumbo](https://picjumbo.com/) | <img src="assets/eua.png" width="40px"> |
+| [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | <img src="assets/eua.png" width="40px"> |
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | 
+| [Stockvault](http://www.stockvault.net/) | <img src="assets/eua.png" width="40px"> |
+| [Placeholder](https://placeholder.com/) | <img src="assets/eua.png" width="40px"> |
+| [Realistic Shots](https://realisticshots.com/) | <img src="assets/eua.png" width="40px"> |
+| [Negative Space](https://negativespace.co/) | <img src="assets/eua.png" width="40px"> |
+| [SkitterPhoto](https://skitterphoto.com/) | <img src="assets/eua.png" width="40px"> |
+| [PicoGraphy](https://picography.co/) | <img src="assets/eua.png" width="40px"> |
+| [PxHere](https://pxhere.com/) | <img src="assets/eua.png" width="40px"> |
+| [Piqsels](https://piqsels.com/) | <img src="assets/eua.png" width="40px"> |
+| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="assets/eua.png" width="40px"> |
+| [Nappy](https://www.nappy.co/) | <img src="assets/eua.png" width="40px"> |
+| [Generated Photos](https://generated.photos/) | <img src="assets/eua.png" width="40px"> |
+| [Lorem Picsum](https://picsum.photos/) | <img src="assets/eua.png" width="40px"> |
+| [scienceimage](https://www.scienceimage.csiro.au) | <img src="assets/eua.png" width="40px"> |
+| [Saxifraga](http://www.freenatureimages.eu) | <img src="assets/eua.png" width="40px"> |
+| [Creative Commons](https://search.creativecommons.org) | <img src="assets/eua.png" width="40px"> |
 
 
 ## 🚀 Ilustrações e Vetores
