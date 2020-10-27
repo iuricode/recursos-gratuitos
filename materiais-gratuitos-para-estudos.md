@@ -1,4 +1,4 @@
-<br>[⬅ Voltar ao início](#README.md)<br>
+<br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos)<br>
 
 <h1 align="center">
   🌈<br>Materiais gratuitos para estudos
