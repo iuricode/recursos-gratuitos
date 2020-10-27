@@ -183,6 +183,52 @@
 | [Open Foundry](https://open-foundry.com) | <img src="assets/eua.png" width="40px"> | 
 | [Glyphter](https://glyphter.com) | <img src="assets/eua.png" width="40px"> |
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | <img src="assets/eua.png" width="40px"> |
+| [UXWing](https://uxwing.com/) | <img src="assets/eua.png" width="40px"> |
+| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | <img src="assets/eua.png" width="40px"> |
+| [Linear Icons](https://linearicons.com/free) | <img src="assets/eua.png" width="40px"> |
+| [Icons8](https://icons8.com/) | <img src="assets/eua.png" width="40px"> |
+| [IconSear.ch](https://iconsear.ch/search.html) | <img src="assets/eua.png" width="40px"> |
+| [Nucleo App](https://nucleoapp.com/) | <img src="assets/eua.png" width="40px"> |
+| [Icon-icons.com](https://icon-icons.com/) | <img src="assets/eua.png" width="40px"> |
+| [Bootstrap Icons](https://icons.getbootstrap.com/) | <img src="assets/eua.png" width="40px"> |
+| [Iconmonstr](https://iconmonstr.com/) | <img src="assets/eua.png" width="40px"> |
+| [Vivid.js](https://webkul.github.io/vivid/) | <img src="assets/eua.png" width="40px"> |
+| [Lordicon](https://lordicon.com/free-icons) | <img src="assets/eua.png" width="40px"> |
+| [UseAnimations](https://useanimations.com/) | <img src="assets/eua.png" width="40px"> |
+| [IconBros](https://www.iconbros.com) | <img src="assets/eua.png" width="40px"> |
+| [Material Design Icons](https://materialdesignicons.com/) | <img src="assets/eua.png" width="40px"> |
+| [Zondicons](https://www.zondicons.com/icons.html) | <img src="assets/eua.png" width="40px"> |
+| [Endless Icons](http://endlessicons.com/) | <img src="assets/eua.png" width="40px"> |
+| [Icomoon](https://icomoon.io/app/) | <img src="assets/eua.png" width="40px"> |
+| [Cryptoicons](http://cryptoicons.co/) | <img src="assets/eua.png" width="40px"> |
+| [appicon](https://appicon.co/) | <img src="assets/eua.png" width="40px"> |
+| [LineIcons](https://lineicons.com) | <img src="assets/eua.png" width="40px"> |
+| [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | <img src="assets/eua.png" width="40px"> |
+| [SVG Repo](https://www.svgrepo.com/) | <img src="assets/eua.png" width="40px"> |
+| [Convertio](https://convertio.co/png-svg/) | <img src="assets/eua.png" width="40px"> |
+| [CSS ICON](https://cssicon.space/) | <img src="assets/eua.png" width="40px"> |
+| [Unified icons](https://iconify.design/) | <img src="assets/eua.png" width="40px"> |
+| [System UIcons](https://systemuicons.com/) | <img src="assets/eua.png" width="40px"> |
+| [IconPark](https://github.com/bytedance/IconPark) | <img src="assets/eua.png" width="40px"> | 
+| [Radix Icons](https://icons.modulz.app/) | <img src="assets/eua.png" width="40px"> |
+| [Material Icons](https://material.io/resources/icons/) | <img src="assets/eua.png" width="40px"> |
+| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) | <img src="assets/eua.png" width="40px"> |
+| [Fontisto Icons](https://fontisto.com/) | <img src="assets/eua.png" width="40px"> |
+| [Icofont](https://icofont.com/) | <img src="assets/eua.png" width="40px"> |
+| [Material Palette](https://www.materialpalette.com/icons) | <img src="assets/eua.png" width="40px"> |
+| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | <img src="assets/eua.png" width="40px"> |
+| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | <img src="assets/eua.png" width="40px"> |
+| [Devicon](https://konpa.github.io/devicon/) | <img src="assets/eua.png" width="40px"> |
+| [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) | <img src="assets/eua.png" width="40px"> |
+| [Weather Icons](https://erikflowers.github.io/weather-icons/) | <img src="assets/eua.png" width="40px"> | 
+| [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | <img src="assets/eua.png" width="40px"> |
+| [Jam Icons](https://jam-icons.com/) | <img src="assets/eua.png" width="40px"> | <img src="assets/eua.png" width="40px"> |
+| [Fontastic.me](http://fontastic.me/) | <img src="assets/eua.png" width="40px"> |
+| [Fontello](http://fontello.com/) | <img src="assets/eua.png" width="40px"> |
+| [Linea](https://linea.io/) | <img src="assets/eua.png" width="40px"> |
+| [Unicons](https://iconscout.com/unicons) | <img src="assets/eua.png" width="40px"> |
+| [Mobirise Icons](https://mobiriseicons.com/) | <img src="assets/eua.png" width="40px"> |
+| [Hero Icons](https://heroicons.dev/) | <img src="assets/eua.png" width="40px"> |
 
 
 ## 🎉 Ícones
@@ -224,5 +270,19 @@
 | [Tenor](https://tenor.com/) | <img src="assets/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="assets/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="assets/eua.png" width="40px"> |
+
+## 🎃 Logos
+
+| Links      | Idioma |
+| :----------: | :------: |
+| [Instant Logo Search](http://instantlogosearch.com/)| <img src="assets/eua.png" width="40px"> |                    
+| [LogoSear.ch](https://logosear.ch/search.html) | <img src="assets/eua.png" width="40px"> |                  
+| [SVGPorn](https://svgporn.com) | <img src="assets/eua.png" width="40px"> |                                                         
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | <img src="assets/eua.png" width="40px"> | 
+| [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="assets/eua.png" width="40px"> |                       
+| [LogoHub](https://logohub.io/) | <img src="assets/eua.png" width="40px"> |                     
+| [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="assets/eua.png" width="40px"> |                                   
+| [World Vector Logo](https://worldvectorlogo.com/)| <img src="assets/eua.png" width="40px"> |                          
+| [Logo Maker](https://logomakr.com/)| <img src="assets/eua.png" width="40px"> |
 
 <br>[⬆ Voltar ao índice](materiais-gratuitos-para-sites.md#-índice)<br>
