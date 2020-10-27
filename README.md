@@ -2,7 +2,7 @@
   <img src="./assets/logo.png">
 </h1>
 
-> Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>.
+> Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
 > Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
 
 
@@ -74,8 +74,7 @@
 </table>
 
 ## ⛩ Seja um dos contribuidores<br>
-Quer fazer parte desse projeto? É simples!<br>
-Faça um fork dele e coloque as suas modificações, depois mande um pull request.<br>
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
 ## ⚖ Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
