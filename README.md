@@ -10,7 +10,7 @@
 
 
 
-## 📕 Índice 1
+## 📕 Índice 
 
 📌 [Imagens](materiais-gratuitos-para-sites.md#-imagens)<br>
 📌 [Ilustrações e Vetores](materiais-gratuitos-para-sites.md#-ilustrações-e-vetores)<br>
@@ -26,14 +26,12 @@
 <img src="./assets/banner2.png">
 
 
-## 📕 Índice 2
+## 📕 Índice 
 
 📌 [Livros](materiais-gratuitos-para-estudos.md#-livros)<br>
 📌 [Cursos](materiais-gratuitos-para-estudos.md#-cursos)<br>
 📌 [Podcasts](materiais-gratuitos-para-estudos.md#-podcasts)<br>
 📌 [Sites e Blogs](materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
-
-
 
 
 
