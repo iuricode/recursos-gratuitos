@@ -81,7 +81,20 @@
 | [Isometric](https://isometric.online/) | <img src="assets/eua.png" width="40px"> | 
 | [WooBro](https://woobro.design/) | <img src="assets/eua.png" width="40px"> | 
 | [UI Store](https://www.uistore.design/categories/illustrations/) | <img src="assets/eua.png" width="40px"> | 
-| [Free vectors](https://all-free-download.com/) | <img src="assets/eua.png" width="40px"> | 
+| [Free vectors](https://all-free-download.com/) | <img src="assets/eua.png" width="40px"> |
+| [Vecteezy](https://www.vecteezy.com/)| <img src="assets/eua.png" width="40px"> |
+| [PNGTree](https://pngtree.com/free-vectors) | <img src="assets/eua.png" width="40px"> |
+| [Vector4Free](https://www.vector4free.com/) | <img src="assets/eua.png" width="40px"> |
+| [Retro Vectors](http://retrovectors.com/) | <img src="assets/eua.png" width="40px"> |
+| [Freeble](http://freebbble.com/) | <img src="assets/eua.png" width="40px"> |
+| [Clipart](https://www.clipart.email/) | <img src="assets/eua.png" width="40px"> |
+| [trianglify.io](https://trianglify.io/) | <img src="assets/eua.png" width="40px"> |
+| [blob](https://blobs.app/) | <img src="assets/eua.png" width="40px"> |
+| [HiClipart](https://www.hiclipart.com/) | <img src="assets/eua.png" width="40px"> |
+| [Custom Shape Dividers](https://www.shapedivider.app/) | <img src="assets/eua.png" width="40px"> |
+| [Servier Medical Art](https://smart.servier.com) | <img src="assets/eua.png" width="40px"> |
+| [Clker](http://www.clker.com) | <img src="assets/eua.png" width="40px"> |
+| [SVG wave](https://svgwave.in/) | <img src="assets/eua.png" width="40px"> |
 
 ## 😛 Emojis
 
@@ -282,7 +295,7 @@
 | [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="assets/eua.png" width="40px"> |                       
 | [LogoHub](https://logohub.io/) | <img src="assets/eua.png" width="40px"> |                     
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="assets/eua.png" width="40px"> |                                   
-| [World Vector Logo](https://worldvectorlogo.com/)| <img src="assets/eua.png" width="40px"> |                          
-| [Logo Maker](https://logomakr.com/)| <img src="assets/eua.png" width="40px"> |
+| [World Vector Logo](https://worldvectorlogo.com/) | <img src="assets/eua.png" width="40px"> |                          
+| [Logo Maker](https://logomakr.com/) | <img src="assets/eua.png" width="40px"> |
 
 <br>[⬆ Voltar ao índice](materiais-gratuitos-para-sites.md#-índice)<br>
