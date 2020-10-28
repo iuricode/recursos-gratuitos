@@ -1,10 +1,10 @@
-<br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos) |<br>
+<br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos) <br>
 
 <img src="./assets/banner4.png">
 
 ## 📕 Índice 
 
-📌 [Ferramentas](#-ferramentas) |<br>
+📌 [Ferramentas](#-ferramentas) <br>
 
 ## 🔧 Ferramentas
 
@@ -50,4 +50,4 @@
 | [Whimsical](https://whimsical.com/) | 
 
 
-<br>[⬆ Voltar ao índice](#-índice) |<br>
+<br>[⬆ Voltar ao índice](#-índice) <br>
