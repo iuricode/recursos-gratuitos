@@ -33,6 +33,27 @@
 📌 [Podcasts](materiais-gratuitos-para-estudos.md#-podcasts)<br>
 📌 [Sites e Blogs](materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
 
+---
+
+<img src="./assets/banner3.png">
+
+
+## 📕 Índice 
+
+📌 [Ferramentas de desenvolvimento](materiais-gratuitos-para-devs.md#-ferramentas-de-desenvolvimento)<br>
+📌 [IDEs e editores de código](materiais-gratuitos-para-devs.md#-ides-e-editores-de-código)<br>
+📌 [Linguagens de programação](materiais-gratuitos-para-devs.md#-linguagens-de-programação)<br>
+📌 [Hospedagem](materiais-gratuitos-para-devs.md#-hospedagem)<br>
+
+
+---
+
+<img src="./assets/banner4.png">
+
+
+## 📕 Índice 
+
+📌 [Ferramentas](materiais-gratuitos-para-designers.md#-ferramentas) <br>
 
 
 ## 🌈 Contribuidores<br>
