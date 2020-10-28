@@ -98,4 +98,10 @@
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
 ## ⚖ Licença
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+
+## ℹ️ Informações do projeto
+
+![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/recursos-gratuitos?style=for-the-badge)
