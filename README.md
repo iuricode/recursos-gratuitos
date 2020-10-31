@@ -3,7 +3,7 @@
 </h1>
 
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
-> Então, com essa dúvida criei esse repositório como resposta, aqui tem tudo que um desenvolvedor precisa para aprender e criar seus sites.
+> Então, com essa dúvida criei esse repositório como resposta, mais do que apenas um monte de links, esta é uma seleção do que julgamos ser algumas das melhores oportunidades de aprendizado que você encontrará online gratuitamente.
 
 
 <img src="./assets/banner1.png">
