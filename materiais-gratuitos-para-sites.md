@@ -37,7 +37,7 @@
 | [New Old Stock](https://nos.twnsnd.co/) | <img src="assets/eua.png" width="40px"> |
 | [Pic Jumbo](https://picjumbo.com/) | <img src="assets/eua.png" width="40px"> |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | <img src="assets/eua.png" width="40px"> |
-| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | 
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="assets/eua.png" width="40px"> |
 | [Stockvault](http://www.stockvault.net/) | <img src="assets/eua.png" width="40px"> |
 | [Placeholder](https://placeholder.com/) | <img src="assets/eua.png" width="40px"> |
 | [Realistic Shots](https://realisticshots.com/) | <img src="assets/eua.png" width="40px"> |
