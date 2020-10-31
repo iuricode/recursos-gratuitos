@@ -192,6 +192,7 @@
 | [Colors.lol](https://colors.lol/) | <img src="assets/eua.png" width="40px"> |
 | [colors.dopely](https://colors.dopely.top/) | <img src="assets/eua.png" width="40px"> |
 | [UIColor Picker](https://uicolorpicker.com/) | <img src="assets/eua.png" width="40px"> |
+| [Pigment](https://pigment.shapefactory.co/) | <img src="assets/eua.png" width="40px"> |
 
 
 ## 🔤 Fontes e Fontes de ícones
