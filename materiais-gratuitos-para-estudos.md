@@ -56,6 +56,7 @@
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="assets/br.jpg" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbiA)| Youtube | Não | <img src="assets/br.jpg" width="40px"> | 
+| [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)| Youtube | Não | <img src="assets/br.jpg" width="40px"> |
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)| Curso | Sim | <img src="assets/br.jpg" width="40px"> | 
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | Não | <img src="assets/br.jpg" width="40px"> | 
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)| Youtube | Não | <img src="assets/br.jpg" width="40px"> |
@@ -131,6 +132,9 @@
 | [Jessica Temporal](https://jtemporal.com/ ) | <img src="assets/br.jpg" width="40px"> | [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="assets/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> |
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="assets/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="assets/eua.png" width="40px"> |
+| [Laraveling](https://laraveling.tech/) | <img src="assets/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="assets/eua.png" width="40px"> |
+| [Leticia Portella](https://leportella.com/pt-br) | <img src="assets/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="assets/eua.png" width="40px"> |
+| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="assets/br.jpg" width="40px"> | 
 
 <br>[⬆ Voltar ao índice](#-índice)<br>
 
