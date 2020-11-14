@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="../assets/logo.png">
+  <img src="../../assets/logo.png">
 </h1>
 
 > When I'm about to start to develop or coding a website, there's always a doubt: <i>Which resources I must to use and where I can find them?</i>
 > Then, because of this question, I created this repository as a answer to it, it's more than a plenty of links, that's a selection of what we judge as the some of the better ways to learn online for free.
 
-<img src="../assets/banner1.png">
+<img src="../../assets/banner1.png">
 
 ## 📕 Index
 
@@ -20,7 +20,7 @@
 
 ---
 
-<img src="../assets/banner2.png">
+<img src="../../assets/banner2.png">
 
 ## 📕 Index
 
@@ -31,7 +31,7 @@
 
 ---
 
-<img src="../assets/banner3.png">
+<img src="../../assets/banner3.png">
 
 ## 📕 Index
 
@@ -42,7 +42,7 @@
 
 ---
 
-<img src="../assets/banner4.png">
+<img src="../../assets/banner4.png">
 
 ## 📕 Index
 

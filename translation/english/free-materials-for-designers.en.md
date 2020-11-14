@@ -1,6 +1,6 @@
 <br>[⬅ Back to start ](https://github.com/iuricode/recursos-gratuitos) <br>
 
-<img src="./assets/banner4.png">
+<img src="../../assets/banner4.png">
 
 ## 📕 Index 
 
