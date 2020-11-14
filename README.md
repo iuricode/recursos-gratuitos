@@ -2,9 +2,9 @@
   <img src="./assets/logo.png">
 </h1>
 
-#### Leia o readme em outro idioma:
+#### Leia o readme em outro idioma: <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translation/README.en.md)</kbd>
 
-<kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translation/README.en.md)</kbd>
+
 
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
 > Então, com essa dúvida criei esse repositório como resposta, mais do que apenas um monte de links, esta é uma seleção do que julgamos ser algumas das melhores oportunidades de aprendizado que você encontrará online gratuitamente.
@@ -90,7 +90,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/reness0">
-        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Renê Júnior no Github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Foto do Renê Júnior no Github"/><br>
         <sub>
           <b>Renê Júnior</b>
         </sub>
