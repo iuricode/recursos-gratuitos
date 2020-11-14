@@ -35,7 +35,7 @@
 
 ## 📕 Index
 
-📌 [Develop Tools](free-materials-for-devs.en.md#-develop-tools)<br>
+📌 [Developer Tools](free-materials-for-devs.en.md#-developer-tools)<br>
 📌 [IDEs and Code editors](free-materials-for-devs.en.md#-ides-and-code-editors)<br>
 📌 [Programming Languages](free-materials-for-devs.en.md#-programming-languages)<br>
 📌 [Hosting](free-materials-for-devs.en.md#-hosting)<br>
