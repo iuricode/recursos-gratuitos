@@ -1,4 +1,4 @@
-<br>[⬅ Back to the start](https://github.com/iuricode/recursos-gratuitos)<br>
+<br>[⬅ Back to the start](readme.en.md)<br>
 
 <img src="../../assets/banner1.png">
 
@@ -335,4 +335,4 @@
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../../assets/eua.png" width="40px"> |                          
 | [Logo Maker](https://logomakr.com/) | <img src="../../assets/eua.png" width="40px"> |
 
-<br>[⬆ Back to the index](materiais-gratuitos-para-sites.en-md#-index)<br>
+<br>[⬆ Back to the index](free-materials-for-websites.en.md#-index)<br>

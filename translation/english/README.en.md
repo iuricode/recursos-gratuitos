@@ -2,6 +2,10 @@
   <img src="../../assets/logo.png">
 </h1>
 
+
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](../../README.md)</kbd>
+
+
 > When I'm about to start to develop or coding a website, there's always a doubt: <i>Which resources I must to use and where I can find them?</i>
 > Then, because of this question, I created this repository as a answer to it, it's more than a plenty of links, that's a selection of what we judge as the some of the better ways to learn online for free.
 
