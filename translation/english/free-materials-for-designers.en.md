@@ -1,4 +1,4 @@
-<br>[⬅ Back to start ](https://github.com/iuricode/recursos-gratuitos) <br>
+<br>[⬅ Back to the start ](https://github.com/iuricode/recursos-gratuitos) <br>
 
 <img src="../../assets/banner4.png">
 
@@ -50,4 +50,4 @@
 | [Whimsical](https://whimsical.com/) | 
 
 
-<br>[⬆ Back to index](#-index) <br>
+<br>[⬆ Back to the index](#-index) <br>

@@ -1,4 +1,4 @@
-<br>[⬅ Back to start](https://github.com/iuricode/reCourses-gratuitos)<br>
+<br>[⬅ Back to the start](https://github.com/iuricode/reCourses-gratuitos)<br>
 
 <img src="../../assets/banner2.png">
 
@@ -136,6 +136,6 @@
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../../assets/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../../assets/eua.png" width="40px"> |
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../../assets/br.jpg" width="40px"> | 
 
-<br>[⬆ Back to index](#-index)<br>
+<br>[⬆ Back to the index](#-index)<br>
 
 
