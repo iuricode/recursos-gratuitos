@@ -9,14 +9,14 @@
 
 ## 📕 Index
 
-📌 [Images](../materiais-gratuitos-para-sites.md#-imagens)<br>
-📌 [Illustrations and SVG](../materiais-gratuitos-para-sites.md#-ilustrações-e-vetores)<br>
-📌 [Emojis](../materiais-gratuitos-para-sites.md#-emojis)<br>
-📌 [Color palette](../materiais-gratuitos-para-sites.md#-paletas-de-cores)<br>
-📌 [Fonts and Icon Fonts](../materiais-gratuitos-para-sites.md#-fontes-e-fontes-de-ícones)<br>
-📌 [Icons](../materiais-gratuitos-para-sites.md#-ícones)<br>
-📌 [Animations e Gifs](../materiais-gratuitos-para-sites.md#-animações-e-gifs)<br>
-📌 [Logos](../materiais-gratuitos-para-sites.md#-logos)<br>
+📌 [Images](free-materials-for-websites.en.md#-images)<br>
+📌 [Illustrations and SVG](free-materials-for-websites.en.md#-illustrations-and-svg)<br>
+📌 [Emojis](free-materials-for-websites.en.md#-emojis)<br>
+📌 [Color palette](free-materials-for-websites.en.md#-color-palette)<br>
+📌 [Fonts and Icon Fonts](free-materials-for-websites.en.md#-fonts-and-icon-fonts)<br>
+📌 [Icons](free-materials-for-websites.en.md#-icons)<br>
+📌 [Animations e Gifs](free-materials-for-websites.en.md#-animations-and-gifs)<br>
+📌 [Logos](free-materials-for-websites.en.md#-logos)<br>
 
 ---
 
@@ -24,10 +24,10 @@
 
 ## 📕 Index
 
-📌 [Books](../materiais-gratuitos-para-estudos.md#-livros)<br>
-📌 [Courses](../materiais-gratuitos-para-estudos.md#-cursos)<br>
-📌 [Podcasts](../materiais-gratuitos-para-estudos.md#-podcasts)<br>
-📌 [Websites and Blogs](../materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
+📌 [Books](free-materials-for-studies.en.md#-books)<br>
+📌 [Courses](free-materials-for-studies.en.md#-courses)<br>
+📌 [Podcasts](free-materials-for-studies.en.md#-podcasts)<br>
+📌 [Websites and Blogs](free-materials-for-studies.en.md#-websites-and-blogs)<br>
 
 ---
 
@@ -35,10 +35,10 @@
 
 ## 📕 Index
 
-📌 [Develop Tools](../materiais-gratuitos-para-devs.md#-ferramentas-de-desenvolvimento)<br>
-📌 [IDEs and Code editors](../materiais-gratuitos-para-devs.md#-ides-e-editores-de-código)<br>
-📌 [Programming Languages](../materiais-gratuitos-para-devs.md#-linguagens-de-programação)<br>
-📌 [Hosting](../materiais-gratuitos-para-devs.md#-hospedagem)<br>
+📌 [Develop Tools](free-materials-for-devs.en.md#-develop-tools)<br>
+📌 [IDEs and Code editors](free-materials-for-devs.en.md#-ides-and-code-editors)<br>
+📌 [Programming Languages](free-materials-for-devs.en.md#-programming-languages)<br>
+📌 [Hosting](free-materials-for-devs.en.md#-hosting)<br>
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 📕 Index
 
-📌 [Tools](../materiais-gratuitos-para-designers.md#-ferramentas) <br>
+📌 [Tools](free-materials-for-designers.en.md#-tools) <br>
 
 ## 🌈 Contributors<br>
 
