@@ -99,7 +99,7 @@
 
 ## ⛩ Be one of the contributors<br>
 
-Do you want to make part of this project? Click [HERE](../CONTRIBUTING.md) e and read how to contribute.<br>
+Do you want to make part of this project? Click [HERE](./CONTRIBUTING.en.md) e and read how to contribute.<br>
 
 ## ⚖ License
 
