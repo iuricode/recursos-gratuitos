@@ -1,16 +1,16 @@
-<br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos)<br>
+<br>[⬅ Back to start](https://github.com/iuricode/recursos-gratuitos)<br>
 
 <img src="./assets/banner3.png">
 
-## 📕 Índice 
+## 📕 Index
 
-📌 [Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)<br>
-📌 [IDEs e editores de código](#-ides-e-editores-de-código)<br>
-📌 [Linguagens de programação](#-linguagens-de-programação)<br>
-📌 [Hospedagem](#-hospedagem)<br>
+📌 [Developer tools](#-developer-tools)<br>
+📌 [IDEs and Code editors](#-ides-and-code-editors)<br>
+📌 [Programming languages](#-programming-languages)<br>
+📌 [Hosting](#-hosting)<br>
 
 
-## 🔧 Ferramentas de desenvolvimento
+## 🔧 Developer tools
 
 | Links      | 
 | :----------: |
@@ -67,7 +67,7 @@
 | [WordPress](https://wordpress.org/) | 
 | [XML Sitemaps](https://www.xml-sitemaps.com/) | 
 
-## 📝 IDEs e editores de código
+## 📝 IDEs e code editors
 
 | Links      | 
 | :----------: 
@@ -86,7 +86,7 @@
 | [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
 | [Visual Studio Code](https://code.visualstudio.com/) | 
 
-## 🔤 Linguagens de programação
+## 🔤 Programming languages
 
 | Links      |  
 | :----------: | 
@@ -106,7 +106,7 @@
 | [Swift](https://www.apple.com/br/swift/) | 
 | [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) | 
 
-## 🏨 Hospedagem
+## 🏨 Hosting
 
 | Links      | 
 | :----------: | 
@@ -133,4 +133,4 @@
 
 
 
-<br>[⬆ Voltar ao índice](#-índice)<br>
+<br>[⬆ Back to index](#-index)<br>
