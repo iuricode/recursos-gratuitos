@@ -2,7 +2,7 @@
   <img src="./assets/logo.png">
 </h1>
 
-#### Leia o readme em outro idioma: <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translation/README.en.md)</kbd>
+#### Leia o readme em outro idioma: <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translation/english/README.en.md)</kbd>
 
 
 

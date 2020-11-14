@@ -103,7 +103,7 @@ Do you want to make part of this project? Click [HERE](./CONTRIBUTING.en.md) e a
 
 ## ⚖ License
 
-This projects is  licensed. Open the file [LICENSE](../LICENSE.md) for more details.<br>
+This projects is  licensed. Open the file [LICENSE](./LICENSE.en.md) for more details.<br>
 
 ## ℹ️ Project Info
 
