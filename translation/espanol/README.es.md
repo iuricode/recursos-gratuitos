@@ -16,7 +16,7 @@
 
 ## 📕 Índice
 
-📌 [Imagenes](.pages/materiales-gratuitos-para-sitio-web.es.md#-imagenes)<br>
+📌 [Imagenes](pages/materiales-gratuitos-para-sitio-web.es.md#-imagenes)<br>
 📌 [Ilustraciones y SVG](.pages/materiales-gratuitos-para-sitio-web.es.md#-ilustraciones-y-svg)<br>
 📌 [Emojis](.pages/materiales-gratuitos-para-sitio-web.es.md#-emojis)<br>
 📌 [Paleta de color](.pages/materiales-gratuitos-para-sitio-web.es.md#-paleta-de-color)<br>
