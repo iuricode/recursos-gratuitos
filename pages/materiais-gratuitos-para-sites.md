@@ -1,6 +1,6 @@
 <br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos)<br>
 
-<img src="./assets/image/banner1.png">
+<img src="../assets/image/banner1.png">
 
 
 ## 📕 Índice
@@ -267,7 +267,7 @@
 | [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) | <img src="../flags/eua.png" width="40px"> |
 | [Weather Icons](https://erikflowers.github.io/weather-icons/) | <img src="../flags/eua.png" width="40px"> | 
 | [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | <img src="../flags/eua.png" width="40px"> |
-| [Jam Icons](https://jam-icons.com/) | <img src="../flags/eua.png" width="40px"> | <img src="../flags/eua.png" width="40px"> |
+| [Jam Icons](https://jam-icons.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Fontastic.me](http://fontastic.me/) | <img src="../flags/eua.png" width="40px"> |
 | [Fontello](http://fontello.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Linea](https://linea.io/) | <img src="../flags/eua.png" width="40px"> |
