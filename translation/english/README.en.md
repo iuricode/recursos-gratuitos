@@ -3,7 +3,9 @@
 </h1>
 
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](../../README.md)</kbd>
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
+
+#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="../../flags/es.png" width="22">](../espanol/README.es.md)</kbd>
 
 
 > When I'm about to start to develop or coding a website, there's always a doubt: <i>Which resources I must to use and where I can find them?</i>
