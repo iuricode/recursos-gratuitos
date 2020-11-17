@@ -31,10 +31,10 @@
 
 ## 📕 Índice
 
-📌 [Libros](page/materiales-gratuitos-para-estudios.es.md#-libros)<br>
-📌 [Cursos](page/materiales-gratuitos-para-estudios.es.md#-cursos)<br>
-📌 [Podcasts](page/materiales-gratuitos-para-estudios.es.md#-podcasts)<br>
-📌 [Sitios web y blogs](page/materiales-gratuitos-para-estudios.es.md#-sitios-web-y-blogs)<br>
+📌 [Libros](pages/materiales-gratuitos-para-estudios.es.md#-libros)<br>
+📌 [Cursos](pages/materiales-gratuitos-para-estudios.es.md#-cursos)<br>
+📌 [Podcasts](pages/materiales-gratuitos-para-estudios.es.md#-podcasts)<br>
+📌 [Sitios web y blogs](pages/materiales-gratuitos-para-estudios.es.md#-sitios-web-y-blogs)<br>
 
 ---
 
