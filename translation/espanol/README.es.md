@@ -5,7 +5,7 @@
 
 #### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](../english/README.en.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../english/README.en.md)</kbd>
 
 
 
@@ -17,13 +17,13 @@
 ## 📕 Índice
 
 📌 [Imagenes](pages/materiales-gratuitos-para-sitio-web.es.md#-imagenes)<br>
-📌 [Ilustraciones y SVG](.pages/materiales-gratuitos-para-sitio-web.es.md#-ilustraciones-y-svg)<br>
-📌 [Emojis](.pages/materiales-gratuitos-para-sitio-web.es.md#-emojis)<br>
-📌 [Paleta de color](.pages/materiales-gratuitos-para-sitio-web.es.md#-paleta-de-color)<br>
-📌 [Fuentes y fuentes de iconos](.pages/materiales-gratuitos-para-sitio-web.es.md#-fuentes-y-fuentes-de-iconos)<br>
-📌 [Iconos](.pages/materiales-gratuitos-para-sitio-web.es.md#-iconos)<br>
-📌 [Animaciones y gifs](.pages/materiales-gratuitos-para-sitio-web.es.md#-animaciones-y-gifs)<br>
-📌 [Logos](.pages/materiales-gratuitos-para-sitio-web.es.md#-logos)<br>
+📌 [Ilustraciones y SVG](pages/materiales-gratuitos-para-sitio-web.es.md#-ilustraciones-y-svg)<br>
+📌 [Emojis](pages/materiales-gratuitos-para-sitio-web.es.md#-emojis)<br>
+📌 [Paleta de color](pages/materiales-gratuitos-para-sitio-web.es.md#-paleta-de-color)<br>
+📌 [Fuentes y fuentes de iconos](pages/materiales-gratuitos-para-sitio-web.es.md#-fuentes-y-fuentes-de-iconos)<br>
+📌 [Iconos](pages/materiales-gratuitos-para-sitio-web.es.md#-iconos)<br>
+📌 [Animaciones y gifs](pages/materiales-gratuitos-para-sitio-web.es.md#-animaciones-y-gifs)<br>
+📌 [Logos](pages/materiales-gratuitos-para-sitio-web.es.md#-logos)<br>
 
 ---
 
@@ -31,10 +31,10 @@
 
 ## 📕 Índice
 
-📌 [Libros](.page/materiales-gratuitos-para-estudios.es.md#-libros)<br>
-📌 [Cursos](.page/materiales-gratuitos-para-estudios.es.md#-cursos)<br>
-📌 [Podcasts](.page/materiales-gratuitos-para-estudios.es.md#-podcasts)<br>
-📌 [Sitios web y blogs](.page/materiales-gratuitos-para-estudios.es.md#-sitios-web-y-blogs)<br>
+📌 [Libros](page/materiales-gratuitos-para-estudios.es.md#-libros)<br>
+📌 [Cursos](page/materiales-gratuitos-para-estudios.es.md#-cursos)<br>
+📌 [Podcasts](page/materiales-gratuitos-para-estudios.es.md#-podcasts)<br>
+📌 [Sitios web y blogs](page/materiales-gratuitos-para-estudios.es.md#-sitios-web-y-blogs)<br>
 
 ---
 
@@ -42,10 +42,10 @@
 
 ## 📕 Índice
 
-📌 [Herramientas de desarrollo](.pages/materiales-gratuitos-para-desarrolladores.es.md#-herramientas-de-desarrollo)<br>
-📌 [IDEs y editores de código](.pages/materiales-gratuitos-para-desarrolladores.es.md#-ides-y-editores-de-codigo)<br>
-📌 [Lenguajes de programación](.pages/materiales-gratuitos-para-desarrolladores.es.md#-lenguajes-de-programacion)<br>
-📌 [Hospedaje](.pages/materiales-gratuitos-para-desarrolladores.es.md#-hospedaje)<br>
+📌 [Herramientas de desarrollo](pages/materiales-gratuitos-para-desarrolladores.es.md#-herramientas-de-desarrollo)<br>
+📌 [IDEs y editores de código](pages/materiales-gratuitos-para-desarrolladores.es.md#-ides-y-editores-de-codigo)<br>
+📌 [Lenguajes de programación](pages/materiales-gratuitos-para-desarrolladores.es.md#-lenguajes-de-programacion)<br>
+📌 [Hospedaje](pages/materiales-gratuitos-para-desarrolladores.es.md#-hospedaje)<br>
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 📕 Índice
 
-📌 [herramientas](.pages/materiales-gratuitos-para-disenadores.es.md#-herramientas) <br>
+📌 [herramientas](pages/materiales-gratuitos-para-disenadores.es.md#-herramientas) <br>
 
 
 <br>
