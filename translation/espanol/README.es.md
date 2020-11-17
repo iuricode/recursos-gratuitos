@@ -6,8 +6,11 @@
 #### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
 
 #### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../english/README.en.md)</kbd>
+<<<<<<< HEAD
 
 #### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](../中文/README.cn.md)</kbd>
+=======
+>>>>>>> 5cfe4cd66b4e12a33c3c0558be357913fbc8e12e
 
 
 
