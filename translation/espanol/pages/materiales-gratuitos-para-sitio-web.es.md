@@ -19,7 +19,7 @@
 
 | Links   | Idioma | Links    | Idioma | Links    | Idioma |
 | :-------------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| [Wunderstock](https://wunderstock.com/) | <img src="../../../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../../../flags/br.jpg" width="40px"> | [Free Chinese Fonts](https://www.freechinesefont.com/) | <img src="../../../flags/chinese.png" width="40px"> |
+| [Wunderstock](https://wunderstock.com/) | <img src="../../../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../../../flags/br.jpg" width="40px"> |
 | [Pixabay](https://pixabay.com/) | <img src="../../../flags/eua.png" width="40px">  | [Behance](https://www.behance.net/galleries/illustration) | <img src="../../../flags/br.jpg" width="40px"> |
 | [Freepik](https://www.freepik.com/popular-photos) | <img src="../../../flags/eua.png" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Unsplash](https://unsplash.com/) | <img src="../../../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../../../flags/br.jpg" width="40px"> |

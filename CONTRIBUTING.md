@@ -18,4 +18,4 @@ Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 Para manter um padrão geral em todos os links, você deve:
 - Adicionar um link direto para o conteúdo
 - Adicionar um título condizente ao título do conteúdo
-- Adicionar uma bandeira (brasil, estados unidos ou china) para simbolizar o idioma do link
+- Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link

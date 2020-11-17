@@ -6,6 +6,8 @@
 
 #### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translation/espanol/README.es.md)</kbd>
 
+#### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](translation/中文/README.cn.md)</kbd>
+
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
 > Então, com essa dúvida criei esse repositório como resposta, mais do que apenas um monte de links, esta é uma seleção do que julgamos ser algumas das melhores oportunidades de aprendizado que você encontrará online gratuitamente.
 
