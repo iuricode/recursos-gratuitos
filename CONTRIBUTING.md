@@ -1,21 +1,24 @@
-# Como contribuir?
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/iuricode/recursos-gratuitos/issues/new).
+# How to contribute?
+This is totally an open source project which accepts contributions through pull requests on GitHub. This document is responsible to organize all contributions based on a pattern pre-established. In case of any questions, [open an issue](https://github.com/iuricode/free-resources/issues/new).
 
-## Primeiros passos
-1. Fork este repositório
-2. Adicione os links de acordo com o estilo padronizado neste guia
-3. Verifique se o recurso é realmente gratuito, sem qualquer tipo de surpresas ocultas
-4. Envie seus commits em português
-5. Solicite a pull request
-6. Insira um pequeno resumo dos links adicionados
+## Get Started
 
-## Estilo dos links
-Um link precisa ser adicionado em sua forma mais autêntica, isso é:
-- Você não pode adicionar encurtadores de links
-- Você não pode adicionar redirecionadores (mesmo que da própria aplicação)
-- Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
+1. Fork this repository
+2. Add links based on the link pattern defined on this document.
+3. Make sure whether the link is entirely free.
+4. Commit all the changes.
+5. Make a pull request.
+6. Sum up the link's content.
 
-Para manter um padrão geral em todos os links, você deve:
-- Adicionar um link direto para o conteúdo
-- Adicionar um título condizente ao título do conteúdo
-- Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link
+## Link's Style
+
+A link must to be added in your more authentic shape.
+- You can't use link shortener.
+- You can't use link redirect (even they're the same application).
+- You can't use  affiliate link (or with tracking parameters).
+
+To sustain the same pattern for all links, you must to:
+
+- Add a link which targets directly to the content.
+- Add a title which matches with the title of the content in the link.
+- Add a flag (Brazil, US, China, Español) to represent the language of the content.

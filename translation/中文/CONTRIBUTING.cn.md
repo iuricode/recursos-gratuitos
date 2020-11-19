@@ -1,5 +1,5 @@
 # 如何貢獻?
-這完全是一個開源項目，通過GitHub上的拉取請求接受貢獻。本文檔負責根據預先建立的模式組織所有貢獻. 如有任何疑問，請[打開問題](https://github.com/iuricode/recursos-gratuitos/issues/new).
+這完全是一個開源項目，通過GitHub上的拉取請求接受貢獻。本文檔負責根據預先建立的模式組織所有貢獻. 如有任何疑問，請[打開問題](https://github.com/iuricode/free-resources/issues/new).
 
 ## 入門
 

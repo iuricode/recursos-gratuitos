@@ -1,23 +1,17 @@
 <h1 align="center">
-  <img src="./assets/image/logoes.png">
+  <img src="assets/image/logoes.png">
 </h1>
 
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src=flags/br.jpg" width="22">](../portuguese/README.br.md)</kbd>
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
-
-#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../english/README.en.md)</kbd>
-<<<<<<< HEAD
+#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../../README.md)</kbd>
 
 #### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](../中文/README.cn.md)</kbd>
-=======
->>>>>>> 5cfe4cd66b4e12a33c3c0558be357913fbc8e12e
-
-
 
 > Cuando estoy a punto de comenzar a desarrollar o codificar un sitio web, siempre hay una duda: <i> ¿Qué recursos debo usar y dónde puedo encontrarlos?</i>
 > Luego, debido a esta pregunta, creé este repositorio como respuesta, es más que un montón de enlaces, esa es una selección de lo que juzgamos como algunas de las mejores formas de aprender en línea de forma gratuita.
 
-<img src="./assets/image/banner1es.png">
+<img src="assets/image/banner1es.png">
 
 ## 📕 Índice
 
@@ -32,7 +26,7 @@
 
 ---
 
-<img src="./assets/image/banner2es.png">
+<img src="assets/image/banner2es.png">
 
 ## 📕 Índice
 
@@ -43,7 +37,7 @@
 
 ---
 
-<img src="./assets/image/banner3es.png">
+<img src="assets/image/banner3es.png">
 
 ## 📕 Índice
 
@@ -54,7 +48,7 @@
 
 ---
 
-<img src="./assets/image/banner4es.png">
+<img src="assets/image/banner4es.png">
 
 ## 📕 Índice
 
@@ -69,7 +63,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="La foto de Iuri Silva está en github"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
@@ -77,7 +71,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
-        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Waly's picture on github"/><br>
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="La foto de Waly está en github"/><br>
         <sub>
           <b><<!---->Waly></b>
         </sub>
@@ -85,7 +79,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/joaomaranhao">
-        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="João Maranhão's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="La foto de João Maranhão está en github"/><br>
         <sub>
           <b>João Maranhão</b>
         </sub>
@@ -93,7 +87,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/ff4LL">
-        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Carlos Daniel's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="La foto de Carlos Daniel está en github"/><br>
         <sub>
           <b>Carlos Daniel</b>
         </sub>
@@ -101,7 +95,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/reness0">
-        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Renê Júnior's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="La foto de Renê Júnior está en github"/><br>
         <sub>
           <b>Renê Júnior</b>
         </sub>
@@ -114,14 +108,14 @@
 
 ## ⛩ Sea uno de los contribuyentes<br>
 
-Quieres formar parte de este proyecto? Haga clic en [AQUÍ](./CONTRIBUTING.es.md) y lea cómo contribuir.<br>
+Quieres formar parte de este proyecto? Haga clic en [AQUÍ](CONTRIBUTING.es.md) y lea cómo contribuir.<br>
 
 ## ⚖ Licencia
 
-Este proyecto tiene licencia. Abra el archivo [LICENCIA](./LICENSE.es.md) para obtener más detalles.<br>
+Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obtener más detalles.<br>
 
 ## ℹ️ Información del proyecto
 
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/recursos-gratuitos?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/recursos-gratuitos?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/free-resources?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/iuricode/free-resources?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/free-resources?style=for-the-badge)
