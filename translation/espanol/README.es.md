@@ -2,7 +2,7 @@
   <img src="assets/image/logoes.png">
 </h1>
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src=../../flags/br.jpg" width="22">](../portuguese/README.br.md)</kbd>
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../portuguese/README.br.md)</kbd>
 
 #### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../../README.md)</kbd>
 
