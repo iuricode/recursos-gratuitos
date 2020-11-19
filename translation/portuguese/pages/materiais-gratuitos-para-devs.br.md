@@ -1,4 +1,4 @@
-<br>[⬅ Voltar ao início](https://github.com/iuricode/recursos-gratuitos)<br>
+<br>[⬅ Voltar ao início](../README.br.md)<br>
 
 <img src="../assets/image/banner3.png">
 

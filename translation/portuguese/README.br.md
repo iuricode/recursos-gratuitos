@@ -2,11 +2,11 @@
   <img src="assets/image/logo.png">
 </h1>
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](translation/english/README.en.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../../README.md)</kbd>
 
-#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="../../flags/es.png" width="22">](translation/espanol/README.es.md)</kbd>
+#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="../../flags/es.png" width="22">](../espanol/README.es.md)</kbd>
 
-#### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](translation/中文/README.cn.md)</kbd>
+#### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](../中文/README.cn.md)</kbd>
 
 > Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
 > Então, com essa dúvida criei esse repositório como resposta, mais do que apenas um monte de links, esta é uma seleção do que julgamos ser algumas das melhores oportunidades de aprendizado que você encontrará online gratuitamente.
@@ -15,14 +15,14 @@
 
 ## 📕 Índice
 
-📌 [Imagens](pages/materiais-gratuitos-para-sites.md#-imagens)<br>
-📌 [Ilustrações e Vetores](pages/materiais-gratuitos-para-sites.md#-ilustrações-e-vetores)<br>
-📌 [Emojis](pages/materiais-gratuitos-para-sites.md#-emojis)<br>
-📌 [Paletas de Cores](pages/materiais-gratuitos-para-sites.md#-paletas-de-cores)<br>
-📌 [Fontes e Fontes de ícones](pages/materiais-gratuitos-para-sites.md#-fontes-e-fontes-de-ícones)<br>
-📌 [Ícones](pages/materiais-gratuitos-para-sites.md#-ícones)<br>
-📌 [Animações e Gifs](pages/materiais-gratuitos-para-sites.md#-animações-e-gifs)<br>
-📌 [Logos](pages/materiais-gratuitos-para-sites.md#-logos)<br>
+📌 [Imagens](pages/materiais-gratuitos-para-sites.br.md#-imagens)<br>
+📌 [Ilustrações e Vetores](pages/materiais-gratuitos-para-sites.br.md#-ilustrações-e-vetores)<br>
+📌 [Emojis](pages/materiais-gratuitos-para-sites.br.md#-emojis)<br>
+📌 [Paletas de Cores](pages/materiais-gratuitos-para-sites.br.md#-paletas-de-cores)<br>
+📌 [Fontes e Fontes de ícones](pages/materiais-gratuitos-para-sites.br.md#-fontes-e-fontes-de-ícones)<br>
+📌 [Ícones](pages/materiais-gratuitos-para-sites.br.md#-ícones)<br>
+📌 [Animações e Gifs](pages/materiais-gratuitos-para-sites.br.md#-animações-e-gifs)<br>
+📌 [Logos](pages/materiais-gratuitos-para-sites.br.md#-logos)<br>
 
 ---
 
@@ -30,10 +30,10 @@
 
 ## 📕 Índice
 
-📌 [Livros](pages/materiais-gratuitos-para-estudos.md#-livros)<br>
-📌 [Cursos](pages/materiais-gratuitos-para-estudos.md#-cursos)<br>
-📌 [Podcasts](pages/materiais-gratuitos-para-estudos.md#-podcasts)<br>
-📌 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
+📌 [Livros](pages/materiais-gratuitos-para-estudos.br.md#-livros)<br>
+📌 [Cursos](pages/materiais-gratuitos-para-estudos.br.md#-cursos)<br>
+📌 [Podcasts](pages/materiais-gratuitos-para-estudos.br.md#-podcasts)<br>
+📌 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.br.md#-sites-e-blogs)<br>
 
 ---
 
@@ -41,10 +41,10 @@
 
 ## 📕 Índice
 
-📌 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.md#-ferramentas-de-desenvolvimento)<br>
-📌 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.md#-ides-e-editores-de-código)<br>
-📌 [Linguagens de programação](pages/materiais-gratuitos-para-devs.md#-linguagens-de-programação)<br>
-📌 [Hospedagem](pages/materiais-gratuitos-para-devs.md#-hospedagem)<br>
+📌 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.br.md#-ferramentas-de-desenvolvimento)<br>
+📌 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.br.md#-ides-e-editores-de-código)<br>
+📌 [Linguagens de programação](pages/materiais-gratuitos-para-devs.br.md#-linguagens-de-programação)<br>
+📌 [Hospedagem](pages/materiais-gratuitos-para-devs.br.md#-hospedagem)<br>
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 📕 Índice
 
-📌 [Ferramentas](pages/materiais-gratuitos-para-designers.md#-ferramentas) <br>
+📌 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas) <br>
 
 ## 🌈 Contribuidores<br>
 
