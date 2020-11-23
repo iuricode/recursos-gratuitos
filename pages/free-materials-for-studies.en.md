@@ -134,7 +134,6 @@
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
 | [Laraveling](https://laraveling.tech/) | <img src="../flags/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
-| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> | 
 
 <br>[⬆ Back to the index](#-index)<br>
 
