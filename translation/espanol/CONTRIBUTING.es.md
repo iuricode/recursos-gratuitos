@@ -1,5 +1,5 @@
 # Cómo contribuir?
-Este es un proyecto totalmente de código abierto que acepta contribuciones a través de solicitudes de extracción en GitHub. Este documento se encarga de organizar todas las contribuciones en base a un patrón preestablecido. En caso de cualquier duda, [abre un número](https://github.com/iuricode/free-resources/issues/new).
+Este es un proyecto totalmente de código abierto que acepta contribuciones a través de solicitudes de extracción en GitHub. Este documento se encarga de organizar todas las contribuciones en base a un patrón preestablecido. En caso de cualquier duda, [abre un número](https://github.com/iuricode/recursos-gratuitos/issues/new).
 
 ## Empezar
 

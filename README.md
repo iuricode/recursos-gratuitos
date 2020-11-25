@@ -1,60 +1,60 @@
 <h1 align="center">
-  <img src="assets/image/logoen.png">
+  <img src="assets/image/logo.png">
 </h1>
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="flags/br.jpg" width="22">](translation/portuguese/README.br.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src=".flags/eua.png" width="22">](translation/english/README.en.md)</kbd>
 
 #### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translation/espanol/README.es.md)</kbd>
 
 #### 切換到英文: <kbd>[<img title="中文" alt="中文" src="flags/cn.png" width="22">](translation/中文/README.cn.md)</kbd>
 
-> When I'm about to start to develop or coding a website, there's always a doubt: <i>Which resources I must to use and where I can find them?</i>
-> Then, because of this question, I created this repository as a answer to it, it's more than a plenty of links, that's a selection of what we judge as the some of the better ways to learn online for free.
+> Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
+> Então, com essa dúvida criei esse repositório como resposta, mais do que apenas um monte de links, esta é uma seleção do que julgamos ser algumas das melhores oportunidades de aprendizado que você encontrará online gratuitamente.
 
-<img src="assets/image/banner1en.png">
+<img src="assets/image/banner1.png">
 
-## 📕 Index
+## 📕 Índice
 
-📌 [Images](pages/free-materials-for-websites.en.md#-images)<br>
-📌 [Illustrations and SVG](pages/free-materials-for-websites.en.md#-illustrations-and-svg)<br>
-📌 [Emojis](pages/free-materials-for-websites.en.md#-emojis)<br>
-📌 [Color palette](pages/free-materials-for-websites.en.md#-color-palette)<br>
-📌 [Fonts and Icon Fonts](pages/free-materials-for-websites.en.md#-fonts-and-icon-fonts)<br>
-📌 [Icons](pages/free-materials-for-websites.en.md#-icons)<br>
-📌 [Animations e Gifs](pages/free-materials-for-websites.en.md#-animations-and-gifs)<br>
-📌 [Logos](pages/free-materials-for-websites.en.md#-logos)<br>
-
----
-
-<img src="assets/image/banner2en.png">
-
-## 📕 Index
-
-📌 [Books](pages/free-materials-for-studies.en.md#-books)<br>
-📌 [Courses](pages/free-materials-for-studies.en.md#-courses)<br>
-📌 [Podcasts](pages/free-materials-for-studies.en.md#-podcasts)<br>
-📌 [Websites and Blogs](pages/free-materials-for-studies.en.md#-websites-and-blogs)<br>
+📌 [Imagens](pages/materiais-gratuitos-para-sites.br.md#-imagens)<br>
+📌 [Ilustrações e Vetores](pages/materiais-gratuitos-para-sites.br.md#-ilustrações-e-vetores)<br>
+📌 [Emojis](pages/materiais-gratuitos-para-sites.br.md#-emojis)<br>
+📌 [Paletas de Cores](pages/materiais-gratuitos-para-sites.br.md#-paletas-de-cores)<br>
+📌 [Fontes e Fontes de ícones](pages/materiais-gratuitos-para-sites.br.md#-fontes-e-fontes-de-ícones)<br>
+📌 [Ícones](pages/materiais-gratuitos-para-sites.br.md#-ícones)<br>
+📌 [Animações e Gifs](pages/materiais-gratuitos-para-sites.br.md#-animações-e-gifs)<br>
+📌 [Logos](pages/materiais-gratuitos-para-sites.br.md#-logos)<br>
 
 ---
 
-<img src="assets/image/banner3en.png">
+<img src="assets/image/banner2.png">
 
-## 📕 Index
+## 📕 Índice
 
-📌 [Developer Tools](pages/free-materials-for-devs.en.md#-developer-tools)<br>
-📌 [IDEs and Code editors](pages/free-materials-for-devs.en.md#-ides-and-code-editors)<br>
-📌 [Programming Languages](pages/free-materials-for-devs.en.md#-programming-languages)<br>
-📌 [Hosting](pages/free-materials-for-devs.en.md#-hosting)<br>
+📌 [Livros](pages/materiais-gratuitos-para-estudos.br.md#-livros)<br>
+📌 [Cursos](pages/materiais-gratuitos-para-estudos.br.md#-cursos)<br>
+📌 [Podcasts](pages/materiais-gratuitos-para-estudos.br.md#-podcasts)<br>
+📌 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.br.md#-sites-e-blogs)<br>
 
 ---
 
-<img src="assets/image/banner4en.png">
+<img src="assets/image/banner3.png">
 
-## 📕 Index
+## 📕 Índice
 
-📌 [Tools](pages/free-materials-for-designers.en.md#-tools) <br>
+📌 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.br.md#-ferramentas-de-desenvolvimento)<br>
+📌 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.br.md#-ides-e-editores-de-código)<br>
+📌 [Linguagens de programação](pages/materiais-gratuitos-para-devs.br.md#-linguagens-de-programação)<br>
+📌 [Hospedagem](pages/materiais-gratuitos-para-devs.br.md#-hospedagem)<br>
 
-## 🌈 Contributors<br>
+---
+
+<img src="assets/image/banner4.png">
+
+## 📕 Índice
+
+📌 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas) <br>
+
+## 🌈 Contribuidores<br>
 
 <table>
   <tr>
@@ -68,7 +68,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
-        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Waly's picture on github"/><br>
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
           <b><<!---->Waly></b>
         </sub>
@@ -76,7 +76,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/joaomaranhao">
-        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="João Maranhão's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
         <sub>
           <b>João Maranhão</b>
         </sub>
@@ -84,7 +84,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/ff4LL">
-        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Carlos Daniel's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
         <sub>
           <b>Carlos Daniel</b>
         </sub>
@@ -92,27 +92,25 @@
     </td>
     <td align="center">
       <a href="https://github.com/reness0">
-        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Renê Júnior's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Foto do Renê Júnior no Github"/><br>
         <sub>
           <b>Renê Júnior</b>
         </sub>
       </a><br>
     </td>
-
-  
   </tr>
 </table>
 
-## ⛩ Be one of the contributors<br>
+## ⛩ Seja um dos contribuidores<br>
 
-Do you want to make part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.<br>
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
-## ⚖ License
+## ⚖ Licença
 
-This projects is  licensed. Open the file [LICENSE](LICENSE.md) for more details.<br>
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
 
-## ℹ️ Project Info
+## ℹ️ Informações do projeto
 
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/free-resources?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/free-resources?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/free-resources?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/recursos-gratuitos?style=for-the-badge)

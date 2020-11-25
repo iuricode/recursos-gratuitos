@@ -2,9 +2,9 @@
   <img src="assets/image/logoes.png">
 </h1>
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../portuguese/README.br.md)</kbd>
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../../README.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../english/README.en.md)</kbd>
 
 #### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](../中文/README.cn.md)</kbd>
 
@@ -116,6 +116,6 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
 
 ## ℹ️ Información del proyecto
 
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/free-resources?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/free-resources?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/free-resources?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/recursos-gratuitos?style=for-the-badge)

@@ -2,11 +2,11 @@
   <img src="assets/image/logocn.png">
 </h1>
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../portuguese/README.br.md)</kbd>
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
 
 #### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="../../flags/es.png" width="22">](../espanol/README.es.md)</kbd>
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../../README.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="../../flags/eua.png" width="22">](../english/README.en.md)</kbd>
 
 > 當我將要開始開發或編碼網站時，總是會有一個疑問：<i>我必須使用哪些資源以及在哪裡可以找到它們？</i>
 > 然後，由於這個問題，我創建了這個存儲庫作為對它的答案，它不僅僅是大量的鏈接，而是我們認為是一些更好的免費在線學習方法的一種選擇。
@@ -113,6 +113,6 @@
 
 ## ℹ️ 項目信息
 
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/free-resources?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/free-resources?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/free-resources?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/iuricode/recursos-gratuitos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/recursos-gratuitos?style=for-the-badge)
