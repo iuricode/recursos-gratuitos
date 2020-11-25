@@ -2,7 +2,7 @@
   <img src="assets/image/logo.png">
 </h1>
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src=".flags/eua.png" width="22">](translation/english/README.en.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translation/english/README.en.md)</kbd>
 
 #### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translation/espanol/README.es.md)</kbd>
 
