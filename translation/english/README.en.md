@@ -2,11 +2,11 @@
   <img src="assets/image/logoen.png">
 </h1>
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="flags/br.jpg" width="22">](../../README.br.md)</kbd>
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
 
-#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translation/espanol/README.es.md)</kbd>
+#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="../../flags/es.png" width="22">](../espanol/README.es.md)</kbd>
 
-#### 切換到英文: <kbd>[<img title="中文" alt="中文" src="flags/cn.png" width="22">](translation/中文/README.cn.md)</kbd>
+#### 切換到英文: <kbd>[<img title="中文" alt="中文" src="../../flags/cn.png" width="22">](../中文/README.cn.md)</kbd>
 
 > When I'm about to start to develop or coding a website, there's always a doubt: <i>Which resources I must to use and where I can find them?</i>
 > Then, because of this question, I created this repository as a answer to it, it's more than a plenty of links, that's a selection of what we judge as the some of the better ways to learn online for free.
