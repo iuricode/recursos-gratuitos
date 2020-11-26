@@ -83,7 +83,7 @@
       </a><br>
     </td>
     <td align="center">
-      <a href="https://github.com/ff4LL">
+      <a href="https://github.com/z3ox1s">
         <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
         <sub>
           <b>Carlos Daniel</b>
