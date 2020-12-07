@@ -140,13 +140,13 @@
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
-| [Flat UI](https://flatuicolors.com/) | <img src="../../../flags/eua.png" width="40px"> | '[Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="../../../flags/br.jpg" width="40px"> |
+| [Flat UI](https://flatuicolors.com/) | <img src="../../../flags/eua.png" width="40px"> | [Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="../../../flags/br.jpg" width="40px"> |
 | [Color.review](https://color.review/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Colorfavs](http://www.colorfavs.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [ColorSuply](https://colorsupplyyy.com/app) | <img src="../../../flags/eua.png" width="40px"> |
 | [Colourco.de](https://colourco.de/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Contrast Ratio](https://contrast-ratio.com/) | <img src="../../../flags/eua.png" width="40px"> |
-| [Name that Color](https://chir.ag/projects/name-that-color/#6195ED) | <img src="../../../../flags/eua.png" width="40px"> |
+| [Name that Color](https://chir.ag/projects/name-that-color/#6195ED) | <img src="../../../flags/eua.png" width="40px"> |
 | [Material UI Colors](https://materialuicolors.co/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Colordot](https://color.hailpixel.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [SpyColor.com](https://www.spycolor.com/) | <img src="../../../flags/eua.png" width="40px"> |
