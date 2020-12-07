@@ -141,6 +141,12 @@
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
 | [Flat UI](https://flatuicolors.com/) | <img src="../../../flags/eua.png" width="40px"> | '[Adobe Colors](https://color.adobe.com/pt/create/color-wheel) | <img src="../../../flags/br.jpg" width="40px"> |
+| [Color.review](https://color.review/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Colorfavs](http://www.colorfavs.com/) | <img src="../../../flags/eua.png" width="40px"> |
+| [ColorSuply](https://colorsupplyyy.com/app) | <img src="../../../flags/eua.png" width="40px"> |
+| [Colourco.de](https://colourco.de/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Contrast Ratio](https://contrast-ratio.com/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Name that Color](https://chir.ag/projects/name-that-color/#6195ED) | <img src="../../../../flags/eua.png" width="40px"> |
 | [Material UI Colors](https://materialuicolors.co/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Colordot](https://color.hailpixel.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [SpyColor.com](https://www.spycolor.com/) | <img src="../../../flags/eua.png" width="40px"> |
@@ -204,6 +210,13 @@
 | [Google Fonts](https://fonts.google.com/) | <img src="../../../flags/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../../../flags/br.jpg" width="40px"> |
 | [Font Squirrel](https://www.fontsquirrel.com/) | <img src="../../../flags/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../../../flags/br.jpg" width="40px"> |
 | [1001 Fonts](https://www.1001fonts.com/) | <img src="../../../flags/eua.png" width="40px"> | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="../../../flags/br.jpg" width="40px"> |
+| [Adobe Fonts](https://fonts.adobe.com/) | <img src="../../../flags/eua.png" width="40px"> |
+| [CSS Font Stack](https://www.cssfontstack.com/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Font Combinations](https://www.canva.com/font-combinations/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Just my type](https://justmytype.co/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Modular scale](https://www.modularscale.com/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Transfonter](https://transfonter.org/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Typechem](https://typechem.herokuapp.com/sansita-700-ff8d95-quicksand-500-fdfdfd-070634) | <img src="../../../flags/eua.png" width="40px"> |
 | [FontFabric](https://www.fontfabric.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [BeFonts](https://befonts.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Unblast](https://unblast.com/fonts/) | <img src="../../../flags/eua.png" width="40px"> |

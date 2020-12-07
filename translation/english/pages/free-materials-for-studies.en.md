@@ -35,14 +35,14 @@
 | [4noobs](https://github.com/he4rt/4noobs) | Course | No | <img src="../../../flags/br.jpg" width="40px"> | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Course | No | <img src="../../../flags/eua.png" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Course | No | <img src="../../../flags/eua.png" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Course | No | <img src="../../../flags/eua.png" width="40px"> |
-| [Balta.io](https://balta.io/Courses) | Course | No | <img src="../../../flags/br.jpg" width="40px"> | [FreeCodeCamp](https://www.freecodecamp.org/) | Course | Yes | <img src="../../../flags/eua.png" width="40px"> |
+| [Balta.io](https://balta.io/cursos) | Course | No | <img src="../../../flags/br.jpg" width="40px"> | [FreeCodeCamp](https://www.freecodecamp.org/) | Course | Yes | <img src="../../../flags/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | [Future Learn](https://www.futurelearn.com) | Course | No | <img src="../../../flags/eua.png" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Course | No | <img src="../../../flags/eua.png" width="40px"> | 
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Course | Yes | <img src="../../../flags/eua.png" width="40px"> |
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | [Test Automation University](https://testautomationu.applitools.com) | Course | Yes | <img src="../../../flags/eua.png" width="40px"> | 
-| [Cod3r Courses](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Course | No | <img src="../../../flags/eua.png" width="40px"> |  
+| [Cod3r cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Course | No | <img src="../../../flags/eua.png" width="40px"> |  
 | [Codando](https://codando.org/material-gratuito/) | Course | No | <img src="../../../flags/br.jpg" width="40px"> | [The Odin Project](https://www.theodinproject.com/) | Course | No | <img src="../../../flags/eua.png" width="40px"> |
-| [CFBCourses](https://www.youtube.com/user/canalfessorbruno) | Youtube | No |<img src="../../../flags/br.jpg" width="40px"> |
+| [CFB cursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | No |<img src="../../../flags/br.jpg" width="40px"> |
 | [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
@@ -65,17 +65,17 @@
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |No | <img src="../../../flags/br.jpg" width="40px"> | 
-| [FGV Online](https://www5.fgv.br/fgvonline/Courses/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
+| [FGV Online](https://www5.fgv.br/fgvonline/cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Filipe Deschamps](https//www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Courses | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
-| [Introdução a Segurança da Informação](https://esecurity.com.br/Courses/introducao-a-seguranca-da-informacao/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
+| [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
-| [Kali Linux para iniciantes](https://esecurity.com.br/Courses/kali-linux-for-beginners/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
+| [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
-| [Loiane Training](https://loiane.training/Courses) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |  
+| [Loiane Training](https://loiane.training/cursos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |  
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |  
 | [Michelli Brito](https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |  
@@ -99,9 +99,9 @@
 | [Rocketseat](https://rocketseat.com.br) | Course | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
-| [School of Net](https://www.schoolofnet.com/Courses/gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
-| [Senai](https://online.sp.senai.br/institucional/3722/3840/Courses-gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
-| [Tim Tec](https://Courses.timtec.com.br/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
+| [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Tim Tec](https://cursos.timtec.com.br/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Course | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Course | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
