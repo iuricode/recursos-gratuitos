@@ -77,6 +77,7 @@
 | [CodeBlocks](http://www.codeblocks.org/) | 
 | [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) | 
 | [Eclipse](https://www.eclipse.org/downloads/) | 
+| [Goland](https://www.jetbrains.com/pt-br/go/) |
 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | 
 | [NetBeans](https://netbeans.org/) | 
 | [Notepad++](https://notepad-plus-plus.org/) |
@@ -85,6 +86,7 @@
 | [Sublime Text](https://www.sublimetext.com/) |
 | [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
 | [Visual Studio Code](https://code.visualstudio.com/) | 
+| [WebStorm](https://www.jetbrains.com/pt-br/webstorm/) |
 
 ## 🔤 Programming languages
 
