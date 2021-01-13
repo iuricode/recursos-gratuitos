@@ -84,7 +84,8 @@
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
 | [NodeSchool](https://nodeschool.io/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> |  
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> | 
-| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
+| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
+| [Open P-TECH](https://www.ptech.org/br/open-p-tech/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
@@ -107,7 +108,6 @@
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | 
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| Não | <img src="../flags/br.jpg" width="40px"> |
-| [Open P-TECH](https://www.ptech.org/br/open-p-tech/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 
 ## 🎤 Podcasts
 
