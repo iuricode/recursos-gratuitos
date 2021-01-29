@@ -13,7 +13,7 @@
 🔖 [Animações e Gifs](#-animações-e-gifs)<br>
 🔖 [Logos](#-logos)<br>
 
-## 🖼️ Imagens [🔝 Voltar ao índice](#-índice)
+## 🖼️ Imagens
 > Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
 
 | Links   | Idioma | Links    | Idioma |
@@ -54,8 +54,9 @@
 | [Saxifraga](http://www.freenatureimages.eu) | <img src="../flags/eua.png" width="40px"> |
 | [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> |
 
+[🔝 Voltar ao índice](#-índice)
 
-## 🚀 Ilustrações e Vetores [🔝 Voltar ao índice](#-índice)
+## 🚀 Ilustrações e Vetores
 > Vetores, clipart, ilustrações, padrões gratuitos e muito mais
 
 | Links      | Idioma | Links      | Idioma |
@@ -121,6 +122,8 @@
 | [Servier Medical Art](https://smart.servier.com) | <img src="../flags/eua.png" width="40px"> |
 | [Clker](http://www.clker.com) | <img src="../flags/eua.png" width="40px"> |
 | [SVG wave](https://svgwave.in/) | <img src="../flags/eua.png" width="40px"> |
+
+[🔝 Voltar ao índice](#-índice)
 
 ## 😛 Emojis [🔝 Voltar ao índice](#-índice)
 > Recursos para emojis
