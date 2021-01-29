@@ -54,7 +54,7 @@
 | [Saxifraga](http://www.freenatureimages.eu) | <img src="../flags/eua.png" width="40px"> |
 | [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> |
 
-[🔝 Voltar ao índice](#-índice)
+#### [🔝 Voltar ao índice](#-índice)
 
 ## 🚀 Ilustrações e Vetores
 > Vetores, clipart, ilustrações, padrões gratuitos e muito mais
@@ -123,7 +123,7 @@
 | [Clker](http://www.clker.com) | <img src="../flags/eua.png" width="40px"> |
 | [SVG wave](https://svgwave.in/) | <img src="../flags/eua.png" width="40px"> |
 
-[🔝 Voltar ao índice](#-índice)
+<b>[🔝 Voltar ao índice](#-índice)</b>
 
 ## 😛 Emojis [🔝 Voltar ao índice](#-índice)
 > Recursos para emojis
