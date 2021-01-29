@@ -54,7 +54,8 @@
 
 📌 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas) <br>
 
-## 🌈 Contribuidores<br>
+
+## 🦄 Autor
 
 <table>
   <tr>
@@ -66,6 +67,13 @@
         </sub>
       </a>
     </td>
+  </tr>
+</table>
+
+## 🌈 Contribuidores
+
+<table>
+  <tr>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
         <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
@@ -100,17 +108,3 @@
     </td>
   </tr>
 </table>
-
-## ⛩ Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
-
-## ⚖ Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
-
-## ℹ️ Informações do projeto
-
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/recursos-gratuitos?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/recursos-gratuitos?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/recursos-gratuitos?style=for-the-badge)
