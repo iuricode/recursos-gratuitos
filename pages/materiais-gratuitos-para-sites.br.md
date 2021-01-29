@@ -1,19 +1,19 @@
-<br>[⬅ Voltar ao início](../README.md)<br>
+<br>[🔙 Voltar ao início](../README.md)<br>
 
 <img src="../assets/image/banner1.png">
 
+## 📚 Índice
 
-## 📕 Índice
-📌 [Imagens](#-imagens)<br>
-📌 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
-📌 [Emojis](#-emojis)<br>
-📌 [Paletas de Cores](#-paletas-de-cores)<br>
-📌 [Fontes e Fontes de ícones](#-fontes-e-fontes-de-ícones)<br>
-📌 [Ícones](#-ícones)<br>
-📌 [Animações e Gifs](#-animações-e-gifs)<br>
-📌 [Logos](#-logos)<br>
+🔖 [Imagens](#-imagens)<br>
+🔖 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
+🔖 [Emojis](#-emojis)<br>
+🔖 [Paletas de Cores](#-paletas-de-cores)<br>
+🔖 [Fontes e Fontes de ícones](#-fontes-e-fontes-de-ícones)<br>
+🔖 [Ícones](#-ícones)<br>
+🔖 [Animações e Gifs](#-animações-e-gifs)<br>
+🔖 [Logos](#-logos)<br>
 
-## 🖼️ Imagens
+## 🖼️ Imagens [🔝 Voltar ao índice](#-índice)
 > Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
 
 | Links   | Idioma | Links    | Idioma |
@@ -55,7 +55,7 @@
 | [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> |
 
 
-## 🚀 Ilustrações e Vetores
+## 🚀 Ilustrações e Vetores [🔝 Voltar ao índice](#-índice)
 > Vetores, clipart, ilustrações, padrões gratuitos e muito mais
 
 | Links      | Idioma | Links      | Idioma |
@@ -122,7 +122,7 @@
 | [Clker](http://www.clker.com) | <img src="../flags/eua.png" width="40px"> |
 | [SVG wave](https://svgwave.in/) | <img src="../flags/eua.png" width="40px"> |
 
-## 😛 Emojis
+## 😛 Emojis [🔝 Voltar ao índice](#-índice)
 > Recursos para emojis
 
 | Links      | Idioma |
@@ -346,5 +346,3 @@
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../flags/eua.png" width="40px"> |                                   
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |                          
 | [Logo Maker](https://logomakr.com/) | <img src="../flags/eua.png" width="40px"> |
-
-<br>[⬆ Voltar ao índice](materiais-gratuitos-para-sites.md#-índice)<br>
