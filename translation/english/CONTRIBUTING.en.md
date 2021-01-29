@@ -22,3 +22,6 @@ To sustain the same pattern for all links, you must to:
 - Add a link which targets directly to the content.
 - Add a title which matches with the title of the content in the link.
 - Add a flag (Brazil, US, China, Español) to represent the language of the content.
+
+## Recommendation (Optional)
+For a better semantics in commits, we recommend our repository on [SEMANTIC COMMITS](https://github.com/iuricode/padroes-de-commits). This will make it easier to evaluate your pull request.

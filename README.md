@@ -64,7 +64,7 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
 
-## 🦄 Autor
+## 🦄 Contribuidores
 
 <table>
   <tr>
@@ -76,13 +76,6 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a>
     </td>
-  </tr>
-</table>
-
-## 🌈 Contribuidores
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
         <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>

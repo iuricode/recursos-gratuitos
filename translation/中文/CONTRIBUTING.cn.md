@@ -1,5 +1,5 @@
 # 如何貢獻?
-這完全是一個開源項目，通過GitHub上的拉取請求接受貢獻。本文檔負責根據預先建立的模式組織所有貢獻. 如有任何疑問，請[打開問題](https://github.com/iuricode/recursos-gratuitos/issues/new).
+這完全是一個開源項目，通過GitHub上的拉取請求接受貢獻。本文檔負責根據預先建立的模式組織所有貢獻. 如有任何疑問，請 [打開問題](https://github.com/iuricode/recursos-gratuitos/issues/new).
 
 ## 入門
 
@@ -22,3 +22,6 @@
 - 添加直接指向內容的鏈接。
 - 添加與鏈接中內容標題匹配的標題。
 - 添加標誌（巴西，美國，中國，西班牙文）以表示內容的語言。
+
+##建議（可選）
+為了使提交中的語義更好，我們建議在 [語義提交](https://github.com/iuricode/padroes-de-commits) 上建立我們的存儲庫。 這將使評估您的拉取請求更加容易。

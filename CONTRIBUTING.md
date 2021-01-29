@@ -19,3 +19,6 @@ Para manter um padrão geral em todos os links, você deve:
 - Adicionar um link direto para o conteúdo
 - Adicionar um título condizente ao título do conteúdo
 - Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link
+
+## Recomendação (Opcional)
+Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.

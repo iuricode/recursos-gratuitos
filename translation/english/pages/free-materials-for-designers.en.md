@@ -1,10 +1,10 @@
-<br>[⬅ Back to the start ](../README.md) <br>
+<br>[🔙 Back to the start ](../README.md) <br>
 
 <img src="../assets/image/banner4en.png">
 
-## 📕 Index 
+## 📚 Index 
 
-📌 [Tools](#-tools) <br>
+🔖 [Tools](#-tools) <br>
 
 ## 🔧 Tools
 
@@ -49,5 +49,4 @@
 | [UI Gradients](https://uigradients.com/) | 
 | [Whimsical](https://whimsical.com/) | 
 
-
-<br>[⬆ Back to the index](#-index) <br>
+<b>[🔝 Back to the index](#-index)<b>

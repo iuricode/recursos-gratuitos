@@ -22,3 +22,6 @@ Para mantener el mismo patrón para todos los enlaces, debe:
 - Agregue un enlace que apunte directamente al contenido.
 - Agregue un título que coincida con el título del contenido en el enlace.
 - Agregue una bandera (Brazil, US, China, Español) para representar el idioma del contenido.
+
+## Recomendación (opcional)
+Para una mejor semántica en las confirmaciones, recomendamos nuestro repositorio en [SEMANTIC COMMITS](https://github.com/iuricode/padroes-de-commits). Esto facilitará la evaluación de su solicitud de extracción.

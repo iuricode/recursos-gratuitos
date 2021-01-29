@@ -54,7 +54,8 @@
 | [Saxifraga](http://www.freenatureimages.eu) | <img src="../flags/eua.png" width="40px"> |
 | [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> |
 
-#### [🔝 Voltar ao índice](#-índice)
+<b>[🔝 Voltar ao índice](#-índice)</b>
+
 
 ## 🚀 Ilustrações e Vetores
 > Vetores, clipart, ilustrações, padrões gratuitos e muito mais
@@ -125,7 +126,8 @@
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
-## 😛 Emojis [🔝 Voltar ao índice](#-índice)
+
+## 😛 Emojis
 > Recursos para emojis
 
 | Links      | Idioma |
@@ -135,6 +137,9 @@
 | [Get Emoji](https://getemoji.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Stories Freepik](https://stories.freepik.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../flags/eua.png" width="40px"> |
+
+<b>[🔝 Voltar ao índice](#-índice)</b>
+
 
 ## 🎨 Paletas de Cores
 > Sites e recursos que ajudam nas escolhas relacionadas às cores
@@ -203,6 +208,8 @@
 | [colors.dopely](https://colors.dopely.top/) | <img src="../flags/eua.png" width="40px"> |
 | [UIColor Picker](https://uicolorpicker.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Pigment](https://pigment.shapefactory.co/) | <img src="../flags/eua.png" width="40px"> |
+
+<b>[🔝 Voltar ao índice](#-índice)</b>
 
 
 ## 🔤 Fontes e Fontes de ícones
@@ -292,6 +299,8 @@
 | [Mobirise Icons](https://mobiriseicons.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Hero Icons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |
 
+<b>[🔝 Voltar ao índice](#-índice)</b>
+
 
 ## 🎉 Ícones
 > Recursos para ícones, incluindo png, svg e mais
@@ -324,6 +333,9 @@
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../flags/eua.png" width="40px"> |  
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="../flags/eua.png" width="40px"> |
 
+<b>[🔝 Voltar ao índice](#-índice)</b>
+
+
 ## 😺 Animações e Gifs
 > Recursos de animações e gifs
 
@@ -334,6 +346,9 @@
 | [Tenor](https://tenor.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../flags/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="../flags/eua.png" width="40px"> |
+
+<b>[🔝 Voltar ao índice](#-índice)</b>
+
 
 ## 🎃 Logos
 > Recursos para logotipos
@@ -349,3 +364,5 @@
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../flags/eua.png" width="40px"> |                                   
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |                          
 | [Logo Maker](https://logomakr.com/) | <img src="../flags/eua.png" width="40px"> |
+
+<b>[🔝 Voltar ao índice](#-índice)</b>

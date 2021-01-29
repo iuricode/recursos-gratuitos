@@ -1,14 +1,13 @@
-<br>[⬅ De vuelta al principio](../README.es.md)<br>
+<br>[🔙 De vuelta al principio](../README.es.md)<br>
 
 <img src="../assets/image/banner2es.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Libros](#-libros)<br>
-📌 [Cursos](#-cursos)<br>
-📌 [Podcasts](#-podcasts)<br>
-📌 [Sitios web y blogs](#-sitios-web-y-blogs)<br>
-
+🔖 [Libros](#-libros)<br>
+🔖 [Cursos](#-cursos)<br>
+🔖 [Podcasts](#-podcasts)<br>
+🔖 [Sitios web y blogs](#-sitios-web-y-blogs)<br>
 
 ## 📚 Libros
 
@@ -26,6 +25,7 @@
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | <img src="../../../flags/br.jpg" width="40px"> |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../../../flags/br.jpg" width="40px"> |  
 
+<b>[🔝 Volver al índice](#-índice)<b>
 
 
 ## 👨‍💻 Cursos
@@ -107,6 +107,11 @@
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| No | <img src="../../../flags/br.jpg" width="40px"> |
+| [Open P-TECH](https://www.ptech.org/br/open-p-tech/) | Curso | Sim | <img src="../../../flags/br.jpg" width="40px"> |
+| [Julio Arruda](https://www.youtube.com/c/JulioArruda) | Youtube| Não | <img src="../../../flags/br.jpg" width="40px"> |
+
+<b>[🔝 Volver al índice](#-índice)<b>
+
 
 ## 🎤 Podcasts
 
@@ -122,6 +127,9 @@
 | [Pizza de Dados](https://pizzadedados.com/) | <img src="../../../flags/br.jpg" width="40px"> | 
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../../../flags/br.jpg" width="40px"> |
 
+<b>[🔝 Volver al índice](#-índice)<b>
+
+
 ## 💻 Sitios web y blogs
 
 | Links      | Idioma | Links      | Idioma |
@@ -134,8 +142,5 @@
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../../../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../../../flags/eua.png" width="40px"> |
 | [Laraveling](https://laraveling.tech/) | <img src="../../../flags/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../../../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../../../flags/eua.png" width="40px"> |
-| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../../../flags/br.jpg" width="40px"> | 
 
-<br>[⬆ Volver al índice](#-índice)<br>
-
-
+<b>[🔝 Volver al índice](#-índice)<b>

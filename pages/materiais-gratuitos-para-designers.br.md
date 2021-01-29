@@ -1,10 +1,10 @@
-<br>[⬅ Voltar ao início](../README.md) <br>
+<br>[🔙 Voltar ao início](../README.md) <br>
 
 <img src="../assets/image/banner4.png">
 
-## 📕 Índice 
+## 📚 Índice 
 
-📌 [Ferramentas](#-ferramentas) <br>
+🔖 [Ferramentas](#-ferramentas) <br>
 
 ## 🔧 Ferramentas
 
@@ -49,5 +49,4 @@
 | [UI Gradients](https://uigradients.com/) | 
 | [Whimsical](https://whimsical.com/) | 
 
-
-<br>[⬆ Voltar ao índice](#-índice) <br>
+[🔝 Voltar ao índice](#-índice)

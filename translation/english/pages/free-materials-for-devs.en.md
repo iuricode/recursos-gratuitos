@@ -1,14 +1,13 @@
-<br>[⬅ Back to the start](../README.md)<br>
+<br>[🔙 Back to the start](../README.md)<br>
 
 <img src="../assets/image/banner3en.png">
 
-## 📕 Index
+## 📚 Index
 
-📌 [Developer tools](#-developer-tools)<br>
-📌 [IDEs and Code editors](#-ides-and-code-editors)<br>
-📌 [Programming languages](#-programming-languages)<br>
-📌 [Hosting](#-hosting)<br>
-
+🔖 [Developer tools](#-developer-tools)<br>
+🔖 [IDEs and Code editors](#-ides-and-code-editors)<br>
+🔖 [Programming languages](#-programming-languages)<br>
+🔖 [Hosting](#-hosting)<br>
 
 ## 🔧 Developer tools
 
@@ -65,7 +64,10 @@
 | [WebPageTest](https://www.webpagetest.org/) | 
 | [Wedsites](https://wedsites.com/) | 
 | [WordPress](https://wordpress.org/) | 
-| [XML Sitemaps](https://www.xml-sitemaps.com/) | 
+| [XML Sitemaps](https://www.xml-sitemaps.com/) |
+
+<b>[🔝 Back to the index](#-index)<b>
+
 
 ## 📝 IDEs e code editors
 
@@ -86,6 +88,9 @@
 | [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
 | [Visual Studio Code](https://code.visualstudio.com/) | 
 
+<b>[🔝 Back to the index](#-index)<b>
+
+
 ## 🔤 Programming languages
 
 | Links      |  
@@ -105,6 +110,9 @@
 | [Rust](https://www.rust-lang.org/pt-BR/) |
 | [Swift](https://www.apple.com/br/swift/) | 
 | [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) | 
+
+<b>[🔝 Back to the index](#-index)<b>
+
 
 ## 🏨 Hosting
 
@@ -131,6 +139,4 @@
 | [Umbler](https://www.umbler.com/br) | 
 | [Vercel](https://vercel.com/) |
 
-
-
-<br>[⬆ Back to the index](#-index)<br>
+<b>[🔝 Back to the index](#-index)<b>

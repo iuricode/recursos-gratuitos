@@ -1,14 +1,13 @@
-<br>[⬅ De vuelta al principio](../README.es.md)<br>
+<br>[🔙 De vuelta al principio](../README.es.md)<br>
 
 <img src="../assets/image/banner3es.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Herramientas de desarrollo](#-herramientas-de-desarrollo)<br>
-📌 [IDEs y editores de código](#-ides-y-editores-de-codigo)<br>
-📌 [Lenguajes de programación](#-lenguajes-de-programacion)<br>
-📌 [Hospedaje](#-hospedaje)<br>
-
+🔖 [Herramientas de desarrollo](#-herramientas-de-desarrollo)<br>
+🔖 [IDEs y editores de código](#-ides-y-editores-de-codigo)<br>
+🔖 [Lenguajes de programación](#-lenguajes-de-programacion)<br>
+🔖 [Hospedaje](#-hospedaje)<br>
 
 ## 🔧 Herramientas de desarrollo
 
@@ -67,6 +66,9 @@
 | [WordPress](https://wordpress.org/) | 
 | [XML Sitemaps](https://www.xml-sitemaps.com/) | 
 
+<b>[🔝 Volver al índice](#-índice)<b>
+
+
 ## 📝 IDEs y editores de código
 
 | Links      | 
@@ -85,6 +87,9 @@
 | [Sublime Text](https://www.sublimetext.com/) |
 | [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
 | [Visual Studio Code](https://code.visualstudio.com/) | 
+
+<b>[🔝 Volver al índice](#-índice)<b>
+
 
 ## 🔤 Lenguajes de programación
 
@@ -105,6 +110,9 @@
 | [Rust](https://www.rust-lang.org/pt-BR/) |
 | [Swift](https://www.apple.com/br/swift/) | 
 | [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) | 
+
+<b>[🔝 Volver al índice](#-índice)<b>
+
 
 ## 🏨 Hospedaje
 
@@ -131,6 +139,4 @@
 | [Umbler](https://www.umbler.com/br) | 
 | [Vercel](https://vercel.com/) |
 
-
-
-<br>[⬆ Volver al índice](#-índice)<br>
+<b>[🔝 Volver al índice](#-índice)<b>

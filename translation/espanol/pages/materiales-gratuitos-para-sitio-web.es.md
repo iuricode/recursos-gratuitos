@@ -1,18 +1,17 @@
-<br>[⬅ De vuelta al principio](../README.es.md)<br>
+<br>[🔙 De vuelta al principio](../README.es.md)<br>
 
 <img src="../assets/image/banner1es.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Imagenes](#-imagenes)<br>
-📌 [Ilustraciones y SVG](#-ilustraciones-y-svg)<br>
-📌 [Emojis](#-emojis)<br>
-📌 [Paleta de color](#-paleta-de-color)<br>
-📌 [Fuentes y fuentes de iconos](#-fuentes-y-fuentes-de-iconos)<br>
-📌 [Iconos](#-iconos)<br>
-📌 [Animaciones y gifs](#-animaciones-y-gifs)<br>
-📌 [Logos](#-logos)<br>
-
+🔖 [Imagenes](#-imagenes)<br>
+🔖 [Ilustraciones y SVG](#-ilustraciones-y-svg)<br>
+🔖 [Emojis](#-emojis)<br>
+🔖 [Paleta de color](#-paleta-de-color)<br>
+🔖 [Fuentes y fuentes de iconos](#-fuentes-y-fuentes-de-iconos)<br>
+🔖 [Iconos](#-iconos)<br>
+🔖 [Animaciones y gifs](#-animaciones-y-gifs)<br>
+🔖 [Logos](#-logos)<br>
 
 ## 🖼️ Imagenes
 > Sitios web que proporcionan todo tipo de fotografías a sus sitios web y aplicaciones.
@@ -55,6 +54,7 @@
 | [Saxifraga](http://www.freenatureimages.eu) | <img src="../../../flags/eua.png" width="40px"> |
 | [Creative Commons](https://search.creativecommons.org) | <img src="../../../flags/eua.png" width="40px"> |
 
+<b>[🔝 Volver al índice](#-índice)<b>
 
 
 ## 🚀 Ilustraciones y SVG
@@ -124,6 +124,9 @@
 | [Clker](http://www.clker.com) | <img src="../../../flags/eua.png" width="40px"> |
 | [SVG wave](https://svgwave.in/) | <img src="../../../flags/eua.png" width="40px"> |
 
+<b>[🔝 Volver al índice](#-índice)<b>
+
+
 ## 😛 Emojis
 >  Recursos de emojis.
 
@@ -134,6 +137,9 @@
 | [Get Emoji](https://getemoji.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Stories Freepik](https://stories.freepik.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../../../flags/eua.png" width="40px"> |
+
+<b>[🔝 Volver al índice](#-índice)<b>
+
 
 ## 🎨 Paleta de color
 > Sitios web y recursos que ayudan a elegir mejores colores.
@@ -200,6 +206,8 @@
 | [colors.dopely](https://colors.dopely.top/) | <img src="../../../flags/eua.png" width="40px"> |
 | [UIColor Picker](https://uicolorpicker.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Pigment](https://pigment.shapefactory.co/) | <img src="../../../flags/eua.png" width="40px"> |
+
+<b>[🔝 Volver al índice](#-índice)<b>
 
 
 ## 🔤 Fuentes y fuentes de iconos
@@ -289,6 +297,8 @@
 | [Mobirise Icons](https://mobiriseicons.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Hero Icons](https://heroicons.dev/) | <img src="../../../flags/eua.png" width="40px"> |
 
+<b>[🔝 Volver al índice](#-índice)<b>
+
 
 ## 🎉 Iconos
 > Recursos de iconos, incluidos png, svg y más archivos de imagen.
@@ -321,6 +331,9 @@
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="../../../flags/eua.png" width="40px"> |
 
+<b>[🔝 Volver al índice](#-índice)<b>
+
+
 ## 😺 Animaciones y gifs
 > Recursos de animaciones y gifs.
 
@@ -331,6 +344,9 @@
 | [Tenor](https://tenor.com/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../../../flags/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="../../../flags/eua.png" width="40px"> |
+
+<b>[🔝 Volver al índice](#-índice)<b>
+
 
 ## 🎃 Logos
 > Recursos de logotipos.
@@ -347,4 +363,4 @@
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../../../flags/eua.png" width="40px"> |                          
 | [Logo Maker](https://logomakr.com/) | <img src="../../../flags/eua.png" width="40px"> |
 
-<br>[⬆ Volver al índice](#-índice)<br>
+<b>[🔝 Volver al índice](#-índice)<b>
