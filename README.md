@@ -13,47 +13,56 @@
 
 <img src="assets/image/banner1.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Imagens](pages/materiais-gratuitos-para-sites.br.md#-imagens)<br>
-📌 [Ilustrações e Vetores](pages/materiais-gratuitos-para-sites.br.md#-ilustrações-e-vetores)<br>
-📌 [Emojis](pages/materiais-gratuitos-para-sites.br.md#-emojis)<br>
-📌 [Paletas de Cores](pages/materiais-gratuitos-para-sites.br.md#-paletas-de-cores)<br>
-📌 [Fontes e Fontes de ícones](pages/materiais-gratuitos-para-sites.br.md#-fontes-e-fontes-de-ícones)<br>
-📌 [Ícones](pages/materiais-gratuitos-para-sites.br.md#-ícones)<br>
-📌 [Animações e Gifs](pages/materiais-gratuitos-para-sites.br.md#-animações-e-gifs)<br>
-📌 [Logos](pages/materiais-gratuitos-para-sites.br.md#-logos)<br>
+🔖 [Imagens](pages/materiais-gratuitos-para-sites.br.md#-imagens)<br>
+🔖 [Ilustrações e Vetores](pages/materiais-gratuitos-para-sites.br.md#-ilustrações-e-vetores)<br>
+🔖 [Emojis](pages/materiais-gratuitos-para-sites.br.md#-emojis)<br>
+🔖 [Paletas de Cores](pages/materiais-gratuitos-para-sites.br.md#-paletas-de-cores)<br>
+🔖 [Fontes e Fontes de ícones](pages/materiais-gratuitos-para-sites.br.md#-fontes-e-fontes-de-ícones)<br>
+🔖 [Ícones](pages/materiais-gratuitos-para-sites.br.md#-ícones)<br>
+🔖 [Animações e Gifs](pages/materiais-gratuitos-para-sites.br.md#-animações-e-gifs)<br>
+🔖 [Logos](pages/materiais-gratuitos-para-sites.br.md#-logos)<br>
 
 ---
 
 <img src="assets/image/banner2.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Livros](pages/materiais-gratuitos-para-estudos.br.md#-livros)<br>
-📌 [Cursos](pages/materiais-gratuitos-para-estudos.br.md#-cursos)<br>
-📌 [Podcasts](pages/materiais-gratuitos-para-estudos.br.md#-podcasts)<br>
-📌 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.br.md#-sites-e-blogs)<br>
+🔖 [Livros](pages/materiais-gratuitos-para-estudos.br.md#-livros)<br>
+🔖 [Cursos](pages/materiais-gratuitos-para-estudos.br.md#-cursos)<br>
+🔖 [Podcasts](pages/materiais-gratuitos-para-estudos.br.md#-podcasts)<br>
+🔖 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.br.md#-sites-e-blogs)<br>
 
 ---
 
 <img src="assets/image/banner3.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.br.md#-ferramentas-de-desenvolvimento)<br>
-📌 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.br.md#-ides-e-editores-de-código)<br>
-📌 [Linguagens de programação](pages/materiais-gratuitos-para-devs.br.md#-linguagens-de-programação)<br>
-📌 [Hospedagem](pages/materiais-gratuitos-para-devs.br.md#-hospedagem)<br>
+🔖 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.br.md#-ferramentas-de-desenvolvimento)<br>
+🔖 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.br.md#-ides-e-editores-de-código)<br>
+🔖 [Linguagens de programação](pages/materiais-gratuitos-para-devs.br.md#-linguagens-de-programação)<br>
+🔖 [Hospedagem](pages/materiais-gratuitos-para-devs.br.md#-hospedagem)<br>
 
 ---
 
 <img src="assets/image/banner4.png">
 
-## 📕 Índice
+## 📚 Índice
 
-📌 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas) <br>
+🔖 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas)<br>
 
+---
+
+## ☕ Seja um dos contribuidores
+
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+
+## 🍜 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
 
 ## 🦄 Autor
 
