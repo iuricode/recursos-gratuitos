@@ -146,68 +146,68 @@
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
-| [Flat UI](https://flatuicolors.com/) | <img src="../flags/eua.png" width="40px"> | [Adobe Color](https://color.adobe.com/pt/create/color-wheel) | <img src="../flags/br.jpg" width="40px"> |
-| [Color.review](https://color.review/) | <img src="../flags/eua.png" width="40px"> |
-| [Colorfavs](http://www.colorfavs.com/) | <img src="../flags/eua.png" width="40px"> |
-| [ColorSuply](https://colorsupplyyy.com/app) | <img src="../flags/eua.png" width="40px"> |
-| [Colourco.de](https://colourco.de/) | <img src="../flags/eua.png" width="40px"> |
-| [Contrast Ratio](https://contrast-ratio.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Name that Color](https://chir.ag/projects/name-that-color/#6195ED) | <img src="../flags/eua.png" width="40px"> |
-| [Scheme Color](https://www.schemecolor.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Tint and Shade Generator](https://maketintsandshades.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Material UI Colors](https://materialuicolors.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Colordot](https://color.hailpixel.com/) | <img src="../flags/eua.png" width="40px"> |
-| [SpyColor.com](https://www.spycolor.com/) | <img src="../flags/eua.png" width="40px"> |
-| [UiGradients](https://uigradients.com/#Memariani) | <img src="../flags/eua.png" width="40px"> |
-| [Paletton](https://paletton.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Happy Hues](https://www.happyhues.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Design Seeds](https://www.design-seeds.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Color Brewer 2](https://colorbrewer2.org/) | <img src="../flags/eua.png" width="40px"> |
-| [Colormind.io](http://colormind.io) | <img src="../flags/eua.png" width="40px"> |
-| [ColorCurves.app](https://colorcurves.app) | <img src="../flags/eua.png" width="40px"> |
-| [Coolors](https://coolors.co) | <img src="../flags/eua.png" width="40px"> |
-| [HTML Color Codes](https://htmlcolorcodes.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Colors & Fonts](https://www.colorsandfonts.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Palette List](https://www.palettelist.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Google Material Color Tool](https://material.io/resources/color/) | <img src="../flags/eua.png" width="40px"> |
-| [Material Palette](https://www.materialpalette.com/) | <img src="../flags/eua.png" width="40px"> |
-| [ColorSpace](https://mycolor.space/) | <img src="../flags/eua.png" width="40px"> |
-| [Colorsinspo](https://colorsinspo.com/) | <img src="../flags/eua.png" width="40px"> |
-| [ColorsWall](https://colorswall.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Adobe Trends](https://color.adobe.com/trends)| <img src="../flags/eua.png" width="40px"> |
-| [Color Hunt](https://colorhunt.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Gradient Hunt](https://gradienthunt.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Web Gradients](https://webgradients.com/) | <img src="../flags/eua.png" width="40px"> |
-| [ColorBox](https://www.colorbox.io) | <img src="../flags/eua.png" width="40px"> |
-| [CSS gradient](https://cssgradient.io/) | <img src="../flags/eua.png" width="40px"> |
-| [gradienta](https://gradienta.io/) | <img src="../flags/eua.png" width="40px"> |
-| [Palette Generator](https://palettegenerator.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Material Palettes](https://material.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Grabient](https://www.grabient.com/) | <img src="../flags/eua.png" width="40px"> |
-| [ShadeSwash](https://shadeswash.netlify.app/) | <img src="../flags/eua.png" width="40px"> |
-| [BrandColors](http://brandcolors.net/) | <img src="../flags/eua.png" width="40px"> |
-| [BRAND PALETTES](https://brandpalettes.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Material Design Palette Generator](http://mcg.mbitson.com) | <img src="../flags/eua.png" width="40px"> |
-| [Colorate](https://colorate.azurewebsites.net/) | <img src="../flags/eua.png" width="40px"> |
 | [0to255](https://www.0to255.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Adobe Trends](https://color.adobe.com/trends)| <img src="../flags/eua.png" width="40px"> |
+| [BRAND PALETTES](https://brandpalettes.com/) | <img src="../flags/eua.png" width="40px"> |
+| [BrandColors](http://brandcolors.net/) | <img src="../flags/eua.png" width="40px"> |
 | [Color Blender](https://meyerweb.com/eric/tools/color-blend) | <img src="../flags/eua.png" width="40px"> |
-| [Gradient Buttons](https://gradientbuttons.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Khroma](http://khroma.co/) | <img src="../flags/eua.png" width="40px"> |
-| [whocanuse](https://whocanuse.com) | <img src="../flags/eua.png" width="40px"> |
-| [Colorable](https://colorable.jxnblk.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Color Brewer 2](https://colorbrewer2.org/) | <img src="../flags/eua.png" width="40px"> |
 | [Color Hex Picker](https://colorhexpicker.com) | <img src="../flags/eua.png" width="40px"> |
-| [Saruwakakun](https://saruwakakun.com/en/color-ideas) | <img src="../flags/eua.png" width="40px"> |
-| [Colorzilla](https://www.colorzilla.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Image Color Picker](https://image-color.com/) | <img src="../flags/eua.png" width="40px"> |
-| [CombineCOLORS](https://combinecolors.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Color Hunt](https://colorhunt.co/) | <img src="../flags/eua.png" width="40px"> |
 | [Color Lovers](https://www.colourlovers.com/palettes) | <img src="../flags/eua.png" width="40px"> |
-| [HTML CSS Color](https://www.htmlcsscolor.com/) | <img src="../flags/eua.png" width="40px"> |
-| [HEX Color Codes](https://hexcolorcodes.org/) | <img src="../flags/eua.png" width="40px"> |
-| [CoolHue 2.0](https://webkul.github.io/coolhue/) | <img src="../flags/eua.png" width="40px"> |
-| [Colors.lol](https://colors.lol/) | <img src="../flags/eua.png" width="40px"> |
+| [Color.review](https://color.review/) | <img src="../flags/eua.png" width="40px"> |
+| [Colorable](https://colorable.jxnblk.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Colorate](https://colorate.azurewebsites.net/) | <img src="../flags/eua.png" width="40px"> |
+| [ColorBox](https://www.colorbox.io) | <img src="../flags/eua.png" width="40px"> |
+| [ColorCurves.app](https://colorcurves.app) | <img src="../flags/eua.png" width="40px"> |
+| [Colordot](https://color.hailpixel.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Colorfavs](http://www.colorfavs.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Colormind.io](http://colormind.io) | <img src="../flags/eua.png" width="40px"> |
+| [Colors & Fonts](https://www.colorsandfonts.com/) | <img src="../flags/eua.png" width="40px"> |
 | [colors.dopely](https://colors.dopely.top/) | <img src="../flags/eua.png" width="40px"> |
-| [UIColor Picker](https://uicolorpicker.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Colors.lol](https://colors.lol/) | <img src="../flags/eua.png" width="40px"> |
+| [Colorsinspo](https://colorsinspo.com/) | <img src="../flags/eua.png" width="40px"> |
+| [ColorSpace](https://mycolor.space/) | <img src="../flags/eua.png" width="40px"> |
+| [ColorSuply](https://colorsupplyyy.com/app) | <img src="../flags/eua.png" width="40px"> |
+| [ColorsWall](https://colorswall.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Colorzilla](https://www.colorzilla.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Colourco.de](https://colourco.de/) | <img src="../flags/eua.png" width="40px"> |
+| [CombineCOLORS](https://combinecolors.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Contrast Ratio](https://contrast-ratio.com/) | <img src="../flags/eua.png" width="40px"> |
+| [CoolHue 2.0](https://webkul.github.io/coolhue/) | <img src="../flags/eua.png" width="40px"> |
+| [Coolors](https://coolors.co) | <img src="../flags/eua.png" width="40px"> |
+| [CSS gradient](https://cssgradient.io/) | <img src="../flags/eua.png" width="40px"> |
+| [Design Seeds](https://www.design-seeds.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Flat UI](https://flatuicolors.com/) | <img src="../flags/eua.png" width="40px"> | [Adobe Color](https://color.adobe.com/pt/create/color-wheel) | <img src="../flags/br.jpg" width="40px"> |
+| [Google Material Color Tool](https://material.io/resources/color/) | <img src="../flags/eua.png" width="40px"> |
+| [Grabient](https://www.grabient.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Gradient Buttons](https://gradientbuttons.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Gradient Hunt](https://gradienthunt.com/) | <img src="../flags/eua.png" width="40px"> |
+| [gradienta](https://gradienta.io/) | <img src="../flags/eua.png" width="40px"> |
+| [Happy Hues](https://www.happyhues.co/) | <img src="../flags/eua.png" width="40px"> |
+| [HEX Color Codes](https://hexcolorcodes.org/) | <img src="../flags/eua.png" width="40px"> |
+| [HTML Color Codes](https://htmlcolorcodes.com/) | <img src="../flags/eua.png" width="40px"> |
+| [HTML CSS Color](https://www.htmlcsscolor.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Image Color Picker](https://image-color.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Khroma](http://khroma.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Material Design Palette Generator](http://mcg.mbitson.com) | <img src="../flags/eua.png" width="40px"> |
+| [Material Palette](https://www.materialpalette.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Material Palettes](https://material.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Material UI Colors](https://materialuicolors.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Name that Color](https://chir.ag/projects/name-that-color/#6195ED) | <img src="../flags/eua.png" width="40px"> |
+| [Palette Generator](https://palettegenerator.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Palette List](https://www.palettelist.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Paletton](https://paletton.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Pigment](https://pigment.shapefactory.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Saruwakakun](https://saruwakakun.com/en/color-ideas) | <img src="../flags/eua.png" width="40px"> |
+| [Scheme Color](https://www.schemecolor.com/) | <img src="../flags/eua.png" width="40px"> |
+| [ShadeSwash](https://shadeswash.netlify.app/) | <img src="../flags/eua.png" width="40px"> |
+| [SpyColor.com](https://www.spycolor.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Tint and Shade Generator](https://maketintsandshades.com/) | <img src="../flags/eua.png" width="40px"> |
+| [UIColor Picker](https://uicolorpicker.com/) | <img src="../flags/eua.png" width="40px"> |
+| [UiGradients](https://uigradients.com/#Memariani) | <img src="../flags/eua.png" width="40px"> |
+| [Web Gradients](https://webgradients.com/) | <img src="../flags/eua.png" width="40px"> |
+| [whocanuse](https://whocanuse.com) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
