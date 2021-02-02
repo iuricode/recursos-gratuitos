@@ -133,10 +133,10 @@
 | Links      | Idioma |
 | :----------: | :------: |
 | [EmojiCopy](https://www.emojicopy.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="../flags/eua.png" width="40px"> |
-| [Get Emoji](https://getemoji.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Stories Freepik](https://stories.freepik.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../flags/eua.png" width="40px"> |
+| [Get Emoji](https://getemoji.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="../flags/eua.png" width="40px"> |
+| [Stories Freepik](https://stories.freepik.com/) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
