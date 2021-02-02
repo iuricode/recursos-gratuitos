@@ -217,87 +217,87 @@
 
 | Links      | Idioma | Links      | Idioma |
 | :----------: | :------: | :----------: | :------: |
-| [Google Fonts](https://fonts.google.com/) | <img src="../flags/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../flags/br.jpg" width="40px"> |
-| [Font Squirrel](https://www.fontsquirrel.com/) | <img src="../flags/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../flags/br.jpg" width="40px"> |
 | [1001 Fonts](https://www.1001fonts.com/) | <img src="../flags/eua.png" width="40px"> | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="../flags/br.jpg" width="40px"> |
-| [Adobe Fonts](https://fonts.adobe.com/) | <img src="../flags/eua.png" width="40px"> |
-| [CSS Font Stack](https://www.cssfontstack.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Font Combinations](https://www.canva.com/font-combinations/) | <img src="../flags/eua.png" width="40px"> |
-| [Just my type](https://justmytype.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Modular scale](https://www.modularscale.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Transfonter](https://transfonter.org/) | <img src="../flags/eua.png" width="40px"> |
-| [Typechem](https://typechem.herokuapp.com/sansita-700-ff8d95-quicksand-500-fdfdfd-070634) | <img src="../flags/eua.png" width="40px"> |
-| [FontFabric](https://www.fontfabric.com/) | <img src="../flags/eua.png" width="40px"> |
-| [BeFonts](https://befonts.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Unblast](https://unblast.com/fonts/) | <img src="../flags/eua.png" width="40px"> |
-| [Use & Modify](https://usemodify.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Tiff](https://tiff.herokuapp.com/) | <img src="../flags/eua.png" width="40px"> |
-| [TypeKit Practice](https://practice.typekit.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Fontjoy](https://fontjoy.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Golden Ratio](https://grtcalculator.com/) | <img src="../flags/eua.png" width="40px"> |
-| [FontSpark](https://fontspark.app/) | <img src="../flags/eua.png" width="40px"> |
-| [FontGet](https://www.fontget.com/) | <img src="../flags/eua.png" width="40px"> |
-| [FontPair](https://fontpair.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Font Space](https://www.fontspace.com/)| <img src="../flags/eua.png" width="40px"> |
 | [Abstract Fonts](http://www.abstractfonts.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Free Typography](https://freetypography.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Leon Sans](https://github.com/cmiscm/leonsans/) | <img src="../flags/eua.png" width="40px"> |
-| [Lexend](https://www.lexend.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Fonts for Apple Platforms](https://developer.apple.com/fonts/) | <img src="../flags/eua.png" width="40px"> |
-| [SFWin](https://github.com/blaisck/sfwin/) | <img src="../flags/eua.png" width="40px"> |
-| [Font Flipper](https://fontflipper.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Fonts Arena](https://fontsarena.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Adobe Fonts](https://fonts.adobe.com/) | <img src="../flags/eua.png" width="40px"> |
+| [appicon](https://appicon.co/) | <img src="../flags/eua.png" width="40px"> |
 | [Arabic fonts](https://arabicfonts.net/) | <img src="../flags/eua.png" width="40px"> |
+| [BeFonts](https://befonts.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Bootstrap Icons](https://icons.getbootstrap.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Convertio](https://convertio.co/png-svg/) | <img src="../flags/eua.png" width="40px"> |
+| [Cryptoicons](http://cryptoicons.co/) | <img src="../flags/eua.png" width="40px"> |
+| [CSS Font Stack](https://www.cssfontstack.com/) | <img src="../flags/eua.png" width="40px"> |
+| [CSS ICON](https://cssicon.space/) | <img src="../flags/eua.png" width="40px"> |
+| [Devicon](https://konpa.github.io/devicon/) | <img src="../flags/eua.png" width="40px"> |
+| [Endless Icons](http://endlessicons.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | <img src="../flags/eua.png" width="40px"> |
+| [Font Combinations](https://www.canva.com/font-combinations/) | <img src="../flags/eua.png" width="40px"> |
+| [Font Flipper](https://fontflipper.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Font Space](https://www.fontspace.com/)| <img src="../flags/eua.png" width="40px"> |
+| [Font Squirrel](https://www.fontsquirrel.com/) | <img src="../flags/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../flags/br.jpg" width="40px"> |
+| [Fontastic.me](http://fontastic.me/) | <img src="../flags/eua.png" width="40px"> |
 | [FontDrop](https://fontdrop.info) | <img src="../flags/eua.png" width="40px"> |
-| [Open Foundry](https://open-foundry.com) | <img src="../flags/eua.png" width="40px"> | 
+| [Fontello](http://fontello.com/) | <img src="../flags/eua.png" width="40px"> |
+| [FontFabric](https://www.fontfabric.com/) | <img src="../flags/eua.png" width="40px"> |
+| [FontGet](https://www.fontget.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Fontisto Icons](https://fontisto.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Fontjoy](https://fontjoy.com/) | <img src="../flags/eua.png" width="40px"> |
+| [FontPair](https://fontpair.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Fonts Arena](https://fontsarena.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Fonts for Apple Platforms](https://developer.apple.com/fonts/) | <img src="../flags/eua.png" width="40px"> |
+| [FontSpark](https://fontspark.app/) | <img src="../flags/eua.png" width="40px"> |
+| [Free Typography](https://freetypography.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Glyphter](https://glyphter.com) | <img src="../flags/eua.png" width="40px"> |
+| [Golden Ratio](https://grtcalculator.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Google Fonts](https://fonts.google.com/) | <img src="../flags/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../flags/br.jpg" width="40px"> |
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | <img src="../flags/eua.png" width="40px"> |
-| [UXWing](https://uxwing.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | <img src="../flags/eua.png" width="40px"> |
-| [Linear Icons](https://linearicons.com/free) | <img src="../flags/eua.png" width="40px"> |
+| [Hero Icons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |
+| [Icofont](https://icofont.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Icomoon](https://icomoon.io/app/) | <img src="../flags/eua.png" width="40px"> |
+| [Icon-icons.com](https://icon-icons.com/) | <img src="../flags/eua.png" width="40px"> |
+| [IconBros](https://www.iconbros.com) | <img src="../flags/eua.png" width="40px"> |
+| [Iconmonstr](https://iconmonstr.com/) | <img src="../flags/eua.png" width="40px"> |
+| [IconPark](https://github.com/bytedance/IconPark) | <img src="../flags/eua.png" width="40px"> | 
 | [Icons8](https://icons8.com/) | <img src="../flags/eua.png" width="40px"> |
 | [IconSear.ch](https://iconsear.ch/search.html) | <img src="../flags/eua.png" width="40px"> |
-| [Nucleo App](https://nucleoapp.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Icon-icons.com](https://icon-icons.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Bootstrap Icons](https://icons.getbootstrap.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Iconmonstr](https://iconmonstr.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Vivid.js](https://webkul.github.io/vivid/) | <img src="../flags/eua.png" width="40px"> |
-| [Lordicon](https://lordicon.com/free-icons) | <img src="../flags/eua.png" width="40px"> |
-| [UseAnimations](https://useanimations.com/) | <img src="../flags/eua.png" width="40px"> |
-| [IconBros](https://www.iconbros.com) | <img src="../flags/eua.png" width="40px"> |
-| [Material Design Icons](https://materialdesignicons.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Zondicons](https://www.zondicons.com/icons.html) | <img src="../flags/eua.png" width="40px"> |
-| [Endless Icons](http://endlessicons.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Icomoon](https://icomoon.io/app/) | <img src="../flags/eua.png" width="40px"> |
-| [Cryptoicons](http://cryptoicons.co/) | <img src="../flags/eua.png" width="40px"> |
-| [appicon](https://appicon.co/) | <img src="../flags/eua.png" width="40px"> |
-| [LineIcons](https://lineicons.com) | <img src="../flags/eua.png" width="40px"> |
-| [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | <img src="../flags/eua.png" width="40px"> |
-| [SVG Repo](https://www.svgrepo.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Convertio](https://convertio.co/png-svg/) | <img src="../flags/eua.png" width="40px"> |
-| [CSS ICON](https://cssicon.space/) | <img src="../flags/eua.png" width="40px"> |
-| [Unified icons](https://iconify.design/) | <img src="../flags/eua.png" width="40px"> |
-| [System UIcons](https://systemuicons.com/) | <img src="../flags/eua.png" width="40px"> |
-| [IconPark](https://github.com/bytedance/IconPark) | <img src="../flags/eua.png" width="40px"> | 
-| [Radix Icons](https://icons.modulz.app/) | <img src="../flags/eua.png" width="40px"> |
-| [Material Icons](https://material.io/resources/icons/) | <img src="../flags/eua.png" width="40px"> |
-| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) | <img src="../flags/eua.png" width="40px"> |
-| [Fontisto Icons](https://fontisto.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Icofont](https://icofont.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Material Palette](https://www.materialpalette.com/icons) | <img src="../flags/eua.png" width="40px"> |
-| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | <img src="../flags/eua.png" width="40px"> |
-| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | <img src="../flags/eua.png" width="40px"> |
-| [Devicon](https://konpa.github.io/devicon/) | <img src="../flags/eua.png" width="40px"> |
-| [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) | <img src="../flags/eua.png" width="40px"> |
-| [Weather Icons](https://erikflowers.github.io/weather-icons/) | <img src="../flags/eua.png" width="40px"> | 
-| [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | <img src="../flags/eua.png" width="40px"> |
 | [Jam Icons](https://jam-icons.com/) | <img src="../flags/eua.png" width="40px"> | 
-| [Fontastic.me](http://fontastic.me/) | <img src="../flags/eua.png" width="40px"> |
-| [Fontello](http://fontello.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Just my type](https://justmytype.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Leon Sans](https://github.com/cmiscm/leonsans/) | <img src="../flags/eua.png" width="40px"> |
+| [Lexend](https://www.lexend.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Linea](https://linea.io/) | <img src="../flags/eua.png" width="40px"> |
-| [Unicons](https://iconscout.com/unicons) | <img src="../flags/eua.png" width="40px"> |
+| [Linear Icons](https://linearicons.com/free) | <img src="../flags/eua.png" width="40px"> |
+| [LineIcons](https://lineicons.com) | <img src="../flags/eua.png" width="40px"> |
+| [Lordicon](https://lordicon.com/free-icons) | <img src="../flags/eua.png" width="40px"> |
+| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | <img src="../flags/eua.png" width="40px"> |
+| [Material Design Icons](https://materialdesignicons.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Material Icons](https://material.io/resources/icons/) | <img src="../flags/eua.png" width="40px"> |
+| [Material Palette](https://www.materialpalette.com/icons) | <img src="../flags/eua.png" width="40px"> |
 | [Mobirise Icons](https://mobiriseicons.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Hero Icons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |
+| [Modular scale](https://www.modularscale.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Nucleo App](https://nucleoapp.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Open Foundry](https://open-foundry.com) | <img src="../flags/eua.png" width="40px"> | 
+| [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) | <img src="../flags/eua.png" width="40px"> |
+| [Radix Icons](https://icons.modulz.app/) | <img src="../flags/eua.png" width="40px"> |
+| [SFWin](https://github.com/blaisck/sfwin/) | <img src="../flags/eua.png" width="40px"> |
+| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | <img src="../flags/eua.png" width="40px"> |
+| [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | <img src="../flags/eua.png" width="40px"> |
+| [SVG Repo](https://www.svgrepo.com/) | <img src="../flags/eua.png" width="40px"> |
+| [System UIcons](https://systemuicons.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Tiff](https://tiff.herokuapp.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Transfonter](https://transfonter.org/) | <img src="../flags/eua.png" width="40px"> |
+| [Typechem](https://typechem.herokuapp.com/sansita-700-ff8d95-quicksand-500-fdfdfd-070634) | <img src="../flags/eua.png" width="40px"> |
+| [TypeKit Practice](https://practice.typekit.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Unblast](https://unblast.com/fonts/) | <img src="../flags/eua.png" width="40px"> |
+| [Unicons](https://iconscout.com/unicons) | <img src="../flags/eua.png" width="40px"> |
+| [Unified icons](https://iconify.design/) | <img src="../flags/eua.png" width="40px"> |
+| [Use & Modify](https://usemodify.com/) | <img src="../flags/eua.png" width="40px"> |
+| [UseAnimations](https://useanimations.com/) | <img src="../flags/eua.png" width="40px"> |
+| [UXWing](https://uxwing.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Vivid.js](https://webkul.github.io/vivid/) | <img src="../flags/eua.png" width="40px"> |
+| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | <img src="../flags/eua.png" width="40px"> |
+| [Weather Icons](https://erikflowers.github.io/weather-icons/) | <img src="../flags/eua.png" width="40px"> | 
+| [Zondicons](https://www.zondicons.com/icons.html) | <img src="../flags/eua.png" width="40px"> |
+| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
