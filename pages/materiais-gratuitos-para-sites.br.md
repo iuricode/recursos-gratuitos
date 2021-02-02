@@ -311,7 +311,6 @@
 | [Css.gg](https://css.gg/) | <img src="../flags/eua.png" width="40px"> | [Flaticon](https://www.flaticon.com/br/) | <img src="../flags/br.jpg" width="40px"> | 
 | [DrawKit](https://www.drawkit.io/free-icons) | <img src="../flags/eua.png" width="40px"> | [Freepik](https://br.freepik.com/) | <img src="../flags/br.jpg" width="40px"> | 
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../flags/eua.png" width="40px"> | 
-| [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> | 
 | [Feather](https://feathericons.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Font Awesome](https://fontawesome.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [Heroicons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |  
@@ -327,6 +326,7 @@
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../flags/eua.png" width="40px"> |
 | [Remix Icon](https://remixicon.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [Shape.so](https://shape.so/) | <img src="../flags/eua.png" width="40px"> |  
+| [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../flags/eua.png" width="40px"> |  
 | [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../flags/eua.png" width="40px"> |  
 | [Tabler Icons](https://tablericons.com/) | <img src="../flags/eua.png" width="40px"> |  
