@@ -357,12 +357,12 @@
 | :----------: | :------: |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="../flags/eua.png" width="40px"> |                       
 | [Instant Logo Search](http://instantlogosearch.com/)| <img src="../flags/eua.png" width="40px"> |                    
-| [LogoHub](https://logohub.io/) | <img src="../flags/eua.png" width="40px"> |                     
 | [Logo Maker](https://logomakr.com/) | <img src="../flags/eua.png" width="40px"> |
+| [LogoHub](https://logohub.io/) | <img src="../flags/eua.png" width="40px"> |                     
 | [LogoSear.ch](https://logosear.ch/search.html) | <img src="../flags/eua.png" width="40px"> |                  
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> | 
 | [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |                                                         
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../flags/eua.png" width="40px"> |                                   
-| [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |                          
+| [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |                         
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
