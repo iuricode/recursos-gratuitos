@@ -4,55 +4,55 @@
 
 ## 📚 Índice
 
-🔖 [Imagens](#-imagens)<br>
-🔖 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
+🔖 [Animações e Gifs](#-animações-e-gifs)<br>
 🔖 [Emojis](#-emojis)<br>
-🔖 [Paletas de Cores](#-paletas-de-cores)<br>
+🔖 [Imagens](#-imagens)<br>
 🔖 [Fontes e Fontes de ícones](#-fontes-e-fontes-de-ícones)<br>
 🔖 [Ícones](#-ícones)<br>
-🔖 [Animações e Gifs](#-animações-e-gifs)<br>
+🔖 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
 🔖 [Logos](#-logos)<br>
+🔖 [Paletas de Cores](#-paletas-de-cores)<br>
 
 ## 🖼️ Imagens
 > Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
 
 | Links   | Idioma | Links    | Idioma |
 | :-------------: | :----------: | :-----------: | :-----------: |
-| [Wunderstock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
-| [Pixabay](https://pixabay.com/) | <img src="../flags/eua.png" width="40px">  | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
-| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../flags/br.jpg" width="40px"> | 
-| [Unsplash](https://unsplash.com/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [StockSnap.io](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [Gratisography](https://gratisography.com/) | <img src="../flags/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="../flags/br.jpg" width="40px"> |
 | [Burst](https://burst.shopify.com/free-images) | <img src="../flags/eua.png" width="40px"> | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="../flags/br.jpg" width="40px"> |
-| [StockFreeImages](https://www.stockfreeimages.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Wunder Stock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Reshot](https://www.reshot.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Creative Commons](https://search.creativecommons.org) |<img src="../flags/eua.png" width="40px"> |
 | [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> |
-| [Magdeleine](https://magdeleine.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Picspree](https://picspree.com) | <img src="../flags/eua.png" width="40px"> |
-| [Life of Pix](https://www.lifeofpix.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Morguefile](https://morguefile.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> |
+| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../flags/br.jpg" width="40px"> | 
+| [Generated Photos](https://generated.photos/) | <img src="../flags/eua.png" width="40px"> |
+| [Gratisography](https://gratisography.com/) | <img src="../flags/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="../flags/br.jpg" width="40px"> |
 | [Kaboom Pics](https://kaboompics.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Life of Pix](https://www.lifeofpix.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Lorem Picsum](https://picsum.photos/) | <img src="../flags/eua.png" width="40px"> |
+| [Magdeleine](https://magdeleine.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Morguefile](https://morguefile.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Nappy](https://www.nappy.co/) | <img src="../flags/eua.png" width="40px"> |
+| [Negative Space](https://negativespace.co/) | <img src="../flags/eua.png" width="40px"> |
 | [New Old Stock](https://nos.twnsnd.co/) | <img src="../flags/eua.png" width="40px"> |
 | [Pic Jumbo](https://picjumbo.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | <img src="../flags/eua.png" width="40px"> |
-| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> |
-| [Stockvault](http://www.stockvault.net/) | <img src="../flags/eua.png" width="40px"> |
-| [Placeholder](https://placeholder.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Realistic Shots](https://realisticshots.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Negative Space](https://negativespace.co/) | <img src="../flags/eua.png" width="40px"> |
-| [SkitterPhoto](https://skitterphoto.com/) | <img src="../flags/eua.png" width="40px"> |
 | [PicoGraphy](https://picography.co/) | <img src="../flags/eua.png" width="40px"> |
-| [PxHere](https://pxhere.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Picspree](https://picspree.com) | <img src="../flags/eua.png" width="40px"> |
 | [Piqsels](https://piqsels.com/) | <img src="../flags/eua.png" width="40px"> |
-| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Nappy](https://www.nappy.co/) | <img src="../flags/eua.png" width="40px"> |
-| [Generated Photos](https://generated.photos/) | <img src="../flags/eua.png" width="40px"> |
-| [Lorem Picsum](https://picsum.photos/) | <img src="../flags/eua.png" width="40px"> |
-| [scienceimage](https://www.scienceimage.csiro.au) | <img src="../flags/eua.png" width="40px"> |
+| [Pixabay](https://pixabay.com/) | <img src="../flags/eua.png" width="40px">  | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
+| [Placeholder](https://placeholder.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | <img src="../flags/eua.png" width="40px"> |
+| [PxHere](https://pxhere.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Realistic Shots](https://realisticshots.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Reshot](https://www.reshot.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Saxifraga](http://www.freenatureimages.eu) | <img src="../flags/eua.png" width="40px"> |
-| [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> |
+| [scienceimage](https://www.scienceimage.csiro.au) | <img src="../flags/eua.png" width="40px"> |
+| [StockFreeImages](https://www.stockfreeimages.com/) | <img src="../flags/eua.png" width="40px"> |
+| [SkitterPhoto](https://skitterphoto.com/) | <img src="../flags/eua.png" width="40px"> |
+| [StockSnap.io](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [Stockvault](http://www.stockvault.net/) | <img src="../flags/eua.png" width="40px"> |
+| [Unsplash](https://unsplash.com/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [Wunderstock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Wunder Stock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
