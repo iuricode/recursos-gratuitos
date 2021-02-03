@@ -4,8 +4,8 @@
 
 ## 📚 Índice 
 
-🔖 [Livros](#-livros)<br>
 🔖 [Cursos](#-cursos)<br>
+🔖 [Livros](#-livros)<br>
 🔖 [Podcasts](#-podcasts)<br>
 🔖 [Sites e Blogs](#-sites-e-blogs)<br>
 
