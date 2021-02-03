@@ -11,8 +11,8 @@
 
 ## 🔧 Herramientas de desarrollo
 
-| Links      | 
-| :----------: |
+| Link      | 
+| ---------- |
 | [.NET Fiddle](https://dotnetfiddle.net/) |
 | [1PageRank](http://www.1pagerank.com/) | 
 | [Any API](https://any-api.com/) | 
@@ -71,8 +71,8 @@
 
 ## 📝 IDEs y editores de código
 
-| Links      | 
-| :----------: 
+| Link      | 
+| ---------- | 
 | [Atom](https://atom.io/) |
 | [BBEdit](https://www.barebones.com/products/bbedit/) | 
 | [Brackets](http://brackets.io/) | 
@@ -93,8 +93,8 @@
 
 ## 🔤 Lenguajes de programación
 
-| Links      |  
-| :----------: | 
+| Link      |  
+| ---------- | 
 | [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) | 
 | [Clojure](https://clojure.org/) | 
 | [Dart](https://dart.dev/) | 
@@ -116,8 +116,8 @@
 
 ## 🏨 Hospedaje
 
-| Links      | 
-| :----------: | 
+| Link      | 
+| ---------- | 
 | [1FreeHosting](http://www.1freehosting.com/) | 
 | [2FreeHosting](https://www.2freehosting.com/) | 
 | [Amazon Web Services](https://aws.amazon.com/pt/) | 
@@ -137,6 +137,7 @@
 | [One.com](https://www.one.com/pt-BR/) | 
 | [Surge](https://surge.sh/) | 
 | [Umbler](https://www.umbler.com/br) | 
+| [Vercel](https://vercel.com/) |r) | 
 | [Vercel](https://vercel.com/) |
 
 <b>[🔝 Volver al índice](#-índice)<b>

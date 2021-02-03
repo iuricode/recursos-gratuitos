@@ -11,8 +11,8 @@
 
 ## 📚 Livros
 
-| Links      | Idioma | Links      | Idioma |
-| :----------: | :------: | :----------: | :------: |
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
 | [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="../flags/br.jpg" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="../flags/br.jpg" width="40px"> | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="../flags/eua.png" width="40px"> | 
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | <img src="../flags/br.jpg" width="40px"> |  [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | <img src="../flags/eua.png" width="40px"> |
@@ -30,8 +30,8 @@
 
 ## 👨‍💻 Cursos
 
-| Links      | Tipo  | Certificado | Idioma | Links      | Tipo  | Certificado | Idioma |
-| :----------: | :------: | :----------: | :------: | :----------: | :------: | :----------: | :------: |
+| Link      | Tipo  | Certificado | Idioma | Link      | Tipo  | Certificado | Idioma |
+| ---------- | ------ | ---------- | :------: | ---------- | ------ | ---------- | :------: |
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science )| Curso | Não | <img src="../flags/eua.png" width="40px"> |
@@ -115,14 +115,13 @@
 
 ## 🎤 Podcasts
 
-| Links      | Idioma |
-| :----------: | :------: |
+| Link      | Idioma |
+| ---------- | :------: |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="../flags/br.jpg" width="40px"> |
 | [Data Hackers](https://datahackers.com.br/podcast) | <img src="../flags/br.jpg" width="40px"> | 
 | [Dev na Estrada](https://devnaestrada.com.br/) | <img src="../flags/br.jpg" width="40px"> |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="../flags/br.jpg" width="40px"> | 
 | [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) | <img src="../flags/br.jpg" width="40px"> | 
-| [Hipsters Ponto Tech](https://hipsters.tech/) | <img src="../flags/br.jpg" width="40px"> | 
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="../flags/br.jpg" width="40px"> | 
 | [Pizza de Dados](https://pizzadedados.com/) | <img src="../flags/br.jpg" width="40px"> | 
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../flags/br.jpg" width="40px"> |
@@ -132,15 +131,14 @@
 
 ## 💻 Sites e Blogs
 
-| Links      | Idioma | Links      | Idioma |
-| :----------: | :------: | :----------: | :------: |
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="../flags/br.jpg" width="40px">| [HTML Dog](https://htmldog.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="../flags/br.jpg" width="40px"> | [JavaScript for Cats](http://jsforcats.com/) | <img src="../flags/eua.png" width="40px"> |
 | [High5Devs](http://high5devs.com/) | <img src="../flags/br.jpg" width="40px"> | [JavaScript Katas](https://jskatas.org/ ) | <img src="../flags/eua.png" width="40px"> |
 | [Jessica Temporal](https://jtemporal.com/ ) | <img src="../flags/br.jpg" width="40px"> | [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="../flags/eua.png" width="40px"> |
 | [Laraveling](https://laraveling.tech/) | <img src="../flags/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Leticia Portella](https://leportella.com/pt-br) | <img src="../flags/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
-| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
+| [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> 
 
 [🔝 Voltar ao índice](#-índice)

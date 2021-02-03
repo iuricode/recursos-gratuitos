@@ -16,16 +16,16 @@
 ## 🖼️ Imagens
 > Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
 
-| Links   | Idioma | Links    | Idioma |
-| :-------------: | :----------: | :-----------: | :-----------: |
-| [Burst](https://burst.shopify.com/free-images) | <img src="../flags/eua.png" width="40px"> | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="../flags/br.jpg" width="40px"> |
-| [Creative Commons](https://search.creativecommons.org) |<img src="../flags/eua.png" width="40px"> |
-| [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> |
-| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> |
-| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../flags/br.jpg" width="40px"> | 
+| Link   | Idioma | Link    | Idioma |
+| ------------- | :----------: | ----------- | :-----------: |
+| [Burst](https://burst.shopify.com/free-images) | <img src="../flags/eua.png" width="40px"> | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="../flags/br.jpg" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../flags/br.jpg" width="40px"> | 
+| [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="../flags/br.jpg" width="40px"> |
+| [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
 | [Generated Photos](https://generated.photos/) | <img src="../flags/eua.png" width="40px"> |
-| [Gratisography](https://gratisography.com/) | <img src="../flags/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="../flags/br.jpg" width="40px"> |
+| [Gratisography](https://gratisography.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Kaboom Pics](https://kaboompics.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Life of Pix](https://www.lifeofpix.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Lorem Picsum](https://picsum.photos/) | <img src="../flags/eua.png" width="40px"> |
@@ -38,7 +38,7 @@
 | [PicoGraphy](https://picography.co/) | <img src="../flags/eua.png" width="40px"> |
 | [Picspree](https://picspree.com) | <img src="../flags/eua.png" width="40px"> |
 | [Piqsels](https://piqsels.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Pixabay](https://pixabay.com/) | <img src="../flags/eua.png" width="40px">  | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
+| [Pixabay](https://pixabay.com/) | <img src="../flags/eua.png" width="40px">  | 
 | [Placeholder](https://placeholder.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | <img src="../flags/eua.png" width="40px"> |
 | [PxHere](https://pxhere.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -48,10 +48,10 @@
 | [scienceimage](https://www.scienceimage.csiro.au) | <img src="../flags/eua.png" width="40px"> |
 | [StockFreeImages](https://www.stockfreeimages.com/) | <img src="../flags/eua.png" width="40px"> |
 | [SkitterPhoto](https://skitterphoto.com/) | <img src="../flags/eua.png" width="40px"> |
-| [StockSnap.io](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [StockSnap.io](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> | 
 | [Stockvault](http://www.stockvault.net/) | <img src="../flags/eua.png" width="40px"> |
-| [Unsplash](https://unsplash.com/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [Wunderstock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Unsplash](https://unsplash.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Wunderstock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Wunder Stock](https://wunderstock.com/) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
@@ -60,10 +60,10 @@
 ## 🚀 Ilustrações e Vetores
 > Vetores, clipart, ilustrações, padrões gratuitos e muito mais
 
-| Links      | Idioma | Links      | Idioma |
-| :----------: | :------: | :----------: | :------: |
-| [Abstrakt](https://www.abstrakt.design/) | <img src="../flags/eua.png" width="40px"> | 
-| [Absurd Design](https://absurd.design/) | <img src="../flags/eua.png" width="40px"> | 
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [Abstrakt](https://www.abstrakt.design/) | <img src="../flags/eua.png" width="40px"> | [Canva](https://www.canva.com/) | <img src="../flags/br.jpg" width="40px"> | 
+| [Absurd Design](https://absurd.design/) | <img src="../flags/eua.png" width="40px"> | [Ouch](https://icons8.com.br/illustrations) | <img src="../flags/br.jpg" width="40px"> |
 | [Ara Illustration](https://www.aracreator.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Black illustrations](https://www.blackillustrations.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Blob Marker](https://www.blobmaker.app/) | <img src="../flags/eua.png" width="40px"> |  
@@ -77,7 +77,7 @@
 | [Delesign](https://delesign.com/free-designs/graphics) | <img src="../flags/eua.png" width="40px"> | 
 | [Design.ai](https://designs.ai/graphicmaker/) | <img src="../flags/eua.png" width="40px"> |
 | [DrawKit](https://www.drawkit.io/)| <img src="../flags/eua.png" width="40px"> |     
-| [Facebook Design](https://facebook.design/) | <img src="../flags/eua.png" width="40px"> | [Ouch](https://icons8.com.br/illustrations) | <img src="../flags/br.jpg" width="40px"> |
+| [Facebook Design](https://facebook.design/) | <img src="../flags/eua.png" width="40px"> | 
 | [Flow Lava](https://flowlava.club/) | <img src="../flags/eua.png" width="40px"> |  
 | [Free Illustrations](https://freeillustrations.xyz/) | <img src="../flags/eua.png" width="40px"> | 
 | [Free vectors](https://all-free-download.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -118,7 +118,7 @@
 | [Vecteezy](https://www.vecteezy.com/)| <img src="../flags/eua.png" width="40px"> |
 | [Vector Creator](https://icons8.com/vector-creator/) | <img src="../flags/eua.png" width="40px"> |    
 | [Vector4Free](https://www.vector4free.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Wannapik](https://www.wannapik.com/) | <img src="../flags/eua.png" width="40px"> |  [Canva](https://www.canva.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [Wannapik](https://www.wannapik.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) | <img src="../flags/eua.png" width="40px"> | 
 | [WooBro](https://woobro.design/) | <img src="../flags/eua.png" width="40px"> | 
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="../flags/eua.png" width="40px"> |
@@ -130,8 +130,8 @@
 ## 😛 Emojis
 > Recursos para emojis
 
-| Links      | Idioma |
-| :----------: | :------: |
+| Link      | Idioma |
+| ---------- | :------: |
 | [EmojiCopy](https://www.emojicopy.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../flags/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -144,9 +144,9 @@
 ## 🎨 Paletas de Cores
 > Sites e recursos que ajudam nas escolhas relacionadas às cores
 
-| Links      | Idioma | Links      | Idioma |
-| :----------: | :------: | :----------: | :------: |
-| [0to255](https://www.0to255.com/) | <img src="../flags/eua.png" width="40px"> |
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [0to255](https://www.0to255.com/) | <img src="../flags/eua.png" width="40px"> | [Adobe Color](https://color.adobe.com/pt/create/color-wheel) | <img src="../flags/br.jpg" width="40px"> |
 | [Adobe Trends](https://color.adobe.com/trends)| <img src="../flags/eua.png" width="40px"> |
 | [BRAND PALETTES](https://brandpalettes.com/) | <img src="../flags/eua.png" width="40px"> |
 | [BrandColors](http://brandcolors.net/) | <img src="../flags/eua.png" width="40px"> |
@@ -178,7 +178,7 @@
 | [Coolors](https://coolors.co) | <img src="../flags/eua.png" width="40px"> |
 | [CSS gradient](https://cssgradient.io/) | <img src="../flags/eua.png" width="40px"> |
 | [Design Seeds](https://www.design-seeds.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Flat UI](https://flatuicolors.com/) | <img src="../flags/eua.png" width="40px"> | [Adobe Color](https://color.adobe.com/pt/create/color-wheel) | <img src="../flags/br.jpg" width="40px"> |
+| [Flat UI](https://flatuicolors.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Google Material Color Tool](https://material.io/resources/color/) | <img src="../flags/eua.png" width="40px"> |
 | [Grabient](https://www.grabient.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Gradient Buttons](https://gradientbuttons.colorion.co/) | <img src="../flags/eua.png" width="40px"> |
@@ -215,11 +215,11 @@
 ## 🔤 Fontes e Fontes de ícones
 > Sites que oferecem fontes gratuitas, bem como ferramentas baseadas em fontes
 
-| Links      | Idioma | Links      | Idioma |
-| :----------: | :------: | :----------: | :------: |
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
 | [1001 Fonts](https://www.1001fonts.com/) | <img src="../flags/eua.png" width="40px"> | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="../flags/br.jpg" width="40px"> |
-| [Abstract Fonts](http://www.abstractfonts.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Adobe Fonts](https://fonts.adobe.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Abstract Fonts](http://www.abstractfonts.com/) | <img src="../flags/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../flags/br.jpg" width="40px"> |
+| [Adobe Fonts](https://fonts.adobe.com/) | <img src="../flags/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../flags/br.jpg" width="40px"> |
 | [appicon](https://appicon.co/) | <img src="../flags/eua.png" width="40px"> |
 | [Arabic fonts](https://arabicfonts.net/) | <img src="../flags/eua.png" width="40px"> |
 | [BeFonts](https://befonts.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -234,7 +234,7 @@
 | [Font Combinations](https://www.canva.com/font-combinations/) | <img src="../flags/eua.png" width="40px"> |
 | [Font Flipper](https://fontflipper.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Font Space](https://www.fontspace.com/)| <img src="../flags/eua.png" width="40px"> |
-| [Font Squirrel](https://www.fontsquirrel.com/) | <img src="../flags/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../flags/br.jpg" width="40px"> |
+| [Font Squirrel](https://www.fontsquirrel.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Fontastic.me](http://fontastic.me/) | <img src="../flags/eua.png" width="40px"> |
 | [FontDrop](https://fontdrop.info) | <img src="../flags/eua.png" width="40px"> |
 | [Fontello](http://fontello.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -249,7 +249,7 @@
 | [Free Typography](https://freetypography.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Glyphter](https://glyphter.com) | <img src="../flags/eua.png" width="40px"> |
 | [Golden Ratio](https://grtcalculator.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Google Fonts](https://fonts.google.com/) | <img src="../flags/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Google Fonts](https://fonts.google.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | <img src="../flags/eua.png" width="40px"> |
 | [Hero Icons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |
 | [Icofont](https://icofont.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -305,9 +305,9 @@
 ## 🎉 Ícones
 > Recursos para ícones, incluindo png, svg e mais
 
-| Links      | Idioma | Links      | Idioma |
-| :----------: | :------: | :----------: | :------: |
-| [Boxicons](https://boxicons.com/) | <img src="../flags/eua.png" width="40px"> |  
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [Boxicons](https://boxicons.com/) | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> | 
 | [Css.gg](https://css.gg/) | <img src="../flags/eua.png" width="40px"> | [Flaticon](https://www.flaticon.com/br/) | <img src="../flags/br.jpg" width="40px"> | 
 | [DrawKit](https://www.drawkit.io/free-icons) | <img src="../flags/eua.png" width="40px"> | [Freepik](https://br.freepik.com/) | <img src="../flags/br.jpg" width="40px"> | 
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../flags/eua.png" width="40px"> | 
@@ -326,7 +326,7 @@
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../flags/eua.png" width="40px"> |
 | [Remix Icon](https://remixicon.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [Shape.so](https://shape.so/) | <img src="../flags/eua.png" width="40px"> |  
-| [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> | 
+| [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../flags/eua.png" width="40px"> |  
 | [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../flags/eua.png" width="40px"> |  
 | [Tabler Icons](https://tablericons.com/) | <img src="../flags/eua.png" width="40px"> |  
@@ -339,8 +339,8 @@
 ## 😺 Animações e Gifs
 > Recursos de animações e gifs
 
-| Links      | Idioma |
-| :----------: | :------: |
+| Link      | Idioma |
+| ---------- | :------: |
 | [Airbnb](https://airbnb.design/lottie/) | <img src="../flags/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Giphy](https://giphy.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -353,8 +353,8 @@
 ## 🎃 Logos
 > Recursos para logotipos
 
-| Links      | Idioma |
-| :----------: | :------: |
+| Link      | Idioma |
+| ---------- | :------: |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="../flags/eua.png" width="40px"> |                       
 | [Instant Logo Search](http://instantlogosearch.com/)| <img src="../flags/eua.png" width="40px"> |                    
 | [Logo Maker](https://logomakr.com/) | <img src="../flags/eua.png" width="40px"> |

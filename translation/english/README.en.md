@@ -108,5 +108,13 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
         </sub>
       </a><br>
     </td>
+    <td align="center">
+      <a href="https://github.com/YasmimVieira">
+        <img src="https://avatars.githubusercontent.com/u/47395019" width="100px;" alt="Foto da Yasmim Vieira no Github"/><br>
+        <sub>
+          <b>Renê Júnior</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>

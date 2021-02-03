@@ -11,8 +11,8 @@
 
 ## 🔧 Developer tools
 
-| Links      | 
-| :----------: |
+| Link      | 
+| ---------- |
 | [.NET Fiddle](https://dotnetfiddle.net/) |
 | [1PageRank](http://www.1pagerank.com/) | 
 | [Any API](https://any-api.com/) | 
@@ -64,15 +64,15 @@
 | [WebPageTest](https://www.webpagetest.org/) | 
 | [Wedsites](https://wedsites.com/) | 
 | [WordPress](https://wordpress.org/) | 
-| [XML Sitemaps](https://www.xml-sitemaps.com/) |
+| [XML Sitemaps](https://www.xml-sitemaps.com/) | 
 
 <b>[🔝 Back to the index](#-index)<b>
 
 
 ## 📝 IDEs e code editors
 
-| Links      | 
-| :----------: 
+| Link      | 
+| ---------- | 
 | [Atom](https://atom.io/) |
 | [BBEdit](https://www.barebones.com/products/bbedit/) | 
 | [Brackets](http://brackets.io/) | 
@@ -88,13 +88,14 @@
 | [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
 | [Visual Studio Code](https://code.visualstudio.com/) | 
 
+
 <b>[🔝 Back to the index](#-index)<b>
 
 
 ## 🔤 Programming languages
 
-| Links      |  
-| :----------: | 
+| Link      |  
+| ---------- | 
 | [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) | 
 | [Clojure](https://clojure.org/) | 
 | [Dart](https://dart.dev/) | 
@@ -116,8 +117,8 @@
 
 ## 🏨 Hosting
 
-| Links      | 
-| :----------: | 
+| Link      | 
+| ---------- | 
 | [1FreeHosting](http://www.1freehosting.com/) | 
 | [2FreeHosting](https://www.2freehosting.com/) | 
 | [Amazon Web Services](https://aws.amazon.com/pt/) | 

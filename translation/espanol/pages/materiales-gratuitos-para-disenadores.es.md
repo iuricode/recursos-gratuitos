@@ -8,8 +8,8 @@
 
 ## 🔧 herramientas
 
-| Links      | 
-| :----------: | 
+| Link      | 
+| ---------- | 
 | [Adobe XD](https://www.adobe.com/br/products/xd.html) | 
 | [Awwwards](https://www.awwwards.com) | 
 | [Bootstrap](https://www.getbootstrap.com/) | 
