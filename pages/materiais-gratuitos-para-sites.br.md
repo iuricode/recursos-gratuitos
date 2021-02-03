@@ -6,10 +6,10 @@
 
 🔖 [Animações e Gifs](#-animações-e-gifs)<br>
 🔖 [Emojis](#-emojis)<br>
-🔖 [Imagens](#-imagens)<br>
 🔖 [Fontes e Fontes de ícones](#-fontes-e-fontes-de-ícones)<br>
 🔖 [Ícones](#-ícones)<br>
 🔖 [Ilustrações e Vetores](#-ilustrações-e-vetores)<br>
+🔖 [Imagens](#-imagens)<br>
 🔖 [Logos](#-logos)<br>
 🔖 [Paletas de Cores](#-paletas-de-cores)<br>
 
