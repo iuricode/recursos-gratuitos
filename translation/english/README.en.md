@@ -112,7 +112,15 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
       <a href="https://github.com/YasmimVieira">
         <img src="https://avatars.githubusercontent.com/u/47395019" width="100px;" alt="Foto da Yasmim Vieira no Github"/><br>
         <sub>
-          <b>Renê Júnior</b>
+          <b>Yasmim Vieira</b>
+        </sub>
+      </a><br>
+    </td>
+     <td align="center">
+      <a href="https://github.com/zaymuel">
+        <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
+        <sub>
+          <b>Zaymuel</b>
         </sub>
       </a><br>
     </td>

@@ -116,5 +116,13 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+     <td align="center">
+      <a href="https://github.com/zaymuel">
+        <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
+        <sub>
+          <b>Zaymuel</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>
