@@ -118,6 +118,7 @@
 | Link      | Idioma |
 | ---------- | :------: |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="../flags/br.jpg" width="40px"> |
+| [Hipsters.Tech](https://hipsters.tech/assinar/ ) | <img src="../flags/br.jpg" width="40px"> |
 | [Data Hackers](https://datahackers.com.br/podcast) | <img src="../flags/br.jpg" width="40px"> | 
 | [Dev na Estrada](https://devnaestrada.com.br/) | <img src="../flags/br.jpg" width="40px"> |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="../flags/br.jpg" width="40px"> | 
@@ -140,5 +141,6 @@
 | [Laraveling](https://laraveling.tech/) | <img src="../flags/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> 
+| [DevChallenge](https://devchallenge.now.sh/) | <img src="../flags/br.jpg" width="40px"> 
 
 [🔝 Voltar ao índice](#-índice)
