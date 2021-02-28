@@ -46,6 +46,7 @@
 | [Remove.bg](https://www.remove.bg/) | 
 | [Sketch](https://www.sketch.com/) | 
 | [Squoosh.app](https://squoosh.app/) | 
+| [Tailwind CSS](https://tailwindcss.com/) | 
 | [UI Gradients](https://uigradients.com/) | 
 | [Whimsical](https://whimsical.com/) | 
 
