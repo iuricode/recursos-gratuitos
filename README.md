@@ -124,5 +124,13 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+     <td align="center">
+      <a href="https://github.com/davidlpc1">
+        <img src="https://avatars.githubusercontent.com/u/66884233" width="100px;" alt="Foto do Davi Lucas no Github"/><br>
+        <sub>
+          <b>Davi Lucas</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>
