@@ -118,6 +118,7 @@
 | Link      | Idioma |
 | ---------- | :------: |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="../flags/br.jpg" width="40px"> |
+| [Hipsters.Tech](https://hipsters.tech/assinar/ ) | <img src="../flags/br.jpg" width="40px"> |
 | [Data Hackers](https://datahackers.com.br/podcast) | <img src="../flags/br.jpg" width="40px"> | 
 | [Dev na Estrada](https://devnaestrada.com.br/) | <img src="../flags/br.jpg" width="40px"> |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="../flags/br.jpg" width="40px"> | 
