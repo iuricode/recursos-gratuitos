@@ -61,8 +61,8 @@
 
 | Link                                                                                                                                   |                  Idioma                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------: |
-|
- [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+|                                                                                                                                        |
+| [Teehanlax](https://www.teehanlax.com/tools/iphone)                                                                                    | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -71,7 +71,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -80,7 +80,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -89,7 +89,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -98,7 +98,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -107,7 +107,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -116,7 +116,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -125,7 +125,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -134,7 +134,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -143,7 +143,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -152,7 +152,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -161,7 +161,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -194,7 +194,7 @@
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-| [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> || [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |  | [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
@@ -370,8 +370,8 @@
 
 | Link                                                                                                                                   |                  Idioma                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------: |
-|
- [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+|                                                                                                                                        |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -380,7 +380,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -389,7 +389,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -398,7 +398,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -407,7 +407,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -416,7 +416,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -425,7 +425,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -434,7 +434,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -443,7 +443,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -452,7 +452,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -461,7 +461,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -470,7 +470,7 @@
 | [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
 | [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-[Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
 | [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
 | [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
 | [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
@@ -503,7 +503,7 @@
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
-| [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> || [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |  | [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
 | [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
