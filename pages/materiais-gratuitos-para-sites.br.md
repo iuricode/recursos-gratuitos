@@ -372,60 +372,351 @@
 | [VectorLogoZone](https://www.vectorlogo.zone/)                   | <img src="../flags/eua.png" width="40px"> |
 | [World Vector Logo](https://worldvectorlogo.com/)                | <img src="../flags/eua.png" width="40px"> |
 
+## 🧙‍♂️ Outros Links
+
+> Recursos para logotipos
+
+| Link                                                                                                                                   |                  Idioma                   |
+| -------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------: |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone)                                                                                | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/)                                                                     | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/)                                                             | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font)                                                                        | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/)                                                                                     | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com)                                                                                                         | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/)                                                                                                       | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/)                                                                                               | <img src="../flags/eua.png" width="40px"> |
+
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Browser Logos](https://www.teehanlax.com/tools/iphone) | <img src="../flags/eua.png" width="40px"> |
+| [Facebook developer tools](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F) | <img src="../flags/eua.png" width="40px"> |
+| [Popupdesign](http://blog.popupdesign.com.br/facebook-open-graph/) | <img src="../flags/eua.png" width="40px"> |
+| [Marketing](http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/) | <img src="../flags/eua.png" width="40px"> |
+| [Deviantart](https://www.deviantart.com/whats-hot/?q=free+font) | <img src="../flags/eua.png" width="40px"> |
+| [mpay24](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> |
+| [SVGPorn](https://svgporn.com) | <img src="../flags/eua.png" width="40px"> |
+| [Wordmark](https://wordmark.it/) | <img src="../flags/eua.png" width="40px"> |
+| [WhatFonts](https://www.whatfontis.com/) | <img src="../flags/eua.png" width="40px"> |
+
+<!-- Começa daqui -->
+
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
-https://lightroom.adobe.com/home
-
-https://www.remove.bg/upload
-https://pixlr.com/remove-background/
-
-https://mega.nz/#!dHJ1UYBJ!k7rPCvSBhEOsrqXaxwTor1kRtboDJvJbrvrKHRR9yBI
-http://gloyah.net/-67564DXRG/58yv?rndad=3016144088-1559762569
-
-https://befonts.com/downfile/e2df8c0b9d8613ba238fda1620e44dce.37971
-https://www.dafont.com/pt/new.php
-https://fonts.google.com/
-
-http://www.photoshoponline.net.br/
-https://lightroom.adobe.com/libraries/54fed549b30d461b88580bd9ce1c1477/assets/c9febe249b0fcf907c8db23bb0229607/adjust?panel=organize&tab=photos
-
-https://unsplash.com/
-http://stocksnap.com/
-https://www.vecteezy.com
-https://pixabay.com/
-www.pexels.com
-https://dribbble.com
-freepik.com.br
-
-https://www.vexels.com
-https://www.quant-ux.com/#/
-https://www.google.com/imghp?hl=pt-BR
-http://www.shapes4free.com
-
-https://www.canva.com/pt_br/
-https://br.pinterest.com
-freeimages.com
-
-www.flaticon.com
-https://www.mockupworld.co/all-mockups/
-
-https://color.adobe.com/pt
-
-https://www.whatfontis.com/
-
-https://wordmark.it/
-
-https://www.deviantart.com/whats-hot/?q=free+font
-
-http://marketingdeconteudo.com/tamanho-imagens-redes-sociais/
-
-http://blog.popupdesign.com.br/facebook-open-graph/
-
-https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Fsharing%2F
-
-http://www.inovativabrasil.com.br/programa-de-aceleracao/?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging%3BfCavwYCGSCGVcnkOT%2B57fw%3D%3
-
-https://www.teehanlax.com/tools/iphone
 https://www.teehanlax.com/tools/ipad/
 http://www.premiumpixels.com
 http://www.fribbble.com/
@@ -441,10 +732,9 @@ https://creativevip.net/
 http://graphicburger.com/
 
 http://pt.freeimages.com/
-https://pixabay.com/
-https://unsplash.com/
+
 https://www.flickr.com/
-https://morguefile.com/
+
 http://www.rgbstock.com/
 http://www.stockvault.net/
 https://www.pexels.com/
@@ -557,19 +847,47 @@ http://nos.twnsnd.co/
 http://deathtothestockphoto.com/
 http://www.lifeofpix.com/
 http://search.creativecommons.org/
-https://morguefile.com/
+
 http://www.photl.com/
 https://photodune.net/
 http://littlevisuals.co/
 http://www.splitshire.com/
-http://negativespace.co/ 24. http://www.stockvault.net/ 25. http://www.gratisography.com/ 26. https://unsplash.com/ 27. https://stocksnap.io/ 28. http://jeshoots.com/ 29. http://br.123rf.com/ 30. http://pixabay.com/ 31. http://cupcake.nilssonlee.se/ 32. http://www.uhdwallpapers.org/ 33. http://kaboompics.com/
+http://negativespace.co/http://www.stockvault.net/
+http://www.gratisography.com/
+https://unsplash.com/
+https://stocksnap.io/
+http://jeshoots.com/
+http://br.123rf.com/
+http://pixabay.com/
+http://cupcake.nilssonlee.se/
+http://www.uhdwallpapers.org/
+http://kaboompics.com/
 http://foodiesfeed.com/
 http://www.raumrot.com/10/
 http://jaymantri.com/
 https://us.fotolia.com/
 https://visualhunt.com/
 https://www.pexels.com/
-http://epicantus.tumblr.com/ http://kaboompics.com/ 4 https://www.shutterstock.com/ https://stock.tookapic.com/ 44. http://jaymantri.com/ http://snapwiresnaps.tumblr.com/ 46. http://freestocks.org/ 47. http://getrefe.tumblr.com/ 48. http://nos.twnsnd.co/ 49. https://picjumbo.com/ 50. http://superfamous.com/ 51. http://deathtothestockphoto.com/ 52. http://www.lifeofpix.com/ 53. http://search.creativecommons.org/ 54. https://morguefile.com/ 55. http://www.photl.com/ 56. https://photodune.net/ 57. http://littlevisuals.co/ 58. http://www.splitshire.com/ 59. http://negativespace.co/
+http://epicantus.tumblr.com/
+http://kaboompics.com/
+4 https://www.shutterstock.com/
+https://stock.tookapic.com/
+http://jaymantri.com/
+http://snapwiresnaps.tumblr.com/
+http://freestocks.org/
+http://getrefe.tumblr.com/
+http://nos.twnsnd.co/
+https://picjumbo.com/
+http://superfamous.com/
+http://deathtothestockphoto.com/
+http://www.lifeofpix.com/
+http://search.creativecommons.org/
+https://morguefile.com/
+http://www.photl.com/
+https://photodune.net/
+http://littlevisuals.co/
+http://www.splitshire.com/
+http://negativespace.co/
 http://www.stockvault.net/
 http://www.gratisography.com/
 https://unsplash.com/
@@ -605,7 +923,8 @@ http://www.gratisography.com/
 https://unsplash.com/
 https://stocksnap.io/
 http://jeshoots.com/
-http://pixabay.com/ 96. http://cupcake.nilssonlee.se/
+http://pixabay.com/
+http://cupcake.nilssonlee.se/
 http://www.uhdwallpapers.org/
 http://kaboompics.com/
 http://foodiesfeed.com/
