@@ -20,10 +20,12 @@
 | [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="../../../flags/br.jpg" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../../../flags/eua.png" width="40px"> | 
 | [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | <img src="../../../flags/br.jpg" width="40px"> |  [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../../../flags/eua.png" width="40px"> | 
 | [HTML5](https://drive.google.com/file/d/1QSU3Pl4U5kVL8fiHbl_n1F2zfbOjRzek/view?usp=sharing) | <img src="../../../flags/br.jpg" width="40px"> |
+| [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../flags/br.jpg" width="40px">
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | <img src="../../../flags/br.jpg" width="40px"> |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | <img src="../../../flags/br.jpg" width="40px"> |
-| [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../../../flags/br.jpg" width="40px"> |   
+| [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../../../flags/br.jpg" width="40px"> |  
+| [Ciência de Dados com R](https://drive.google.com/file/d/1F_Snn33O6FVf0uwN7Oyc6CmHQmdWJJ0a/view?usp=sharing) | <img src="../flags/br.jpg" width="40px"> 
 
 <b>[🔝 Volver al índice](#-índice)<b>
 
