@@ -124,5 +124,13 @@
         </sub>
       </a><br>
     </td>
+    <td align="center">
+      <a href="https://github.com/CarlosViniMSouza">
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="照片卡洛斯苏扎在吉图布"/><br>
+        <sub>
+          <b>Carlos Souza</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>

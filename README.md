@@ -133,13 +133,15 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
       </a><br>
     </td>
     </td>
+    <tr>
      <td align="center">
       <a href="https://github.com/CarlosViniMSouza">
         <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
         <sub>
-          <b>Zaymuel</b>
+          <b>Carlos Souza</b>
         </sub>
       </a><br>
     </td>
+    </tr>
   </tr>
 </table>
