@@ -126,7 +126,7 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
     </td>
     <td align="center">
       <a href="https://github.com/CarlosViniMSouza">
-        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Carlos Souza photo on Github"/><br>
         <sub>
           <b>Carlos Souza</b>
         </sub>
