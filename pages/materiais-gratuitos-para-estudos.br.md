@@ -90,7 +90,6 @@
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
-| [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> | 
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ ) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
