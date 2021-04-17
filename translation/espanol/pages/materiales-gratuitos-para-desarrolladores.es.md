@@ -85,6 +85,7 @@
 | [Notepad++](https://notepad-plus-plus.org/) |
 | [PHPStorm](https://www.jetbrains.com/phpstorm/) |
 | [PyCharm](https://www.jetbrains.com/pycharm/) |
+| [RStudio](https://www.rstudio.com/products/rstudio/download/) |
 | [Sublime Text](https://www.sublimetext.com/) |
 | [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
 | [Visual Studio Code](https://code.visualstudio.com/) | 
@@ -107,6 +108,7 @@
 | [Perl](https://www.perl.org/) | 
 | [PHP](https://www.php.net/) | 
 | [Python](https://www.python.org/) | 
+| [R](https://cran.r-project.org/) |
 | [Ruby](https://www.ruby-lang.org/pt/) |
 | [Rust](https://www.rust-lang.org/pt-BR/) |
 | [Swift](https://www.apple.com/br/swift/) | 

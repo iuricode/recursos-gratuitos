@@ -124,5 +124,13 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
         </sub>
       </a><br>
     </td>
+    <td align="center">
+      <a href="https://github.com/CarlosViniMSouza">
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza en Github"/><br>
+        <sub>
+          <b>Carlos Souza</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>

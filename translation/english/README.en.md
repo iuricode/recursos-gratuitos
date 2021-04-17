@@ -124,5 +124,13 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
         </sub>
       </a><br>
     </td>
+    <td align="center">
+      <a href="https://github.com/CarlosViniMSouza">
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Carlos Souza photo on Github"/><br>
+        <sub>
+          <b>Carlos Souza</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>
