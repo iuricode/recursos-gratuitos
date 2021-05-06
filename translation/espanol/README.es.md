@@ -48,14 +48,6 @@
 
 ---
 
-<img src="assets/image/banner4es.png">
-
-## 📚 Índice
-
-🔖 [herramientas](pages/materiales-gratuitos-para-disenadores.es.md#-herramientas)<br>
-
----
-
 ## ☕ Sea uno de los contribuyentes
 
 Quieres formar parte de este proyecto? Haga clic en [AQUÍ](CONTRIBUTING.es.md) y lea cómo contribuir.<br>
@@ -66,11 +58,12 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
 
 ## 🦄 Colaboradores
 
+
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="La foto de Iuri Silva está en github"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
@@ -78,15 +71,15 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
     </td>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
-        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="La foto de Waly está en github"/><br>
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
-          <b><<!---->Waly></b>
+          <b>Walyson</b>
         </sub>
       </a><br>
     </td>
     <td align="center">
       <a href="https://github.com/joaomaranhao">
-        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="La foto de João Maranhão está en github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
         <sub>
           <b>João Maranhão</b>
         </sub>
@@ -94,7 +87,7 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
     </td>
     <td align="center">
       <a href="https://github.com/z3ox1s">
-        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="La foto de Carlos Daniel está en github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
         <sub>
           <b>Carlos Daniel</b>
         </sub>
@@ -102,7 +95,7 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
     </td>
     <td align="center">
       <a href="https://github.com/reness0">
-        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="La foto de Renê Júnior está en github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Foto do Renê Júnior no Github"/><br>
         <sub>
           <b>Renê Júnior</b>
         </sub>
@@ -116,6 +109,7 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
         </sub>
       </a><br>
     </td>
+    <tr>
      <td align="center">
       <a href="https://github.com/zaymuel">
         <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
@@ -124,13 +118,23 @@ Este proyecto tiene licencia. Abra el archivo [LICENCIA](LICENSE.es.md) para obt
         </sub>
       </a><br>
     </td>
-    <td align="center">
+     <td align="center">
+      <a href="https://github.com/davidlpc1">
+        <img src="https://avatars.githubusercontent.com/u/66884233" width="100px;" alt="Foto do Davi Lucas no Github"/><br>
+        <sub>
+          <b>Davi Lucas</b>
+        </sub>
+      </a><br>
+    </td>
+    </td>
+     <td align="center">
       <a href="https://github.com/CarlosViniMSouza">
-        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza en Github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
         <sub>
           <b>Carlos Souza</b>
         </sub>
       </a><br>
     </td>
+    </tr>
   </tr>
 </table>

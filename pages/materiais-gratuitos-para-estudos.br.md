@@ -13,13 +13,12 @@
 
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
-| [Apostila HTML, XHTML E CSS](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="../flags/br.jpg" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="../flags/eua.png" width="40px"> | 
+|  | <img src="../flags/br.jpg" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="../flags/br.jpg" width="40px"> | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="../flags/eua.png" width="40px"> | 
 | [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | <img src="../flags/br.jpg" width="40px"> |  [HTML for .net Developers ](https://drive.google.com/file/d/1R5IgY4qDGUKcQ_7zXzKJF6KsbiSkqUpb/view?usp=sharing) | <img src="../flags/eua.png" width="40px"> |
 | [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="../flags/br.jpg" width="40px"> |[HTML the missing manual ](https://drive.google.com/file/d/1FwSmlKTHrJ9xSzcyhNby8RlRxY2ED1wz/view?usp=sharingg) | <img src="../flags/eua.png" width="40px"> |
-| [HTML and CSS design and build websites](https://github.com/walysonfelipe/ebooks/blob/main/HTML/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) | <img src="../flags/br.jpg" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../flags/eua.png" width="40px"> | 
-| [HTML5 e CSS3 com farinha e pimenta](https://drive.google.com/file/d/1LPUaSmTQmP1HM1qcd0BvqLQKWgG57cD_/view?usp=sharing) | <img src="../flags/br.jpg" width="40px"> |  [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../flags/eua.png" width="40px"> | 
-| [HTML5](https://drive.google.com/file/d/1QSU3Pl4U5kVL8fiHbl_n1F2zfbOjRzek/view?usp=sharing) | <img src="../flags/br.jpg" width="40px"> |
+|  | <img src="../flags/br.jpg" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../flags/eua.png" width="40px"> | 
+|  | <img src="../flags/br.jpg" width="40px"> |  [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../flags/eua.png" width="40px"> | 
 | [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../flags/br.jpg" width="40px">
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | <img src="../flags/br.jpg" width="40px"> |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../flags/br.jpg" width="40px"> | 

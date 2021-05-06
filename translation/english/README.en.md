@@ -48,14 +48,6 @@
 
 ---
 
-<img src="assets/image/banner4en.png">
-
-## 📚 Index
-
-🔖 [Tools](pages/free-materials-for-designers.en.md#-tools)<br>
-
----
-
 ## ☕ Be one of the contributors
 
 Do you want to make part of this project? Click [HERE](CONTRIBUTING.en.md) and read how to contribute.<br>
@@ -65,6 +57,7 @@ Do you want to make part of this project? Click [HERE](CONTRIBUTING.en.md) and r
 This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more details.<br>
 
 ## 🦄 Contributors
+
 
 <table>
   <tr>
@@ -78,15 +71,15 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
     </td>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
-        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Waly's picture on github"/><br>
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
-          <b><<!---->Waly></b>
+          <b>Walyson</b>
         </sub>
       </a><br>
     </td>
     <td align="center">
       <a href="https://github.com/joaomaranhao">
-        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="João Maranhão's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
         <sub>
           <b>João Maranhão</b>
         </sub>
@@ -94,7 +87,7 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
     </td>
     <td align="center">
       <a href="https://github.com/z3ox1s">
-        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Carlos Daniel's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
         <sub>
           <b>Carlos Daniel</b>
         </sub>
@@ -102,7 +95,7 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
     </td>
     <td align="center">
       <a href="https://github.com/reness0">
-        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Renê Júnior's picture on github"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Foto do Renê Júnior no Github"/><br>
         <sub>
           <b>Renê Júnior</b>
         </sub>
@@ -116,6 +109,7 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
         </sub>
       </a><br>
     </td>
+    <tr>
      <td align="center">
       <a href="https://github.com/zaymuel">
         <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
@@ -124,13 +118,23 @@ This projects is  licensed. Open the file [LICENSE](LICENSE.en.md) for more deta
         </sub>
       </a><br>
     </td>
-    <td align="center">
+     <td align="center">
+      <a href="https://github.com/davidlpc1">
+        <img src="https://avatars.githubusercontent.com/u/66884233" width="100px;" alt="Foto do Davi Lucas no Github"/><br>
+        <sub>
+          <b>Davi Lucas</b>
+        </sub>
+      </a><br>
+    </td>
+    </td>
+     <td align="center">
       <a href="https://github.com/CarlosViniMSouza">
-        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Carlos Souza photo on Github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
         <sub>
           <b>Carlos Souza</b>
         </sub>
       </a><br>
     </td>
+    </tr>
   </tr>
 </table>

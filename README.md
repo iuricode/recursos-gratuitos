@@ -48,14 +48,6 @@
 
 ---
 
-<img src="assets/image/banner4.png">
-
-## 📚 Índice
-
-🔖 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas)<br>
-
----
-
 ## ☕ Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
@@ -80,7 +72,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
       <a href="https://github.com/walysonfelipe">
         <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
-          <b><<!---->Waly></b>
+          <b>Walyson</b>
         </sub>
       </a><br>
     </td>
@@ -116,6 +108,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+    <tr>
      <td align="center">
       <a href="https://github.com/zaymuel">
         <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
@@ -133,7 +126,6 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
       </a><br>
     </td>
     </td>
-    <tr>
      <td align="center">
       <a href="https://github.com/CarlosViniMSouza">
         <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
