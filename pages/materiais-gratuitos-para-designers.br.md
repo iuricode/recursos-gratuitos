@@ -9,7 +9,8 @@
 ## 🔧 Ferramentas
 
 | Link                                                                         |
-| ---------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------- 
+| [Sizes Social](http://ssizes.com)                                            |                                                                       
 | [Adobe XD](https://www.adobe.com/br/products/xd.html)                        |
 | [Awwwards](https://www.awwwards.com)                                         |
 | [Bootstrap](https://www.getbootstrap.com/)                                   |
