@@ -344,6 +344,7 @@
 | [Airbnb](https://airbnb.design/lottie/) | <img src="../flags/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Giphy](https://giphy.com/) | <img src="../flags/eua.png" width="40px"> |
+| [LottieFiles](https://lottiefiles.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../flags/eua.png" width="40px"> |
 | [Tenor](https://tenor.com/) | <img src="../flags/eua.png" width="40px"> |
 
