@@ -20,6 +20,7 @@
 | [Colors and Fonts](https://www.colorsandfonts.com/)                          |
 | [Coolors](https://coolors.co/)                                               |
 | [Cruip](https://cruip.com/)                                                  |
+| [FreeFrontEnd](https://freefrontend.com)                                                  |
 | [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) |
 | [CSS Tricks](https://css-tricks.com/)                                        |
 | [Figma](https://www.figma.com/)                                              |
