@@ -8,6 +8,7 @@
 🔖 [Livros](#-livros)<br>
 🔖 [Podcasts](#-podcasts)<br>
 🔖 [Sites e Blogs](#-sites-e-blogs)<br>
+🔖 [Challenges e aprender jogando](#-challenges-e-aprender-jogando)<br>
 
 ## 📚 Livros
 
@@ -142,5 +143,13 @@
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> 
 | [DevChallenge](https://devchallenge.now.sh/) | <img src="../flags/br.jpg" width="40px"> 
+
+## 🎮 Challenges e aprender jogando
+
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../flags/br.jpg" width="40px">| [Flexbox Defense](http://www.flexboxdefense.com) | <img src="../flags/eua.png" width="40px"> |
+| [Grid Garden](https://cssgridgarden.com/#pt-br) | <img src="../flags/br.jpg" width="40px"> | [Frontend Mentor](https://www.frontendmentor.io) | <img src="../flags/eua.png" width="40px"> |
+| [Grasshopper](https://grasshopper.app/pt_br/) | <img src="../flags/br.jpg" width="40px"> | 
 
 [🔝 Voltar ao índice](#-índice)
