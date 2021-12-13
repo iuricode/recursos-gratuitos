@@ -37,17 +37,6 @@
 
 ---
 
-<img src="assets/image/banner3en.png">
-
-## 📚 Index
-
-🔖 [Developer Tools](pages/free-materials-for-devs.en.md#-developer-tools)<br>
-🔖 [IDEs and Code editors](pages/free-materials-for-devs.en.md#-ides-and-code-editors)<br>
-🔖 [Programming Languages](pages/free-materials-for-devs.en.md#-programming-languages)<br>
-🔖 [Hosting](pages/free-materials-for-devs.en.md#-hosting)<br>
-
----
-
 ## ☕ Be one of the contributors
 
 Do you want to make part of this project? Click [HERE](CONTRIBUTING.en.md) and read how to contribute.<br>
