@@ -37,17 +37,6 @@
 
 ---
 
-<img src="assets/image/banner3.png">
-
-## 📚 Índice
-
-🔖 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.br.md#-ferramentas-de-desenvolvimento)<br>
-🔖 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.br.md#-ides-e-editores-de-código)<br>
-🔖 [Linguagens de programação](pages/materiais-gratuitos-para-devs.br.md#-linguagens-de-programação)<br>
-🔖 [Hospedagem](pages/materiais-gratuitos-para-devs.br.md#-hospedagem)<br>
-
----
-
 ## ☕ Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
