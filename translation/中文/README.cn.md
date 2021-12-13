@@ -37,17 +37,6 @@
 
 ---
 
-<img src="assets/image/banner3cn.png">
-
-## 📚 指數
-
-🔖 [開發者工具](pages/開發人員免費資料.cn.md#-開發者工具)<br>
-🔖 [IDE和代碼編輯器](pages/開發人員免費資料.cn.md#-IDE和代碼編輯器)<br>
-🔖 [編程語言](pages/開發人員免費資料.cn.md#-編程語言)<br>
-🔖 [代管](pages/開發人員免費資料.cn.md#-代管)<br>
-
----
-
 ## ☕ 成為貢獻者之一
 
 您想加入該項目嗎？ 單擊[這裡](CONTRIBUTING.cn.md) 並閱讀如何做出貢獻。<br>
