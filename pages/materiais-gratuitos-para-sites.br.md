@@ -12,6 +12,7 @@
 🔖 [Imagens](#-imagens)<br>
 🔖 [Logos](#-logos)<br>
 🔖 [Paletas de Cores](#-paletas-de-cores)<br>
+🔖 [Apps para testar Responsividade](#-apps-para-testar-responsividade)<br>
 
 ## 🖼️ Imagens
 > Sites que oferecem fotos gratuitas de todos os tipos para seus sites e aplicativos
@@ -364,6 +365,16 @@
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> | 
 | [Seeklogo](https://seeklogo.com/) | <img src="../flags/eua.png" width="40px"> |                                                      
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../flags/eua.png" width="40px"> |                                   
-| [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |                         
+| [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |         
+
+## ✨ Apps para testar Responsividade
+> Recursos para testar a responsividade de layouts
+
+| Link      | Idioma |
+| ---------- | :------: |
+| [Responsively App](https://responsively.app/) | <img src="../flags/eua.png" width="40px"> |                    
+| [Websiteplanet ](https://www.websiteplanet.com/webtools/responsive-checker/)| <img src="../flags/eua.png" width="40px"> |                    
+| [Base64 ](https://www.base64.com.br/tools/responsivetest/) | <img src="../flags/br.jpg" width="40px"> |
+
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
