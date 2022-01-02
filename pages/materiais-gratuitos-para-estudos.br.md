@@ -118,15 +118,15 @@
 
 | Link      | Idioma |
 | ---------- | :------: |
-| [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="../flags/br.jpg" width="40px"> |
-| [Hipsters.Tech](https://hipsters.tech/assinar/ ) | <img src="../flags/br.jpg" width="40px"> |
-| [Data Hackers](https://datahackers.com.br/podcast) | <img src="../flags/br.jpg" width="40px"> | 
-| [Dev na Estrada](https://devnaestrada.com.br/) | <img src="../flags/br.jpg" width="40px"> |
-| [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="../flags/br.jpg" width="40px"> | 
-| [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) | <img src="../flags/br.jpg" width="40px"> | 
-| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="../flags/br.jpg" width="40px"> | 
-| [Pizza de Dados](https://pizzadedados.com/) | <img src="../flags/br.jpg" width="40px"> | 
-| [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../flags/br.jpg" width="40px"> |
+| [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | <img src="../flags/br.jpg" width="40px"> | [UXPodcast](https://uxpodcast.com/episodes/) | <img src="../flags/es.png" width="40px"> |
+| [Hipsters.Tech](https://hipsters.tech/assinar/ ) | <img src="../flags/br.jpg" width="40px"> | [The Changelog](https://changelog.com/podcasts) | <img src="../flags/es.png" width="40px"> |
+| [Data Hackers](https://datahackers.com.br/podcast) | <img src="../flags/br.jpg" width="40px"> | [IdeaCast](https://hbr.org/2018/01/podcast-ideacast) | <img src="../flags/es.png" width="40px"> |
+| [Dev na Estrada](https://devnaestrada.com.br/) | <img src="../flags/br.jpg" width="40px"> | [Modern CTO](https://moderncto.io/podcast/) | <img src="../flags/es.png" width="40px"> |
+| [Estratégia Tech](https://anchor.fm/estrategia-tech) | <img src="../flags/br.jpg" width="40px"> | [The Longcut](https://open.spotify.com/show/6i0Cr3VgOSpN7lMZHV9eJR) | <img src="../flags/es.png" width="40px"> |
+| [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) | <img src="../flags/br.jpg" width="40px"> | [Tech Tent](https://www.bbc.co.uk/programmes/p01plr2p) | <img src="../flags/es.png" width="40px"> |
+| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="../flags/br.jpg" width="40px"> | [Floss Weekly](https://open.spotify.com/show/4SXypdThA5tk5Tw1I5AwsS) | <img src="../flags/es.png" width="40px"> |
+| [Pizza de Dados](https://pizzadedados.com/) | <img src="../flags/br.jpg" width="40px"> | [Meta-Cast](https://open.spotify.com/show/5kZb0hiZFqkxEfquAGea7Y) | <img src="../flags/es.png" width="40px"> |
+| [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../flags/br.jpg" width="40px"> | [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N?si=35a6c530a65d48a8) | <img src="../flags/es.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
