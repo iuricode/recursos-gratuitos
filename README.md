@@ -123,6 +123,14 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+    <td align="center">
+      <a href="https://github.com/Luizrebelatto">
+        <img src="https://avatars.githubusercontent.com/u/62765965" width="100px;" alt="Foto do Luiz Rebelatto no Github"/><br>
+        <sub>
+          <b>Luiz Rebelatto</b>
+        </sub>
+      </a><br>
+    </td>
     </tr>
   </tr>
 </table>
