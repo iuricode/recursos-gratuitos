@@ -21,10 +21,11 @@
 | ------------- | :----------: | ----------- | :-----------: |
 | [Burst](https://burst.shopify.com/free-images) | <img src="../flags/eua.png" width="40px"> | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="../flags/br.jpg" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../flags/br.jpg" width="40px"> | 
 | [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="../flags/br.jpg" width="40px"> |
-| [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
-| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Cupcake](https://cupcake.nilssonlee.se) | <img src="../flags/eua.png" width="40px"> | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
+| [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> |  [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> |  [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> |
 | [Generated Photos](https://generated.photos/) | <img src="../flags/eua.png" width="40px"> |
 | [Gratisography](https://gratisography.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Kaboom Pics](https://kaboompics.com/) | <img src="../flags/eua.png" width="40px"> |
@@ -48,6 +49,7 @@
 | [Saxifraga](http://www.freenatureimages.eu) | <img src="../flags/eua.png" width="40px"> |
 | [scienceimage](https://www.scienceimage.csiro.au) | <img src="../flags/eua.png" width="40px"> |
 | [StockFreeImages](https://www.stockfreeimages.com/) | <img src="../flags/eua.png" width="40px"> |
+| [StockSnap](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> |
 | [SkitterPhoto](https://skitterphoto.com/) | <img src="../flags/eua.png" width="40px"> |
 | [StockSnap.io](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> | 
 | [Stockvault](http://www.stockvault.net/) | <img src="../flags/eua.png" width="40px"> |
@@ -317,7 +319,8 @@
 | [Heroicons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |  
 | [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="../flags/eua.png" width="40px"> |
 | [Icon Icons](https://icon-icons.com/) | <img src="../flags/eua.png" width="40px"> | 
-| [Iconscout](https://iconscout.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Iconscout](https://iconscout.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Iconmonstr](https://iconmonstr.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Iconsvg](https://iconsvg.xyz/) | <img src="../flags/eua.png" width="40px"> |  
 | [Ikonate](https://ikonate.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [Ionicons](https://ionicons.com/) | <img src="../flags/eua.png" width="40px"> |  
