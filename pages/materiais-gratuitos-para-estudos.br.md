@@ -127,7 +127,7 @@
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="../flags/br.jpg" width="40px"> | [Floss Weekly](https://open.spotify.com/show/4SXypdThA5tk5Tw1I5AwsS) | <img src="../flags/eua.png" width="40px"> |
 | [Pizza de Dados](https://pizzadedados.com/) | <img src="../flags/br.jpg" width="40px"> | [Meta-Cast](https://open.spotify.com/show/5kZb0hiZFqkxEfquAGea7Y) | <img src="../flags/eua.png" width="40px"> |
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../flags/br.jpg" width="40px"> | [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N?si=35a6c530a65d48a8) | <img src="../flags/eua.png" width="40px"> |
-
+| [PrimoTech](https://www.youtube.com/channel/UCwUlxyV72TBJ38O2g4HGlkQ/featured) | <img src="../flags/br.jpg" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
