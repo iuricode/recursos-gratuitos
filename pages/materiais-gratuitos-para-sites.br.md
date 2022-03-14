@@ -21,10 +21,11 @@
 | ------------- | :----------: | ----------- | :-----------: |
 | [Burst](https://burst.shopify.com/free-images) | <img src="../flags/eua.png" width="40px"> | [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) | <img src="../flags/br.jpg" width="40px"> | [Freeimages](https://www.freeimages.com/pt) | <img src="../flags/br.jpg" width="40px"> | 
 | [Creative Commons](https://search.creativecommons.org) | <img src="../flags/eua.png" width="40px"> | [Freejpg](https://br.freejpg.com.ar/) | <img src="../flags/br.jpg" width="40px"> |
-| [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
-| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
-| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Cupcake](https://cupcake.nilssonlee.se/) | <img src="../flags/eua.png" width="40px"> | [Behance](https://www.behance.net/galleries/illustration) | <img src="../flags/br.jpg" width="40px"> |
+| [Fake image](https://fakeimg.pl/) | <img src="../flags/eua.png" width="40px"> | [Pinterest](https://br.pinterest.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | <img src="../flags/eua.png" width="40px"> | [IStock](https://www.istockphoto.com/) | <img src="../flags/br.jpg" width="40px"> |
+| [FoodiesFeed](https://www.foodiesfeed.com/) | <img src="../flags/eua.png" width="40px"> | [Pexels](https://www.pexels.com/pt-br/) | <img src="../flags/br.jpg" width="40px"> |
+| [Freepik](https://www.freepik.com/popular-photos) | <img src="../flags/eua.png" width="40px"> | 
 | [Generated Photos](https://generated.photos/) | <img src="../flags/eua.png" width="40px"> |
 | [Gratisography](https://gratisography.com/) | <img src="../flags/eua.png" width="40px"> | 
 | [Kaboom Pics](https://kaboompics.com/) | <img src="../flags/eua.png" width="40px"> |
