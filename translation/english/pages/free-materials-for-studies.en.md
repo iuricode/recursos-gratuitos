@@ -126,6 +126,8 @@
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Pizza de Dados](https://pizzadedados.com/) | <img src="../../../flags/br.jpg" width="40px"> | 
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../../../flags/br.jpg" width="40px"> |
+| [PrimoTech](https://www.youtube.com/channel/UCwUlxyV72TBJ38O2g4HGlkQ/featured) | <img src="../../../flags/br.jpg" width="40px"> |
+
 
 <b>[🔝 Back to the index](#-index)<b>
 
