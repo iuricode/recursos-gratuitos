@@ -26,7 +26,7 @@
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | <img src="../flags/br.jpg" width="40px"> |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../flags/br.jpg" width="40px"> | 
 | [Ciência de Dados com R](https://drive.google.com/file/d/1F_Snn33O6FVf0uwN7Oyc6CmHQmdWJJ0a/view?usp=sharing) | <img src="../flags/br.jpg" width="40px">
-
+| [Guia Front-End - O caminho das pedras para ser un dev Front-End](https://drive.google.com/drive/folders/1o_hZSmDYZmKoV3u5NK8INarMLNfcPMcj) |  <img src="../flags/br.jpg" width="40px">
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
 
