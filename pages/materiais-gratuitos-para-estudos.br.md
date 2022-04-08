@@ -20,7 +20,7 @@
 | [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="../flags/br.jpg" width="40px"> |[HTML the missing manual ](https://drive.google.com/file/d/1FwSmlKTHrJ9xSzcyhNby8RlRxY2ED1wz/view?usp=sharingg) | <img src="../flags/eua.png" width="40px"> |
 |  | <img src="../flags/br.jpg" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../flags/eua.png" width="40px"> | 
 |  | <img src="../flags/br.jpg" width="40px"> |  [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../flags/eua.png" width="40px"> | 
-| [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../flags/br.jpg" width="40px">
+| [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../flags/br.jpg" width="40px"> | [Head First Web Design](https://drive.google.com/drive/folders/1CrNRHCL_UJvj5bCYkD2pjjrIDc6MYUXB?fbclid=IwAR3gdjJL48OPjHVmfpt1VbfIeag0X9sJ4sWyRecjfE9n1qxnUraCkEiYFyQ) | <img src="../flags/eua.png" width="40px">
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | <img src="../flags/br.jpg" width="40px"> |
 | [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../flags/br.jpg" width="40px"> | 
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | <img src="../flags/br.jpg" width="40px"> |
