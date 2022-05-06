@@ -131,6 +131,14 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+    <td align="center">
+      <a href="https://github.com/jomrs">
+        <img src="https://avatars.githubusercontent.com/u/47464761" width="100px;" alt="Foto do Jonhtan Mota no Github"/><br>
+        <sub>
+          <b>Jonhtan Mota</b>
+        </sub>
+      </a><br>
+    </td>
     </tr>
   </tr>
 </table>
