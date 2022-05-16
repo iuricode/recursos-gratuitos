@@ -14,6 +14,7 @@
 | Link                                                                      |
 | ------------------------------------------------------------------------- |
 | [.NET Fiddle](https://dotnetfiddle.net/)                                  |
+| [4ForDev](https://www.4devs.com.br/)                                      |
 | [1PageRank](http://www.1pagerank.com/)                                    |
 | [Any API](https://any-api.com/)                                           |
 | [Autoprefixer CSS](http://autoprefixer.github.io/)                        |
@@ -31,6 +32,7 @@
 | [Editor.md](https://pandao.github.io/editor.md/en.html)                   |
 | [ES6console](https://es6console.com/)                                     |
 | [Firebase](https://firebase.google.com/?hl=pt-BR)                         |
+| [Free-For-Dev](https://free-for.dev/#/)                                   |
 | [generatedata](http://www.generatedata.com/)                              |
 | [GitHub Gist](https://gist.github.com/)                                   |
 | [Grader](https://website.grader.com/)                                     |
@@ -54,6 +56,7 @@
 | [React Hook Form](https://react-hook-form.com/)                           |
 | [RelaX](http://dbis-uibk.github.io/relax/index.htm)                       |
 | [Responsive](http://www.codeorama.com/responsive/)                        |
+| [ReqBin](https://reqbin.com/)                                             |
 | [SSL Server Test](https://www.ssllabs.com/ssltest/)                       |
 | [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) |
 | [Telegram](https://telegram.org/)                                         |
