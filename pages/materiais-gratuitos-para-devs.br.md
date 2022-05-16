@@ -78,7 +78,7 @@
 | [Vs Code Online](https://vscode.dev/) |
 | [Gitpod](https://www.gitpod.io/) |
 | [Replit](https://replit.com/) |
-| [Github Codspaces](https://github.com/codespaces) |
+| [Github Codespaces](https://github.com/codespaces) |
 | [Codepan](https://codepen.io/) |
  | [webComponents](https://webcomponents.dev/new) |
 
