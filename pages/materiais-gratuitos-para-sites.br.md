@@ -124,6 +124,7 @@
 | [WooBro](https://woobro.design/) | <img src="../flags/eua.png" width="40px"> | 
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="../flags/eua.png" width="40px"> |
 | [404 illustrations](https://error404.fun/) | <img src="../flags/eua.png" width="40px"> |  
+| [Illustrations figma](https://www.artify.co/illustrations-figma) | <img src="../flags/eua.png" width="40px"> |  
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
