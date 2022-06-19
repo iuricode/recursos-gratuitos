@@ -43,7 +43,7 @@
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | [Test Automation University](https://testautomationu.applitools.com) | Course | Yes | <img src="../../../flags/eua.png" width="40px"> | 
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Course | No | <img src="../../../flags/eua.png" width="40px"> |  
 | [Codando](https://codando.org/material-gratuito/) | Course | No | <img src="../../../flags/br.jpg" width="40px"> | [The Odin Project](https://www.theodinproject.com/) | Course | No | <img src="../../../flags/eua.png" width="40px"> |
-| [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | No |<img src="../../../flags/br.jpg" width="40px"> |
+| [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | No |<img src="../../../flags/br.jpg" width="40px"> | [Harvard University](https://pll.harvard.edu/catalog/free) | Course |No | <img src="../../../flags/eua.png" width="40px"> |  
 | [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
@@ -70,6 +70,7 @@
 | [Filipe Deschamps](https//www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
+|[Fundação Estudar- Curso CC50](https://materiais.napratica.org.br/cc50) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
