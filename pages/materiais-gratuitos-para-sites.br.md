@@ -83,6 +83,7 @@
 | [Free Illustrations](https://freeillustrations.xyz/) | <img src="../flags/eua.png" width="40px"> | 
 | [Free vectors](https://all-free-download.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Freeble](http://freebbble.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Freebie Suplly](https://freebiesupply.com/) | <img src="../flags/eua.png" width="40px"> 
 | [Freellustrations](https://freellustrations.com/) | <img src="../flags/eua.png" width="40px"> |   
 | [FreeVectors](https://www.freevectors.net/) | <img src="../flags/eua.png" width="40px"> | 
 | [Fresh Folk](https://fresh-folk.com/) | <img src="../flags/eua.png" width="40px"> |   
