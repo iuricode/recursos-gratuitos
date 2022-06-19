@@ -316,6 +316,7 @@
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../flags/eua.png" width="40px"> | 
 | [Feather](https://feathericons.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Font Awesome](https://fontawesome.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Fontello](https://fontello.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Free Icons](https://freeicons.io/) | <img src="../flags/eua.png" width="40px"> |
 | [Heroicons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |  
 | [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="../flags/eua.png" width="40px"> |
