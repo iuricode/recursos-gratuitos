@@ -44,6 +44,7 @@
 | [Codando](https://codando.org/material-gratuito/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [The Odin Project](https://www.theodinproject.com/) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
 | [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | Não |<img src="../flags/br.jpg" width="40px"> |
 | [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
+| [ClassCentral](https://www.classcentral.com) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [ClassCentral](https://www.classcentral.com/) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Collabplay](https://collabplay.online/br/) |Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
@@ -141,6 +142,7 @@
 | [Laraveling](https://laraveling.tech/) | <img src="../flags/br.jpg" width="40px"> | [Edabit](https://edabit.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../flags/br.jpg" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../flags/eua.png" width="40px"> |
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../flags/br.jpg" width="40px"> 
-| [DevChallenge](https://devchallenge.now.sh/) | <img src="../flags/br.jpg" width="40px"> 
+| [Dev.io](https://dev.to/) | <img src="../flags/br.jpg" width="40px"> 
+
 
 [🔝 Voltar ao índice](#-índice)
