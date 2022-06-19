@@ -311,6 +311,7 @@
 | [Boxicons](https://boxicons.com/) | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> | 
 | [Css.gg](https://css.gg/) | <img src="../flags/eua.png" width="40px"> | [Flaticon](https://www.flaticon.com/br/) | <img src="../flags/br.jpg" width="40px"> | 
 | [DrawKit](https://www.drawkit.io/free-icons) | <img src="../flags/eua.png" width="40px"> | [Freepik](https://br.freepik.com/) | <img src="../flags/br.jpg" width="40px"> | 
+| [Captain Icons](https://icons8.com/icons/set/captain) | <img src="../flags/eua.png" width="40px"> |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../flags/eua.png" width="40px"> | 
 | [Feather](https://feathericons.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Font Awesome](https://fontawesome.com/) | <img src="../flags/eua.png" width="40px"> |  
