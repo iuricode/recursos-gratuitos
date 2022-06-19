@@ -74,6 +74,7 @@
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
+| [IFRS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
