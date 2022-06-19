@@ -337,7 +337,8 @@
 | [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../flags/eua.png" width="40px"> |  
 | [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../flags/eua.png" width="40px"> |  
-| [Tabler Icons](https://tablericons.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Tabler Icons](https://tablericons.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1) | <img src="../flags/eua.png" width="40px"> |
 | [Tilda Icons](https://tilda.cc/free-icons/) | <img src="../flags/eua.png" width="40px"> |  
 | [Oblador](https://oblador.github.io/react-native-vector-icons/) | <img src="../flags/eua.png" width="40px"> |
 
