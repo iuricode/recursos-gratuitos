@@ -327,7 +327,8 @@
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="../flags/eua.png" width="40px"> |
 | [Linearicons](https://linearicons.com/free) | <img src="../flags/eua.png" width="40px"> |
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../flags/eua.png" width="40px"> |  
-| [Noun Project](https://thenounproject.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Noun Project](https://thenounproject.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Pixeden](https://www.pixeden.com/icons-set) | <img src="../flags/eua.png" width="40px"> | 
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../flags/eua.png" width="40px"> |
 | [Remix Icon](https://remixicon.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [Round Icon](https://roundicons.com/vector-free-icons/) | <img src="../flags/eua.png" width="40px"> |
