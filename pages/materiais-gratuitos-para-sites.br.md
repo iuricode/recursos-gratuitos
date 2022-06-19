@@ -315,7 +315,8 @@
 | [Captain Icons](https://icons8.com/icons/set/captain) | <img src="../flags/eua.png" width="40px"> |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../flags/eua.png" width="40px"> | 
 | [Feather](https://feathericons.com/) | <img src="../flags/eua.png" width="40px"> |
-| [Font Awesome](https://fontawesome.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Font Awesome](https://fontawesome.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Free Icons](https://freeicons.io/) | <img src="../flags/eua.png" width="40px"> |
 | [Heroicons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |  
 | [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="../flags/eua.png" width="40px"> |
 | [Icon Icons](https://icon-icons.com/) | <img src="../flags/eua.png" width="40px"> | 
@@ -328,6 +329,7 @@
 | [Noun Project](https://thenounproject.com/) | <img src="../flags/eua.png" width="40px"> |  
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../flags/eua.png" width="40px"> |
 | [Remix Icon](https://remixicon.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Round Icon](https://roundicons.com/vector-free-icons/) | <img src="../flags/eua.png" width="40px"> |
 | [Shape.so](https://shape.so/) | <img src="../flags/eua.png" width="40px"> |  
 | [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../flags/eua.png" width="40px"> |  
