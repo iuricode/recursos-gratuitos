@@ -44,7 +44,7 @@
 | [CIJUN Academy](https://cijun.sp.gov.br/academy/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> | [Test Automation University](https://testautomationu.applitools.com) | Curso | Sim | <img src="../flags/eua.png" width="40px"> | 
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | <img src="../flags/eua.png" width="40px"> |  
 | [Codando](https://codando.org/material-gratuito/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [The Odin Project](https://www.theodinproject.com/) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
-| [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | Não |<img src="../flags/br.jpg" width="40px"> | [Harvard University]([https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA](https://pll.harvard.edu/catalog/free)) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
+| [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | Não |<img src="../flags/br.jpg" width="40px"> | [Harvard University](https://pll.harvard.edu/catalog/free) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
