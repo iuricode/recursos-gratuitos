@@ -72,6 +72,7 @@
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
+| [Harvard University]([https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA](https://pll.harvard.edu/catalog/free)) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
