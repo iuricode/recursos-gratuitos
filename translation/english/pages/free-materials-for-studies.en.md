@@ -108,6 +108,7 @@
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Course | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Veduca](https://www.youtube.com/channel/UCJ-RnyVCbsTzADE4S7SSE3w/playlists)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Course | No | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Wo Makers Code](https://maismulheres.tech/courses) | Course| Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Xamarin - Maratona live 2019](https://www.youtube.com/watch?v=U4zJuHJxJjY) | Youtube| No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Open P-TECH](https://www.ptech.org/br/open-p-tech/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Julio Arruda](https://www.youtube.com/c/JulioArruda) | Youtube| No | <img src="../../../flags/br.jpg" width="40px"> |
