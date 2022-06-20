@@ -8,7 +8,6 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 4. Envie seus commits em português.
 5. Solicite a pull request.
 6. Insira um pequeno resumo dos links adicionados.
-7. Adicione sua alteração em todos os idiomas.
 
 ## Estilo dos links
 Um link precisa ser adicionado em sua forma mais autêntica, isso é:
@@ -19,7 +18,7 @@ Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 Para manter um padrão geral em todos os links, você deve:
 - Adicionar um link direto para o conteúdo
 - Adicionar um título condizente ao título do conteúdo
-- Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link
+- Adicionar uma bandeira (Português ou Inglês) para simbolizar o idioma do link
 
 ## Recomendação (Opcional)
 Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
