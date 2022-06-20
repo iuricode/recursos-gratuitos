@@ -12,6 +12,7 @@
 🔖 [Imagens](#-imagens)<br>
 🔖 [Logos](#-logos)<br>
 🔖 [Paletas de Cores](#-paletas-de-cores)<br>
+🔖 [Apps para testar Responsividade](#-apps-para-testar-responsividade)<br>
 
 ## 🖼️ Imagens
 
@@ -64,6 +65,7 @@
 
 > Vetores, clipart, ilustrações, padrões gratuitos e muito mais
 
+<<<<<<< HEAD
 | Link                                                                      |                  Idioma                   | Link                                        |                  Idioma                  |
 | ------------------------------------------------------------------------- | :---------------------------------------: | ------------------------------------------- | :--------------------------------------: |
 | [Abstrakt](https://www.abstrakt.design/)                                  | <img src="../flags/eua.png" width="40px"> | [Canva](https://www.canva.com/)             | <img src="../flags/br.jpg" width="40px"> |
@@ -125,6 +127,70 @@
 | [Wannapik](https://www.wannapik.com/)                                     | <img src="../flags/eua.png" width="40px"> |
 | [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh)  | <img src="../flags/eua.png" width="40px"> |
 | [WooBro](https://woobro.design/)                                          | <img src="../flags/eua.png" width="40px"> |
+=======
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [Abstrakt](https://www.abstrakt.design/) | <img src="../flags/eua.png" width="40px"> | [Canva](https://www.canva.com/) | <img src="../flags/br.jpg" width="40px"> | 
+| [Absurd Design](https://absurd.design/) | <img src="../flags/eua.png" width="40px"> | [Ouch](https://icons8.com.br/illustrations) | <img src="../flags/br.jpg" width="40px"> |
+| [Ara Illustration](https://www.aracreator.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Black illustrations](https://www.blackillustrations.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Blob Marker](https://www.blobmaker.app/) | <img src="../flags/eua.png" width="40px"> |  
+| [blob](https://blobs.app/) | <img src="../flags/eua.png" width="40px"> |
+| [Blush](https://blush.design/) | <img src="../flags/eua.png" width="40px"> | 
+| [Clipart](https://www.clipart.email/) | <img src="../flags/eua.png" width="40px"> |
+| [Clker](http://www.clker.com) | <img src="../flags/eua.png" width="40px"> |
+| [Construtor de Ilustrações](https://itg.digital/) | <img src="../flags/eua.png" width="40px"> | 
+| [Control](https://control.rocks/) | <img src="../flags/eua.png" width="40px"> |  
+| [Custom Shape Dividers](https://www.shapedivider.app/) | <img src="../flags/eua.png" width="40px"> |
+| [Delesign](https://delesign.com/free-designs/graphics) | <img src="../flags/eua.png" width="40px"> | 
+| [Design.ai](https://designs.ai/graphicmaker/) | <img src="../flags/eua.png" width="40px"> |
+| [DrawKit](https://www.drawkit.io/)| <img src="../flags/eua.png" width="40px"> |     
+| [Facebook Design](https://facebook.design/) | <img src="../flags/eua.png" width="40px"> | 
+| [Flow Lava](https://flowlava.club/) | <img src="../flags/eua.png" width="40px"> |  
+| [Free Illustrations](https://freeillustrations.xyz/) | <img src="../flags/eua.png" width="40px"> | 
+| [Free vectors](https://all-free-download.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Freeble](http://freebbble.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Freebie Suplly](https://freebiesupply.com/) | <img src="../flags/eua.png" width="40px"> 
+| [Freellustrations](https://freellustrations.com/) | <img src="../flags/eua.png" width="40px"> |   
+| [FreeVectors](https://www.freevectors.net/) | <img src="../flags/eua.png" width="40px"> | 
+| [Fresh Folk](https://fresh-folk.com/) | <img src="../flags/eua.png" width="40px"> |   
+| [Get Waves](https://getwaves.io/) | <img src="../flags/eua.png" width="40px"> | |  |  
+| [Glaze](https://www.glazestock.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Growww](https://growwwkit.com/illustrations/phonies/) | <img src="../flags/eua.png" width="40px"> |    
+| [HiClipart](https://www.hiclipart.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Humaaans](https://www.humaaans.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Illustrations](https://illlustrations.co/) | <img src="../flags/eua.png" width="40px"> |   
+| [IRA Design](https://iradesign.io/) | <img src="../flags/eua.png" width="40px"> | 
+| [Isometric](https://isometric.online/) | <img src="../flags/eua.png" width="40px"> | 
+| [Karthik Srinivas](https://www.karthiksrinivas.in/) | <img src="../flags/eua.png" width="40px"> |   
+| [Kukla Kit](https://www.kukla-kit.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Lukasz Adam](https://lukaszadam.com/illustrations) | <img src="../flags/eua.png" width="40px"> | 
+| [Manypixels Illustration Gallery](https://www.manypixels.co/gallery/) | <img src="../flags/eua.png" width="40px"> | 
+| [Mixkit Art](https://mixkit.co/free-stock-art/) | <img src="../flags/eua.png" width="40px"> |
+| [Open Doodles](https://www.opendoodles.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Open Peeps](https://www.openpeeps.com/) |  <img src="../flags/eua.png" width="40px"> | |  |
+| [Paper Illustrations](https://iconscout.com/paper-illustrations) | <img src="../flags/eua.png" width="40px"> |
+| [Pixeltrue](https://www.pixeltrue.com/free-illustrations) | <img src="../flags/eua.png" width="40px"> | 
+| [PNGTree](https://pngtree.com/free-vectors) | <img src="../flags/eua.png" width="40px"> |
+| [Retro Vectors](http://retrovectors.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Sapiens](https://sapiens.ui8.net/) | <img src="../flags/eua.png" width="40px"> |     
+| [Servier Medical Art](https://smart.servier.com) | <img src="../flags/eua.png" width="40px"> |
+| [Smash Illustrations](https://usesmash.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Stories by Freepik](https://stories.freepik.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Storytale.io](https://storytale.io/) | <img src="../flags/eua.png" width="40px"> | 
+| [Stubborn Generator](https://stubborn.fun/) | <img src="../flags/eua.png" width="40px"> |   
+| [SVG wave](https://svgwave.in/) | <img src="../flags/eua.png" width="40px"> |
+| [Toy Faces](https://amritpaldesign.com/toy-faces) | <img src="../flags/eua.png" width="40px"> | 
+| [trianglify.io](https://trianglify.io/) | <img src="../flags/eua.png" width="40px"> |
+| [UI Store](https://www.uistore.design/categories/illustrations/) | <img src="../flags/eua.png" width="40px"> | 
+| [Undraw](https://undraw.co/) | <img src="../flags/eua.png" width="40px"> | 
+| [Vecteezy](https://www.vecteezy.com/)| <img src="../flags/eua.png" width="40px"> |
+| [Vector Creator](https://icons8.com/vector-creator/) | <img src="../flags/eua.png" width="40px"> |    
+| [Vector4Free](https://www.vector4free.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Wannapik](https://www.wannapik.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) | <img src="../flags/eua.png" width="40px"> | 
+| [WooBro](https://woobro.design/) | <img src="../flags/eua.png" width="40px"> | 
+>>>>>>> 85605776b1d6e60b0284a5306623713d165a1e85
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="../flags/eua.png" width="40px"> |
 | [404 illustrations](https://error404.fun/)                                | <img src="../flags/eua.png" width="40px"> |
 | [crello](https://crello.com/pt/home/)                                     | <img src="../flags/eua.png" width="40px"> |
@@ -312,6 +378,7 @@
 
 > Recursos para ícones, incluindo png, svg e mais
 
+<<<<<<< HEAD
 | Link                                                            |                  Idioma                   | Link                                        |                  Idioma                  |
 | --------------------------------------------------------------- | :---------------------------------------: | ------------------------------------------- | :--------------------------------------: |
 | [Boxicons](https://boxicons.com/)                               | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> |
@@ -338,6 +405,41 @@
 | [Streamline UX](https://www.streamlineicons.com/ux/)            | <img src="../flags/eua.png" width="40px"> |
 | [Tabler Icons](https://tablericons.com/)                        | <img src="../flags/eua.png" width="40px"> |
 | [Tilda Icons](https://tilda.cc/free-icons/)                     | <img src="../flags/eua.png" width="40px"> |
+=======
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [Boxicons](https://boxicons.com/) | <img src="../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../flags/br.jpg" width="40px"> | 
+| [Css.gg](https://css.gg/) | <img src="../flags/eua.png" width="40px"> | [Flaticon](https://www.flaticon.com/br/) | <img src="../flags/br.jpg" width="40px"> | 
+| [Captain Icons](https://icons8.com/icons/set/captain) | <img src="../flags/eua.png" width="40px"> | [Freepik](https://br.freepik.com/) | <img src="../flags/br.jpg" width="40px"> | 
+| [DrawKit](https://www.drawkit.io/free-icons) | <img src="../flags/eua.png" width="40px"> | 
+| [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../flags/eua.png" width="40px"> | 
+| [Feather](https://feathericons.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Font Awesome](https://fontawesome.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Fontello](https://fontello.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Free Icons](https://freeicons.io/) | <img src="../flags/eua.png" width="40px"> |
+| [Heroicons](https://heroicons.dev/) | <img src="../flags/eua.png" width="40px"> |  
+| [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="../flags/eua.png" width="40px"> |
+| [Icon Icons](https://icon-icons.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Iconscout](https://iconscout.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Iconsvg](https://iconsvg.xyz/) | <img src="../flags/eua.png" width="40px"> |  
+| [Ikonate](https://ikonate.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Ionicons](https://ionicons.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Line Awesome](https://icons8.com/line-awesome) | <img src="../flags/eua.png" width="40px"> |
+| [Linearicons](https://linearicons.com/free) | <img src="../flags/eua.png" width="40px"> |
+| [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../flags/eua.png" width="40px"> |  
+| [Noun Project](https://thenounproject.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [Pixeden](https://www.pixeden.com/icons-set) | <img src="../flags/eua.png" width="40px"> | 
+| [React Icons](https://react-icons.github.io/react-icons/) | <img src="../flags/eua.png" width="40px"> |
+| [Remix Icon](https://remixicon.com/) | <img src="../flags/eua.png" width="40px"> |  
+| [Round Icon](https://roundicons.com/vector-free-icons/) | <img src="../flags/eua.png" width="40px"> |
+| [Shape.so](https://shape.so/) | <img src="../flags/eua.png" width="40px"> |  
+| [Simple Icons](https://simpleicons.org/) | <img src="../flags/eua.png" width="40px"> | 
+| [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../flags/eua.png" width="40px"> |  
+| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../flags/eua.png" width="40px"> |  
+| [Tabler Icons](https://tablericons.com/) | <img src="../flags/eua.png" width="40px"> | 
+| [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1) | <img src="../flags/eua.png" width="40px"> |
+| [Tilda Icons](https://tilda.cc/free-icons/) | <img src="../flags/eua.png" width="40px"> |  
+>>>>>>> 85605776b1d6e60b0284a5306623713d165a1e85
 | [Oblador](https://oblador.github.io/react-native-vector-icons/) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
@@ -346,11 +448,20 @@
 
 > Recursos de animações e gifs
 
+<<<<<<< HEAD
 | Link                                                    |                  Idioma                   |
 | ------------------------------------------------------- | :---------------------------------------: |
 | [Airbnb](https://airbnb.design/lottie/)                 | <img src="../flags/eua.png" width="40px"> |
 | [Free FrontEnd](https://freefrontend.com/)              | <img src="../flags/eua.png" width="40px"> |
 | [Giphy](https://giphy.com/)                             | <img src="../flags/eua.png" width="40px"> |
+=======
+| Link      | Idioma |
+| ---------- | :------: |
+| [Airbnb](https://airbnb.design/lottie/) | <img src="../flags/eua.png" width="40px"> |
+| [Free FrontEnd](https://freefrontend.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Giphy](https://giphy.com/) | <img src="../flags/eua.png" width="40px"> |
+| [LottieFiles](https://lottiefiles.com/) | <img src="../flags/eua.png" width="40px"> |
+>>>>>>> 85605776b1d6e60b0284a5306623713d165a1e85
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../flags/eua.png" width="40px"> |
 | [Tenor](https://tenor.com/)                             | <img src="../flags/eua.png" width="40px"> |
 
@@ -718,3 +829,32 @@
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
 
+<<<<<<< HEAD
+=======
+## 🎃 Logos
+> Recursos para logotipos
+
+| Link      | Idioma |
+| ---------- | :------: |
+| [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="../flags/eua.png" width="40px"> |                       
+| [Instant Logo Search](http://instantlogosearch.com/)| <img src="../flags/eua.png" width="40px"> |                    
+| [Logo Maker](https://logomakr.com/) | <img src="../flags/eua.png" width="40px"> |
+| [LogoHub](https://logohub.io/) | <img src="../flags/eua.png" width="40px"> |                     
+| [LogoSear.ch](https://logosear.ch/search.html) | <img src="../flags/eua.png" width="40px"> |                  
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | <img src="../flags/eua.png" width="40px"> | 
+| [Seeklogo](https://seeklogo.com/) | <img src="../flags/eua.png" width="40px"> |                                                      
+| [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../flags/eua.png" width="40px"> |                                   
+| [World Vector Logo](https://worldvectorlogo.com/) | <img src="../flags/eua.png" width="40px"> |         
+
+## ✨ Apps para testar Responsividade
+> Recursos para testar a responsividade de layouts
+
+| Link      | Idioma |
+| ---------- | :------: |
+| [Responsively App](https://responsively.app/) | <img src="../flags/eua.png" width="40px"> |                    
+| [Websiteplanet ](https://www.websiteplanet.com/webtools/responsive-checker/)| <img src="../flags/eua.png" width="40px"> |                    
+| [Base64 ](https://www.base64.com.br/tools/responsivetest/) | <img src="../flags/br.jpg" width="40px"> |
+
+
+<b>[🔝 Voltar ao índice](#-índice)</b>
+>>>>>>> 85605776b1d6e60b0284a5306623713d165a1e85

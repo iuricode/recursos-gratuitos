@@ -307,12 +307,15 @@
 
 | Link      | Language | Link      | Language |
 | ---------- | :------: | ---------- | :------: |
-| [Boxicons](https://boxicons.com/) | <img src="../../../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../../../flags/br.jpg" width="40px"> | 
-| [Css.gg](https://css.gg/) | <img src="../../../flags/eua.png" width="40px"> | [Flaticon](https://www.flaticon.com/br/) | <img src="../../../flags/br.jpg" width="40px"> | 
-| [DrawKit](https://www.drawkit.io/free-icons) | <img src="../../../flags/eua.png" width="40px"> | [Freepik](https://br.freepik.com/) | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Boxicons](https://boxicons.com/) | <img src="../../../flags/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../../../flags/br.jpg" width="40px"> |
+| [Captain Icons](https://icons8.com/icons/set/captain) | <img src="../../../flags/eua.png" width="40px"> |  [Flaticon](https://www.flaticon.com/br/) | <img src="../../../flags/br.jpg" width="40px">|
+| [Css.gg](https://css.gg/) | <img src="../../../flags/eua.png" width="40px"> |[Freepik](https://br.freepik.com/) | <img src="../../../flags/br.jpg" width="40px"> |  | 
+| [DrawKit](https://www.drawkit.io/free-icons) | <img src="../../../flags/eua.png" width="40px"> | 
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../../../flags/eua.png" width="40px"> | 
 | [Feather](https://feathericons.com/) | <img src="../../../flags/eua.png" width="40px"> |
-| [Font Awesome](https://fontawesome.com/) | <img src="../../../flags/eua.png" width="40px"> |  
+| [Font Awesome](https://fontawesome.com/) | <img src="../../../flags/eua.png" width="40px"> | 
+| [Fontello](https://fontello.com/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Free Icons](https://freeicons.io/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Heroicons](https://heroicons.dev/) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="../../../flags/eua.png" width="40px"> |
 | [Icon Icons](https://icon-icons.com/) | <img src="../../../flags/eua.png" width="40px"> | 
@@ -321,15 +324,19 @@
 | [Ikonate](https://ikonate.com/) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Ionicons](https://ionicons.com/) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="../../../flags/eua.png" width="40px"> |
+| [Linearicons](https://linearicons.com/free) | <img src="../../../flags/eua.png" width="40px"> |
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Noun Project](https://thenounproject.com/) | <img src="../../../flags/eua.png" width="40px"> |  
+| [Pixeden](https://www.pixeden.com/icons-set) | <img src="../../../flags/eua.png" width="40px"> |
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../../../flags/eua.png" width="40px"> |
-| [Remix Icon](https://remixicon.com/) | <img src="../../../flags/eua.png" width="40px"> |  
+| [Remix Icon](https://remixicon.com/) | <img src="../../../flags/eua.png" width="40px"> | 
+| [Round Icon](https://roundicons.com/vector-free-icons/) | <img src="../../../flags/eua.png" width="40px"> |
 | [Shape.so](https://shape.so/) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Simple Icons](https://simpleicons.org/) | <img src="../../../flags/eua.png" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../../../flags/eua.png" width="40px"> |  
-| [Tabler Icons](https://tablericons.com/) | <img src="../../../flags/eua.png" width="40px"> |  
+| [Tabler Icons](https://tablericons.com/) | <img src="../../../flags/eua.png" width="40px"> | 
+ [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1) | <img src="../../../flags/eua.png" width="40px"> | 
 | [Tilda Icons](https://tilda.cc/free-icons/) | <img src="../../../flags/eua.png" width="40px"> |  
 | [Oblador](https://oblador.github.io/react-native-vector-icons/) | <img src="../../../flags/eua.png" width="40px"> |
 
@@ -361,7 +368,7 @@
 | [LogoHub](https://logohub.io/) | <img src="../../../flags/eua.png" width="40px"> |                     
 | [LogoSear.ch](https://logosear.ch/search.html) | <img src="../../../flags/eua.png" width="40px"> |                  
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | <img src="../../../flags/eua.png" width="40px"> | 
-| [SVGPorn](https://svgporn.com) | <img src="../../../flags/eua.png" width="40px"> |                                                         
+| [Seeklogo](https://seeklogo.com/) | <img src="../../../flags/eua.png" width="40px"> |                                                         
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../../../flags/eua.png" width="40px"> |                                   
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../../../flags/eua.png" width="40px"> |      
 

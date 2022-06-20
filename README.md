@@ -37,25 +37,6 @@
 
 ---
 
-<img src="assets/image/banner3.png">
-
-## 📚 Índice
-
-🔖 [Ferramentas de desenvolvimento](pages/materiais-gratuitos-para-devs.br.md#-ferramentas-de-desenvolvimento)<br>
-🔖 [IDEs e editores de código](pages/materiais-gratuitos-para-devs.br.md#-ides-e-editores-de-código)<br>
-🔖 [Linguagens de programação](pages/materiais-gratuitos-para-devs.br.md#-linguagens-de-programação)<br>
-🔖 [Hospedagem](pages/materiais-gratuitos-para-devs.br.md#-hospedagem)<br>
-
----
-
-<img src="assets/image/banner4.png">
-
-## 📚 Índice
-
-🔖 [Ferramentas](pages/materiais-gratuitos-para-designers.br.md#-ferramentas)<br>
-
----
-
 ## ☕ Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
@@ -80,7 +61,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
       <a href="https://github.com/walysonfelipe">
         <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
-          <b><<!---->Waly></b>
+          <b>Walyson</b>
         </sub>
       </a><br>
     </td>
@@ -116,6 +97,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+    <tr>
      <td align="center">
       <a href="https://github.com/zaymuel">
         <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
@@ -132,5 +114,23 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
         </sub>
       </a><br>
     </td>
+    </td>
+     <td align="center">
+      <a href="https://github.com/CarlosViniMSouza">
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
+        <sub>
+          <b>Carlos Souza</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Luizrebelatto">
+        <img src="https://avatars.githubusercontent.com/u/62765965" width="100px;" alt="Foto do Luiz Rebelatto no Github"/><br>
+        <sub>
+          <b>Luiz Rebelatto</b>
+        </sub>
+      </a><br>
+    </td>
+    </tr>
   </tr>
 </table>

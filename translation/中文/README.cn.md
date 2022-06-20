@@ -37,25 +37,6 @@
 
 ---
 
-<img src="assets/image/banner3cn.png">
-
-## 📚 指數
-
-🔖 [開發者工具](pages/開發人員免費資料.cn.md#-開發者工具)<br>
-🔖 [IDE和代碼編輯器](pages/開發人員免費資料.cn.md#-IDE和代碼編輯器)<br>
-🔖 [編程語言](pages/開發人員免費資料.cn.md#-編程語言)<br>
-🔖 [代管](pages/開發人員免費資料.cn.md#-代管)<br>
-
----
-
-<img src="assets/image/banner4cn.png">
-
-## 📚 指數
-
-🔖 [工具](pages/設計師免費材料.cn.md#-工具)<br>
-
----
-
 ## ☕ 成為貢獻者之一
 
 您想加入該項目嗎？ 單擊[這裡](CONTRIBUTING.cn.md) 並閱讀如何做出貢獻。<br>
@@ -66,11 +47,12 @@
 
 ## 🦄 貢獻者
 
+
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="卡洛斯·丹尼爾（Iuri Silva）的圖片在github上"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
@@ -78,15 +60,15 @@
     </td>
     <td align="center">
       <a href="https://github.com/walysonfelipe">
-        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="卡洛斯·丹尼爾（Waly）的圖片在github上"><br>
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do <Waly> no GitHub"/><br>
         <sub>
-          <b><<!---->Waly></b>
+          <b>Walyson</b>
         </sub>
       </a><br>
     </td>
     <td align="center">
       <a href="https://github.com/joaomaranhao">
-        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="卡洛斯·丹尼爾（João Maranhão）的圖片在github上"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do João Maranhão no GitHub"/><br>
         <sub>
           <b>João Maranhão</b>
         </sub>
@@ -94,7 +76,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/z3ox1s">
-        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="卡洛斯·丹尼爾（Carlos Daniel）的圖片在github上"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/66672234" width="100px;" alt="Foto do Carlos Daniel no GitHub"/><br>
         <sub>
           <b>Carlos Daniel</b>
         </sub>
@@ -102,7 +84,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/reness0">
-        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="卡洛斯·丹尼爾（Rêne Júnior）的圖片在github上"/><br>
+        <img src="https://avatars0.githubusercontent.com/u/49681380" width="100px;" alt="Foto do Renê Júnior no Github"/><br>
         <sub>
           <b>Renê Júnior</b>
         </sub>
@@ -116,6 +98,7 @@
         </sub>
       </a><br>
     </td>
+    <tr>
      <td align="center">
       <a href="https://github.com/zaymuel">
         <img src="https://avatars.githubusercontent.com/u/63195645" width="100px;" alt="Foto do Zaymuel no Github"/><br>
@@ -124,5 +107,23 @@
         </sub>
       </a><br>
     </td>
+     <td align="center">
+      <a href="https://github.com/davidlpc1">
+        <img src="https://avatars.githubusercontent.com/u/66884233" width="100px;" alt="Foto do Davi Lucas no Github"/><br>
+        <sub>
+          <b>Davi Lucas</b>
+        </sub>
+      </a><br>
+    </td>
+    </td>
+     <td align="center">
+      <a href="https://github.com/CarlosViniMSouza">
+        <img src="https://avatars.githubusercontent.com/u/60679101" width="100px;" alt="Foto do Carlos Souza no Github"/><br>
+        <sub>
+          <b>Carlos Souza</b>
+        </sub>
+      </a><br>
+    </td>
+    </tr>
   </tr>
 </table>
