@@ -4,14 +4,14 @@
 
 ## 📚 Índice
 
-🔖 [Animações e Gifs](#-animações)<br>
+🔖 [Imagens](#-imagens)<br>
+🔖 [Ilustrações](#-ilustrações)<br>
 🔖 [Emojis](#-emojis)<br>
+🔖 [Paletas de cores](#-paletas-de-cores)<br>
 🔖 [Fontes](#-fontes)<br>
 🔖 [Ícones](#-ícones)<br>
-🔖 [Ilustrações](#-ilustrações)<br>
-🔖 [Imagens](#-imagens)<br>
+🔖 [Animações](#-animações)<br>
 🔖 [Logos](#-logos)<br>
-🔖 [Paletas de cores](#-paletas-de-cores)<br>
 
 ## 🖼️ Imagens
 

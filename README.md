@@ -2,8 +2,8 @@
 🌈<br>Recursos Gratuitos
 </h1>
 
-> Uma coisa que eu sempre fico em dúvida na hora de desenvolver ou aprender a fazer meus sites é sempre a mesma: <i>Quais recursos usar no projeto e onde encontrá-los?</i>
-> Então, com essa dúvida criei esse repositório como resposta, mais do que apenas um monte de links, esta é uma seleção do que julgamos ser algumas das melhores oportunidades de aprendizado que você encontrará online gratuitamente.
+> Uma dúvida que eu sempre fico na hora de desenvolver projetos é: <i>"Quais recursos usar e onde encontrá-los?"</i>
+> Com essa premissa em mente, criei esse repositório como resposta. Ele mais do que apenas monte de links, ele é uma seleção do que julgo ser algumas dos melhores recursos que você encontrará gratuitamente.
 
 ---
 
@@ -11,22 +11,21 @@
 
 ## 📚 Índice
 
-🔖 [Animações](pages/materiais-gratuitos-para-sites.md#-animações)<br>
+🔖 [Imagens](pages/materiais-gratuitos-para-sites.md#-imagens)<br>
+🔖 [Ilustrações](pages/materiais-gratuitos-para-sites.md#-ilustrações)<br>
 🔖 [Emojis](pages/materiais-gratuitos-para-sites.md#-emojis)<br>
+🔖 [Paletas de cores](pages/materiais-gratuitos-para-sites.md#-paletas-de-cores)<br>
 🔖 [Fontes](pages/materiais-gratuitos-para-sites.md#-fontes)<br>
 🔖 [Ícones](pages/materiais-gratuitos-para-sites.md#-ícones)<br>
-🔖 [Ilustrações](pages/materiais-gratuitos-para-sites.md#-ilustrações)<br>
-🔖 [Imagens](pages/materiais-gratuitos-para-sites.md#-imagens)<br>
+🔖 [Animações](pages/materiais-gratuitos-para-sites.md#-animações)<br>
 🔖 [Logos](pages/materiais-gratuitos-para-sites.md#-logos)<br>
-🔖 [Paletas de cores](pages/materiais-gratuitos-para-sites.md#-paletas-de-cores)<br>
-
 
 <img src="assets/image/banner2.png">
 
 ## 📚 Índice
 
-🔖 [Cursos](pages/materiais-gratuitos-para-estudos.md#-cursos)<br>
 🔖 [Livros](pages/materiais-gratuitos-para-estudos.md#-livros)<br>
+🔖 [Cursos](pages/materiais-gratuitos-para-estudos.md#-cursos)<br>
 🔖 [Podcasts](pages/materiais-gratuitos-para-estudos.md#-podcasts)<br>
 🔖 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
 🔖 [Desafios](pages/materiais-gratuitos-para-estudos.md#-desafios)<br>
