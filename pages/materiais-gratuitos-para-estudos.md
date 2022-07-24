@@ -39,10 +39,10 @@
 | [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> | [The Beginner's Guide To React](https://egghead.io/courses/the-beginner-s-guide-to-react) | Curso | Não | <img src="../flags/eua.png" width="40px">| 
 | [Julio Arruda](https://www.youtube.com/c/JulioArruda) | Youtube| Não | <img src="../flags/br.jpg" width="40px"> | [The Odin Project](https://www.theodinproject.com/) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
 | [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | Não |<img src="../flags/br.jpg" width="40px"> | [Harvard University](https://pll.harvard.edu/catalog/free) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
-| [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
-| [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
-| [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
-| [Coursera](https://pt.coursera.org/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> |
+| [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [Introduction to Coding with Ruby](https://www.udemy.com/course/newbie-to-ruby/) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
+| [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
+| [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [Learn Android 4.0 Programming in Java](https://www.udemy.com/course/android-tutorial/) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
+| [Coursera](https://pt.coursera.org/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
