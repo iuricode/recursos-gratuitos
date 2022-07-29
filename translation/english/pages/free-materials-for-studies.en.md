@@ -62,6 +62,7 @@
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px">  | 
+| [EVG](https://www.escolavirtual.gov.br/)| Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
 | [EXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| No | <img src="../../../flags/br.jpg" width="40px"> |
@@ -103,7 +104,8 @@
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
-| [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Senai - SP](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Senai - MS](http://www.eadsenai.com.br/virtual/ms/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Tim Tec](https://cursos.timtec.com.br/) | Course | Yes | <img src="../../../flags/br.jpg" width="40px"> |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Course | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Course | No | <img src="../../../flags/br.jpg" width="40px"> |
