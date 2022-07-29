@@ -90,6 +90,7 @@
 | [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
+| [Prime  Cursos](https://www.primecursos.com.br/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
 | [Professor José de Assis](https://www.youtube.com/user/ProfessorJosedeAssis) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
