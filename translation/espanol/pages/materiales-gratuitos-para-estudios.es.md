@@ -61,6 +61,7 @@
 | [Digital Innovation One](https://web.digitalinnovation.one/browse)| Curso | Si | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Entendendo BI](https://www.youtube.com/channel/UCMWXanWdxnKLJxWU_nJbDUg)| Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
+| [EVG](https://www.escolavirtual.gov.br/)| Curso | Si | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px">  | 
 | [EXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |No | <img src="../../../flags/br.jpg" width="40px"> | 
@@ -70,7 +71,7 @@
 | [Filipe Deschamps](https//www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Si | <img src="../../../flags/br.jpg" width="40px"> |
-|[Fundação Estudar- Curso CC50](https://materiais.napratica.org.br/cc50) | Curso | Sim | <img src="../../../flags/br.jpg" width="40px"> |
+| [Fundação Estudar- Curso CC50](https://materiais.napratica.org.br/cc50) | Curso | Sim | <img src="../../../flags/br.jpg" width="40px"> |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
@@ -103,7 +104,8 @@
 | [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) | Youtube | No | <img src="../../../flags/br.jpg" width="40px"> | 
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> | 
-| [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Senai - SP](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> | 
+| [Senai - MS](http://www.eadsenai.com.br/virtual/ms/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> | 
 | [Tim Tec](https://cursos.timtec.com.br/) | Curso | Si | <img src="../../../flags/br.jpg" width="40px"> |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Curso | No | <img src="../../../flags/br.jpg" width="40px"> |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Curso | No | <img src="../../../flags/br.jpg" width="40px"> |
