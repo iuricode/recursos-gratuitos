@@ -66,6 +66,7 @@
 | [IFRS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
 | [Kali Linux para iniciantes](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
+| [LinkedIn Learning](https://br.linkedin.com/learning/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [LinuxTIPS](https://www.youtube.com/user/linuxtipscanal ) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Loiane Training](https://loiane.training/cursos) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |  
 | [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg ) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
