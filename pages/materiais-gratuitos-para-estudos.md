@@ -49,7 +49,7 @@
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="../flags/br.jpg" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
-| [Digital Innovation One](https://web.digitalinnovation.one/browse)| Curso | Sim | <img src="../flags/br.jpg" width="40px"> | 
+| [DIO](https://web.dio.me/play)| Curso | Sim | <img src="../flags/br.jpg" width="40px"> | 
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) | Youtube | Não | <img src="../flags/br.jpg" width="40px">  | 
 | [EXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
