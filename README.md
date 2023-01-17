@@ -32,6 +32,10 @@
 
 ---
 
+### Free-for-dev
+
+🔖 [free-for-dev](pages/free-for-dev.md)<br>
+
 ## ☕ Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
