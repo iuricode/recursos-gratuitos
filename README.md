@@ -32,6 +32,12 @@
 
 ---
 
+### Free-for-dev
+
+🔖 [free-for-dev](pages/free-for-dev.md)<br>
+🔖 [4devs](https://www.4devs.com.br/)<br>
+🔖 [recursosfrontend](pages/recursosfrontend.md)<br>
+
 ## ☕ Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
