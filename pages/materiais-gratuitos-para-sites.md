@@ -49,6 +49,7 @@
 | [SkitterPhoto](https://skitterphoto.com/) | <img src="../flags/eua.png" width="40px"> |
 | [StockSnap.io](https://stocksnap.io/) | <img src="../flags/eua.png" width="40px"> | 
 | [Stockvault](http://www.stockvault.net/) | <img src="../flags/eua.png" width="40px"> |
+
 | [Unsplash](https://unsplash.com/) | <img src="../flags/eua.png" width="40px"> | 
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
@@ -113,6 +114,7 @@
 | [WooBro](https://woobro.design/) | <img src="../flags/eua.png" width="40px"> | 
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="../flags/eua.png" width="40px"> |
 | [404 illustrations](https://error404.fun/) | <img src="../flags/eua.png" width="40px"> |  
+| [Storyset](https://storyset.com/) | <img src="../flags/eua.png" width="40px"> | | <img src="../flags/br.jpg" width="40px"> | 
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
