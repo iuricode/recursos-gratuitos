@@ -328,6 +328,13 @@
 | [LottieFiles](https://lottiefiles.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../flags/eua.png" width="40px"> |
 | [Tenor](https://tenor.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Animista](https://animista.net) | <img src="../flags/eua.png" width="40px"> |
+| [Motion.ui](https://zurb.com/playground/motion-ui) | <img src="../flags/eua.png" width="40px"> |
+| [AOS](https://michalsnik.github.io/aos/) | <img src="../flags/eua.png" width="40px"> |
+| [Anima.js](https://animejs.com/documentation/#cssSelector) | <img src="../flags/eua.png" width="40px"> |
+| [Mo.js](https://mojs.github.io) | <img src="../flags/eua.png" width="40px"> |
+| [Three.js](https://threejs.org) | <img src="../flags/eua.png" width="40px"> |
+| [Ani.js](http://anijs.github.io) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
