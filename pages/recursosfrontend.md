@@ -4,32 +4,34 @@ Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊�
 
 ## Indice
 
-* [Avatares](#avatares)
-* [Compartilhar fragmento de código](#compartilhar-fragmento-codigo)
-* [Compressor de imagens](#compressor-imagens)
-* [Cores](#cores)
-* [CSS](#css)
-* [Desafios](#desafios)
-* [Edição de imagens](#edicao-imagens)
-* [Editor de Markdown](#editor-markdown)
-* [Emoji](#emoji)
-* [Extensões do Chrome](#extensoes-chrome)
-* [Ferramentas](#ferramentas)
-* [Fontes](#fontes)
-* [Hospedagens](#hospedagens)
-* [HTML](#html)
-* [Ícones](#icones)
-* [Ilustrações](#ilustracoes)
-* [Imagens](#imagens)
-* [Inspirações](#inspiracoes)
-* [JavaScript](#javascript)
-* [Minifier](#minifier)
-* [Performance](#performance)
-* [Placeholder](#placeholder)
-* [Prototipação](#prototipacao)
-* [Templates HTML/CSS](#templates-html-css)
-* [Remove background](#remove-background)
-* [UI Kits](#ui-kits)
+- [Indice](#indice)
+  - [Avatares](#avatares)
+- [Compartilhar fragmento de código](#compartilhar-fragmento-de-código)
+- [Compressor de imagens](#compressor-de-imagens)
+- [Cores](#cores)
+- [CSS](#css)
+- [Desafios](#desafios)
+- [Hospedagens](#hospedagens)
+- [HTML](#html)
+- [Ícones](#ícones)
+- [Ilustrações](#ilustrações)
+- [Edição de Imagens](#edição-de-imagens)
+- [Editor de Markdown](#editor-de-markdown)
+- [Emoji](#emoji)
+- [Extensões do Chrome](#extensões-do-chrome)
+- [Ferramentas](#ferramentas)
+- [Fontes](#fontes)
+- [Inspirações](#inspirações)
+- [JavaScript](#javascript)
+- [Minifier](#minifier)
+- [Performance](#performance)
+- [PlaceHolder](#placeholder)
+- [Prototipação](#prototipação)
+- [Templates HTML/CSS](#templates-htmlcss)
+- [Remove Background](#remove-background)
+- [UI KITS](#ui-kits)
+- [IMAGENS](#imagens)
+- [Contribuidores](#contribuidores)
 
 ### Avatares
 Link | Descrição | Grátis |
@@ -119,6 +121,9 @@ Link | Descrição | Grátis |
 | [Transition CSS](https://github.com/argyleink/transition.css) | Repositorio com diversas transações, usando CSS. | Sim | Yes | No |
 | [Wait Animate](https://waitanimate.wstone.io/) | O Animate calcula as porcentagens de keyframe atualizadas com um tempo de espera, o que significa que você pode inserir um atraso entre cada iteração da animação usando CSS puro, sem JavaScript. | Sim | Yes | No |
 | [Wow JS](https://wowjs.uk/docs) | É um plugin JavaScript que revela animações quando você rola. Muito amigo do Animate.css. | Sim | Yes | No |
+| [Motion.ui](https://zurb.com/playground/motion-ui) | Uma biblioteca Sass para criar transições e animações CSS flexíveis. | Sim | Yes | No |
+| [AOS](https://michalsnik.github.io/aos/) | Uma biblioteca Css voltada para animações de scroll. | Sim | Yes | No |
+
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -372,6 +377,9 @@ Link | Descrição | Grátis |
 | [Vivus JS](https://maxwellito.github.io/vivus) | É uma classe JavaScript leve (sem dependências) que permite animar SVGs, dando-lhes a aparência de estarem desenhados. | Sim | Yes | No |
 | [Waypoints](http://imakewebthings.com/waypoints/) | É a maneira mais fácil de acionar uma função ao rolar para um elemento. | Sim | Yes | No |
 | [You might not need jQuery](http://youmightnotneedjquery.com/) | O jQuery e seus primos são ótimos e, sem dúvida, use-os para facilitar o desenvolvimento de seu aplicativo. | Sim | Yes | No |
+| [Three.js](https://mojs.github.io) | Biblioteca JavaScript onde você pode criar suas próprias "cenas" de animação em 3D. | Sim | Yes | No |
+| [Ani.js](http://anijs.github.io) | Mesclando Css e JavaScript para obter animações mais complexas, Ani.Js é uma ótima escolha. | Sim | Yes | No |
+
 
 **[⬆ Voltar para o indice](#indice)**
 
