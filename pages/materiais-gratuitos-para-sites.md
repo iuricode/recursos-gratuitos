@@ -328,6 +328,7 @@
 | [LottieFiles](https://lottiefiles.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../flags/eua.png" width="40px"> |
 | [Tenor](https://tenor.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Animista](https://animista.net/) | <img src="../flags/eua.png" width="40px"> |
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
