@@ -38,11 +38,8 @@ Com essa premissa em mente, criei esse repositório como resposta. Ele mais do q
 🔖 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
 🔖 [Desafios](pages/materiais-gratuitos-para-estudos.md#-desafios)<br>
 
----
 
 <div align="center">
-  <br/>
-  <br/>
   <br/>
     <div>
       <h1>Open Source</h1>
