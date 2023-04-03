@@ -46,8 +46,5 @@ Com essa premissa em mente, criei esse repositório como resposta. Ele mais do q
       <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a>
     </div>
     <br/>
-    <p> 
-      <a href="https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md">LICENÇA</a>
-    </p>
     💖
 </div>
