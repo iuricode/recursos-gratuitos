@@ -9,7 +9,7 @@ Com essa premissa em mente, criei esse repositório como resposta. Ele mais do q
 
 ## 📚 Ebook
 
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, React, TypeScript, Tailwind CSS, React Hook Form e muito mais. O valor é R$25,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
+> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$25,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
 
 - eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
 
@@ -40,10 +40,17 @@ Com essa premissa em mente, criei esse repositório como resposta. Ele mais do q
 
 ---
 
-## ☕ Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
-
-## 🍜 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+<div align="center">
+  <br/>
+  <br/>
+  <br/>
+    <div>
+      <h1>Open Source</h1>
+      <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a>
+    </div>
+    <br/>
+    <p> 
+      <a href="https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md">LICENÇA</a>
+    </p>
+    💖
+</div>
