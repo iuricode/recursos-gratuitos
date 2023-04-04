@@ -45,6 +45,7 @@
 | [Coursera](https://pt.coursera.org/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
+| [Curso em vídeo](https://www.cursoemvideo.com/cursos/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="../flags/br.jpg" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
