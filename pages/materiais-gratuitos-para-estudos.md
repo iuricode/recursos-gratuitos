@@ -135,7 +135,7 @@
 | [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../flags/br.jpg" width="40px">| [Flexbox Defense](http://www.flexboxdefense.com) | <img src="../flags/eua.png" width="40px"> |
 | [Grid Garden](https://cssgridgarden.com/#pt-br) | <img src="../flags/br.jpg" width="40px"> | [Frontend Mentor](https://www.frontendmentor.io) | <img src="../flags/eua.png" width="40px"> |
 | [Grasshopper](https://grasshopper.app/pt_br/) | <img src="../flags/br.jpg" width="40px"> | [CodeWars](https://www.codewars.com/) | <img src="../flags/eua.png" width="40px"> |
-| | | [LeetCode](https://leetcode.com/) | <img src="../flags/eua.png" width="40px"> |
+| [Beecrowd](https://www.beecrowd.com.br/judge/pt/) | <img src="../flags/br.jpg" width="40px"> | [LeetCode](https://leetcode.com/) | <img src="../flags/eua.png" width="40px"> |
 | | | [Exercism](https://exercism.io/) | <img src="../flags/eua.png" width="40px"> |
 
 [🔝 Voltar ao índice](#-índice)
