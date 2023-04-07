@@ -12,13 +12,13 @@
 
 ## 📚 Livros
 
-| Link      | Idioma | Link      | Idioma |
-| ---------- | :------: | ---------- | :------: |
-|   [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../flags/br.jpg" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) | <img src="../flags/eua.png" width="40px"> | 
+| Link      | Idioma   | Link | Idioma   |
+| --------- | :------: | ---- | :------: |
+| [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../flags/br.jpg" width="40px"> | [Online Library - Anna’s Archive](https://annas-archive.org/) | <img src="../flags/eua.png" width="40px"> | 
 | [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="../flags/br.jpg" width="40px"> | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="../flags/eua.png" width="40px"> | 
 | [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="../flags/br.jpg" width="40px"> | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../flags/eua.png" width="40px">  |
 | [Vim para Noobs](https://leanpub.com/vimparanoobs) | <img src="../flags/br.jpg" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../flags/eua.png" width="40px"> | 
-|  [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../flags/br.jpg" width="40px"> | 
+|  [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../flags/br.jpg" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) |<img src="../flags/eua.png" width="40px">
 | [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../flags/br.jpg" width="40px">
 | [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | <img src="../flags/br.jpg" width="40px"> |
 
@@ -43,8 +43,8 @@
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> | [Learn Android 4.0 Programming in Java](https://www.udemy.com/course/android-tutorial/) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Coursera](https://pt.coursera.org/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
-| [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
-| [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
+| [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="../flags/br.jpg" width="40px"> | [Codecademy](https://www.codecademy.com/)| Curso | Não | <img src="../flags/eua.png" width="40px">
+| [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> | [Cybrary Hacking Course](https://www.cybrary.it/)| Curso | Sim | <img src="../flags/eua.png" width="40px">
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="../flags/br.jpg" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
@@ -94,6 +94,7 @@
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Curso | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | 
+[Balta.io](https://balta.io/comece-de-graca) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | 
 
 <b>[🔝 Voltar ao índice](#-índice)</b>
 
