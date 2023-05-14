@@ -122,6 +122,7 @@
 | ---------- | :------: |
 | [EmojiCopy](https://www.emojicopy.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../flags/eua.png" width="40px"> |
+| [Emojipedia](https://emojipedia.org/) | <img src="../flags/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="../flags/eua.png" width="40px"> |
 
