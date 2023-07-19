@@ -1,50 +1,27 @@
-<h1 align="center">
-🌈<br>Recursos Gratuitos
-</h1>
+# Recursos gratuitos 🌈
 
-## 🤘 Sobre
+Toda vez que me deparo com o desafio de desenvolver projetos, surge uma dúvida constante: "Quais recursos utilizar e onde posso encontrá-los?" Com esse questionamento em mente, decidi criar este repositório como uma solução. Mas ele é mais do que uma simples coleção de links, trata-se de uma seleção criteriosa do que considero serem alguns dos melhores recursos disponíveis gratuitamente.
 
-> Uma dúvida que eu sempre fico na hora de desenvolver projetos é: <i>"Quais recursos usar e onde encontrá-los?"</i> 
-Com essa premissa em mente, criei esse repositório como resposta. Ele mais do que apenas monte de links, ele é uma seleção do que julgo ser algumas dos melhores recursos que você encontrará gratuitamente.
+## Tabelas de conteúdos 📚
 
-## 📚 Aprenda frontend com uma didática simples
+- [Imagens](materiais/readme.md#-imagens)
+- [Ilustrações](materiais/readme.md#-ilustrações)
+- [Emojis](materiais/readme.md#-emojis)
+- [Paletas de cores](materiais/readme.md#-paletas-de-cores)
+- [Fontes](materiais/readme.md#-fontes)
+- [Ícones](materiais/readme.md#-ícones)
+- [Animações](materiais/readme.md#-animações)
+- [Logos](materiais/readme.md#-logos)
+- [Livros](materiais/readme.md#-livros)
+- [Cursos](materiais/readme.md#-cursos)
+- [Podcasts](materiais/readme.md#-podcasts)
+- [Sites e blogs](materiais/readme.md#-sites-e-blogs)
+- [Desafios](materiais/readme.md#-desafios)
 
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$15,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
+## Contribuição ✨
 
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como constribuir clicando **[aqui](https://github.com/iuricode/recursos-gratuitos/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/recursos-gratuitos/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
 
----
+## Aprenda desenvolvimento frontend ❤️
 
-<img src="assets/image/banner1.png">
-
-## 📚 Índice
-
-🔖 [Imagens](pages/materiais-gratuitos-para-sites.md#-imagens)<br>
-🔖 [Ilustrações](pages/materiais-gratuitos-para-sites.md#-ilustrações)<br>
-🔖 [Emojis](pages/materiais-gratuitos-para-sites.md#-emojis)<br>
-🔖 [Paletas de cores](pages/materiais-gratuitos-para-sites.md#-paletas-de-cores)<br>
-🔖 [Fontes](pages/materiais-gratuitos-para-sites.md#-fontes)<br>
-🔖 [Ícones](pages/materiais-gratuitos-para-sites.md#-ícones)<br>
-🔖 [Animações](pages/materiais-gratuitos-para-sites.md#-animações)<br>
-🔖 [Logos](pages/materiais-gratuitos-para-sites.md#-logos)<br>
-
-<img src="assets/image/banner2.png">
-
-## 📚 Índice
-
-🔖 [Livros](pages/materiais-gratuitos-para-estudos.md#-livros)<br>
-🔖 [Cursos](pages/materiais-gratuitos-para-estudos.md#-cursos)<br>
-🔖 [Podcasts](pages/materiais-gratuitos-para-estudos.md#-podcasts)<br>
-🔖 [Sites e Blogs](pages/materiais-gratuitos-para-estudos.md#-sites-e-blogs)<br>
-🔖 [Desafios](pages/materiais-gratuitos-para-estudos.md#-desafios)<br>
-
-
-<div align="center">
-  <br/>
-    <div>
-      <h1>Open Source</h1>
-      <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a>
-    </div>
-    <br/>
-    💖
-</div>
+Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
