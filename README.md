@@ -20,7 +20,7 @@ Toda vez que me deparo com o desafio de desenvolver projetos, surge uma dúvida 
 
 ## Contribuição ✨
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como constribuir clicando **[aqui](https://github.com/iuricode/recursos-gratuitos/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/recursos-gratuitos/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/recursos-gratuitos/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/recursos-gratuitos/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
 
 ## Aprenda desenvolvimento frontend ❤️
 
