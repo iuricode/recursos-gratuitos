@@ -39,7 +39,7 @@
 | [Picspree](https://picspree.com) | <img src="../imagem/eua.png" width="40px"> |
 | [Piqsels](https://piqsels.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Pixabay](https://pixabay.com/) | <img src="../imagem/eua.png" width="40px">  | 
-| [Placeholder](https://placeholder.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [Placeholder](https://placehold.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | <img src="../imagem/eua.png" width="40px"> |
 | [PxHere](https://pxhere.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Realistic Shots](https://realisticshots.com/) | <img src="../imagem/eua.png" width="40px"> |
