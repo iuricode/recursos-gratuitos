@@ -129,6 +129,7 @@
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="../imagem/eua.png" width="40px"> |
+| [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
