@@ -44,12 +44,10 @@
 | [PxHere](https://pxhere.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Realistic Shots](https://realisticshots.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Reshot](https://www.reshot.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Saxifraga](http://www.freenatureimages.eu) | <img src="../imagem/eua.png" width="40px"> |
 | [scienceimage](https://www.scienceimage.csiro.au) | <img src="../imagem/eua.png" width="40px"> |
 | [StockFreeImages](https://www.stockfreeimages.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [SkitterPhoto](https://skitterphoto.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [StockSnap.io](https://stocksnap.io/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Stockvault](http://www.stockvault.net/) | <img src="../imagem/eua.png" width="40px"> |
 | [Unsplash](https://unsplash.com/) | <img src="../imagem/eua.png" width="40px"> | 
 
 <div align="right">
@@ -60,13 +58,11 @@
 
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
-| [Abstrakt](https://www.abstrakt.design/) | <img src="../imagem/eua.png" width="40px"> | [Canva](https://www.canva.com/) | <img src="../imagem/br.png" width="40px"> | 
+| [Canva](https://www.canva.com/) | <img src="../imagem/br.png" width="40px"> | 
 | [Absurd Design](https://absurd.design/) | <img src="../imagem/eua.png" width="40px"> | [Ouch](https://icons8.com.br/illustrations) | <img src="../imagem/br.png" width="40px"> |
 | [Black illustrations](https://www.blackillustrations.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Blob Marker](https://www.blobmaker.app/) | <img src="../imagem/eua.png" width="40px"> |  
-| [blob](https://blobs.app/) | <img src="../imagem/eua.png" width="40px"> |
 | [Blush](https://blush.design/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Clker](http://www.clker.com) | <img src="../imagem/eua.png" width="40px"> |
 | [Construtor de Ilustrações](https://itg.digital/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Control](https://control.rocks/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Custom Shape Dividers](https://www.shapedivider.app/) | <img src="../imagem/eua.png" width="40px"> |
@@ -76,7 +72,6 @@
 | [Flow Lava](https://flowlava.club/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Free Illustrations](https://freeillustrations.xyz/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Free vectors](https://all-free-download.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Freeble](http://freebbble.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Freebie Suplly](https://freebiesupply.com/) | <img src="../imagem/eua.png" width="40px"> 
 | [Freellustrations](https://freellustrations.com/) | <img src="../imagem/eua.png" width="40px"> |   
 | [FreeVectors](https://www.freevectors.net/) | <img src="../imagem/eua.png" width="40px"> | 
@@ -84,12 +79,9 @@
 | [Get Waves](https://getwaves.io/) | <img src="../imagem/eua.png" width="40px"> | |  |  
 | [Glaze](https://www.glazestock.com/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Growww](https://growwwkit.com/illustrations/phonies/) | <img src="../imagem/eua.png" width="40px"> |    
-| [HiClipart](https://www.hiclipart.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Humaaans](https://www.humaaans.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Illustrations](https://illlustrations.co/) | <img src="../imagem/eua.png" width="40px"> |   
-| [IRA Design](https://iradesign.io/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Isometric](https://isometric.online/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Karthik Srinivas](https://www.karthiksrinivas.in/) | <img src="../imagem/eua.png" width="40px"> |    
+| [IRA Design](https://iradesign.io/) | <img src="../imagem/eua.png" width="40px"> |    
 | [Lukasz Adam](https://lukaszadam.com/illustrations) | <img src="../imagem/eua.png" width="40px"> | 
 | [Manypixels Illustration Gallery](https://www.manypixels.co/gallery/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Mixkit Art](https://mixkit.co/free-stock-art/) | <img src="../imagem/eua.png" width="40px"> |
@@ -113,7 +105,6 @@
 | [Vector4Free](https://www.vector4free.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Wannapik](https://www.wannapik.com/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) | <img src="../imagem/eua.png" width="40px"> | 
-| [WooBro](https://woobro.design/) | <img src="../imagem/eua.png" width="40px"> | 
 | [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations) | <img src="../imagem/eua.png" width="40px"> |
 | [404 illustrations](https://error404.fun/) | <img src="../imagem/eua.png" width="40px"> |  
 
@@ -128,7 +119,6 @@
 | [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Gitmoji](https://gitmoji.carloscuesta.me/) | <img src="../imagem/eua.png" width="40px"> |
 | [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
@@ -142,10 +132,8 @@
 | [0to255](https://www.0to255.com/) | <img src="../imagem/eua.png" width="40px"> | [Adobe Color](https://color.adobe.com/pt/create/color-wheel) | <img src="../imagem/br.png" width="40px"> |
 | [Adobe Trends](https://color.adobe.com/trends)| <img src="../imagem/eua.png" width="40px"> |
 | [BRAND PALETTES](https://brandpalettes.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [BrandColors](http://brandcolors.net/) | <img src="../imagem/eua.png" width="40px"> |
 | [Color Blender](https://meyerweb.com/eric/tools/color-blend) | <img src="../imagem/eua.png" width="40px"> |
 | [Color Brewer 2](https://colorbrewer2.org/) | <img src="../imagem/eua.png" width="40px"> |
-| [Color Hex Picker](https://colorhexpicker.com) | <img src="../imagem/eua.png" width="40px"> |
 | [Color Hunt](https://colorhunt.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Color Lovers](https://www.colourlovers.com/palettes) | <img src="../imagem/eua.png" width="40px"> |
 | [Color.review](https://color.review/) | <img src="../imagem/eua.png" width="40px"> |
@@ -154,12 +142,10 @@
 | [ColorBox](https://www.colorbox.io) | <img src="../imagem/eua.png" width="40px"> |
 | [ColorCurves.app](https://colorcurves.app) | <img src="../imagem/eua.png" width="40px"> |
 | [Colordot](https://color.hailpixel.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Colormind.io](http://colormind.io) | <img src="../imagem/eua.png" width="40px"> |
 | [Colors & Fonts](https://www.colorsandfonts.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [colors.dopely](https://colors.dopely.top/) | <img src="../imagem/eua.png" width="40px"> |
 | [Colors.lol](https://colors.lol/) | <img src="../imagem/eua.png" width="40px"> |
 | [ColorSpace](https://mycolor.space/) | <img src="../imagem/eua.png" width="40px"> |
-| [ColorSuply](https://colorsupplyyy.com/app) | <img src="../imagem/eua.png" width="40px"> |
 | [ColorsWall](https://colorswall.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Colorzilla](https://www.colorzilla.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Colourco.de](https://colourco.de/) | <img src="../imagem/eua.png" width="40px"> |
@@ -180,8 +166,6 @@
 | [HTML Color Codes](https://htmlcolorcodes.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [HTML CSS Color](https://www.htmlcsscolor.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Image Color Picker](https://image-color.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Khroma](http://khroma.co/) | <img src="../imagem/eua.png" width="40px"> |
-| [Material Design Palette Generator](http://mcg.mbitson.com) | <img src="../imagem/eua.png" width="40px"> |
 | [Material Palette](https://www.materialpalette.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Material UI Colors](https://materialuicolors.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Name that Color](https://chir.ag/projects/name-that-color/) | <img src="../imagem/eua.png" width="40px"> |
@@ -194,7 +178,6 @@
 | [ShadeSwash](https://shadeswash.netlify.app/) | <img src="../imagem/eua.png" width="40px"> |
 | [SpyColor.com](https://www.spycolor.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Tint and Shade Generator](https://maketintsandshades.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [UIColor Picker](https://uicolorpicker.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [UiGradients](https://uigradients.com/#Memariani) | <img src="../imagem/eua.png" width="40px"> |
 | [Web Gradients](https://webgradients.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [whocanuse](https://whocanuse.com) | <img src="../imagem/eua.png" width="40px"> |
@@ -208,28 +191,19 @@
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
 | [1001 Fonts](https://www.1001fonts.com/) | <img src="../imagem/eua.png" width="40px"> | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="../imagem/br.png" width="40px"> |
-| [Abstract Fonts](http://www.abstractfonts.com/) | <img src="../imagem/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../imagem/br.png" width="40px"> |
+| [DaFont](https://www.dafont.com/pt/) | <img src="../imagem/br.png" width="40px"> |
 | [Adobe Fonts](https://fonts.adobe.com/) | <img src="../imagem/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../imagem/br.png" width="40px"> |
-| [appicon](https://appicon.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Arabic fonts](https://arabicfonts.net/) | <img src="../imagem/eua.png" width="40px"> |
 | [BeFonts](https://befonts.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Bootstrap Icons](https://icons.getbootstrap.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Convertio](https://convertio.co/png-svg/) | <img src="../imagem/eua.png" width="40px"> |
-| [Cryptoicons](http://cryptoicons.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [CSS Font Stack](https://www.cssfontstack.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [CSS ICON](https://cssicon.space/) | <img src="../imagem/eua.png" width="40px"> |
-| [Endless Icons](http://endlessicons.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | <img src="../imagem/eua.png" width="40px"> |
 | [Font Combinations](https://www.canva.com/font-combinations/) | <img src="../imagem/eua.png" width="40px"> |
 | [Font Flipper](https://fontflipper.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Font Space](https://www.fontspace.com/)| <img src="../imagem/eua.png" width="40px"> |
 | [Font Squirrel](https://www.fontsquirrel.com/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Fontastic.me](http://fontastic.me/) | <img src="../imagem/eua.png" width="40px"> |
 | [FontDrop](https://fontdrop.info) | <img src="../imagem/eua.png" width="40px"> |
-| [Fontello](http://fontello.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [FontFabric](https://www.fontfabric.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [FontGet](https://www.fontget.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Fontisto Icons](https://fontisto.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Fontjoy](https://fontjoy.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [FontPair](https://fontpair.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Fonts Arena](https://fontsarena.com/) | <img src="../imagem/eua.png" width="40px"> | 
@@ -238,54 +212,6 @@
 | [Glyphter](https://glyphter.com) | <img src="../imagem/eua.png" width="40px"> |
 | [Golden Ratio](https://grtcalculator.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Google Fonts](https://fonts.google.com/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | <img src="../imagem/eua.png" width="40px"> |
-| [Hero Icons](https://heroicons.dev/) | <img src="../imagem/eua.png" width="40px"> |
-| [Icofont](https://icofont.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Icomoon](https://icomoon.io/app/) | <img src="../imagem/eua.png" width="40px"> |
-| [Icon-icons.com](https://icon-icons.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [IconBros](https://www.iconbros.com) | <img src="../imagem/eua.png" width="40px"> |
-| [Iconmonstr](https://iconmonstr.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [IconPark](https://github.com/bytedance/IconPark) | <img src="../imagem/eua.png" width="40px"> | 
-| [Icons8](https://icons8.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [IconSear.ch](https://iconsear.ch/search.html) | <img src="../imagem/eua.png" width="40px"> |
-| [Jam Icons](https://jam-icons.com/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Just my type](https://justmytype.co/) | <img src="../imagem/eua.png" width="40px"> |
-| [Leon Sans](https://github.com/cmiscm/leonsans/) | <img src="../imagem/eua.png" width="40px"> |
-| [Lexend](https://www.lexend.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Linea](https://linea.io/) | <img src="../imagem/eua.png" width="40px"> |
-| [Linear Icons](https://linearicons.com/free) | <img src="../imagem/eua.png" width="40px"> |
-| [LineIcons](https://lineicons.com) | <img src="../imagem/eua.png" width="40px"> |
-| [Lordicon](https://lordicon.com/free-icons) | <img src="../imagem/eua.png" width="40px"> |
-| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | <img src="../imagem/eua.png" width="40px"> |
-| [Material Design Icons](https://materialdesignicons.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Material Icons](https://material.io/resources/icons/) | <img src="../imagem/eua.png" width="40px"> |
-| [Material Palette](https://www.materialpalette.com/icons) | <img src="../imagem/eua.png" width="40px"> |
-| [Mobirise Icons](https://mobiriseicons.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Modular scale](https://www.modularscale.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Nucleo App](https://nucleoapp.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Open Foundry](https://open-foundry.com) | <img src="../imagem/eua.png" width="40px"> | 
-| [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) | <img src="../imagem/eua.png" width="40px"> |
-| [Radix Icons](https://icons.modulz.app/) | <img src="../imagem/eua.png" width="40px"> |
-| [SFWin](https://github.com/blaisck/sfwin/) | <img src="../imagem/eua.png" width="40px"> |
-| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | <img src="../imagem/eua.png" width="40px"> |
-| [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | <img src="../imagem/eua.png" width="40px"> |
-| [SVG Repo](https://www.svgrepo.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [System UIcons](https://systemuicons.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Tiff](https://tiff.herokuapp.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Transfonter](https://transfonter.org/) | <img src="../imagem/eua.png" width="40px"> |
-| [Typechem](https://typechem.herokuapp.com/sansita-700-ff8d95-quicksand-500-fdfdfd-070634) | <img src="../imagem/eua.png" width="40px"> |
-| [TypeKit Practice](https://practice.typekit.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Unblast](https://unblast.com/fonts/) | <img src="../imagem/eua.png" width="40px"> |
-| [Unicons](https://iconscout.com/unicons) | <img src="../imagem/eua.png" width="40px"> |
-| [Unified icons](https://iconify.design/) | <img src="../imagem/eua.png" width="40px"> |
-| [Use & Modify](https://usemodify.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [UseAnimations](https://useanimations.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [UXWing](https://uxwing.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Vivid.js](https://webkul.github.io/vivid/) | <img src="../imagem/eua.png" width="40px"> |
-| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | <img src="../imagem/eua.png" width="40px"> |
-| [Weather Icons](https://erikflowers.github.io/weather-icons/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Zondicons](https://www.zondicons.com/icons.html) | <img src="../imagem/eua.png" width="40px"> |
-| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -298,7 +224,7 @@
 | [Boxicons](https://boxicons.com/) | <img src="../imagem/eua.png" width="40px"> | [Icons8 Icons](https://icons8.com.br/icons) | <img src="../imagem/br.png" width="40px"> | 
 | [Css.gg](https://css.gg/) | <img src="../imagem/eua.png" width="40px"> | [Flaticon](https://www.flaticon.com/br/) | <img src="../imagem/br.png" width="40px"> | 
 | [Captain Icons](https://icons8.com/icons/set/captain) | <img src="../imagem/eua.png" width="40px"> | [Freepik](https://br.freepik.com/) | <img src="../imagem/br.png" width="40px"> | 
-| [DrawKit](https://www.drawkit.io/free-icons) | <img src="../imagem/eua.png" width="40px"> | 
+| [DrawKit](https://www.drawkit.com/illustration-types/icons) | <img src="../imagem/eua.png" width="40px"> | 
 | [Doodle Icons](https://khushmeen.com/icons.html) | <img src="../imagem/eua.png" width="40px"> |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Feather](https://feathericons.com/) | <img src="../imagem/eua.png" width="40px"> |
@@ -353,8 +279,7 @@
 
 | Link      | Idioma |
 | ---------- | :------: |
-| [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="../imagem/eua.png" width="40px"> |                       
-| [Instant Logo Search](http://instantlogosearch.com/)| <img src="../imagem/eua.png" width="40px"> |                    
+| [Browser Logos](https://github.com/alrra/browser-logos/) | <img src="../imagem/eua.png" width="40px"> |                                           
 | [Logo Maker](https://logomakr.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [LogoHub](https://logohub.io/) | <img src="../imagem/eua.png" width="40px"> |                     
 | [LogoSear.ch](https://logosear.ch/search.html) | <img src="../imagem/eua.png" width="40px"> |                  
@@ -370,10 +295,9 @@
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../imagem/br.png" width="40px"> | [Online Library - Anna’s Archive](https://annas-archive.org/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="../imagem/br.png" width="40px"> | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="../imagem/br.png" width="40px"> | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../imagem/eua.png" width="40px">  |
-| [Vim para Noobs](https://leanpub.com/vimparanoobs) | <img src="../imagem/br.png" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../imagem/eua.png" width="40px"> | 
+| | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../imagem/eua.png" width="40px"> | 
 |  [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../imagem/br.png" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) |<img src="../imagem/eua.png" width="40px">
 | [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../imagem/br.png" width="40px">
-| [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/index.html) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -386,7 +310,7 @@
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="../imagem/br.png" width="40px"> | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)| Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
-| [Wo Makers Code](https://maismulheres.tech/courses) | Cursos| Sim | <img src="../imagem/br.png" width="40px">  | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
+| | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Future Learn](https://www.futurelearn.com) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | <img src="../imagem/br.png" width="40px"> | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> | 
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
@@ -446,7 +370,6 @@
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos) | Curso | Sim | <img src="../imagem/br.png" width="40px"> | 
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos) | Curso | Sim | <img src="../imagem/br.png" width="40px"> | 
 | [Tim Tec](https://cursos.timtec.com.br/) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
-| [Torne-se um Programador](http://www.torneseumprogramador.com.br/) | Curso | Não | <img src="../imagem/br.png" width="40px"> |
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Curso | Não | <img src="../imagem/br.png" width="40px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso | Não | <img src="../imagem/br.png" width="40px"> | 
 [Balta.io](https://balta.io/comece-de-graca) | Curso | Não | <img src="../imagem/br.png" width="40px"> | 
@@ -479,11 +402,11 @@
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="../imagem/br.png" width="40px">| [HTML Dog](https://htmldog.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="../imagem/br.png" width="40px"> | [JavaScript for Cats](http://jsforcats.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [High5Devs](http://high5devs.com/) | <img src="../imagem/br.png" width="40px"> | [JavaScript Katas](https://jskatas.org/ ) | <img src="../imagem/eua.png" width="40px"> |
+| [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="../imagem/br.png" width="40px"> | 
+| [JavaScript Katas](https://jskatas.org/ ) | <img src="../imagem/eua.png" width="40px"> |
 | [Jessica Temporal](https://jtemporal.com/ ) | <img src="../imagem/br.png" width="40px"> | [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="../imagem/eua.png" width="40px"> |
 | [Laraveling](https://laraveling.tech/) | <img src="../imagem/br.png" width="40px"> | [Edabit](https://edabit.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Leticia Portella](https://leportella.com/pt-br) | <img src="../imagem/br.png" width="40px"> | [Interneting is Hard](https://www.internetingishard.com/ ) | <img src="../imagem/eua.png" width="40px"> |
+| [Leticia Portella](https://leportella.com/pt-br) | <img src="../imagem/br.png" width="40px"> | 
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../imagem/br.png" width="40px"> | [Boring Rails](https://boringrails.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [DevChallenge](https://devchallenge.now.sh/) | <img src="../imagem/br.png" width="40px"> | [Ruby Guides](https://www.rubyguides.com/ruby-post-index/) | <img src="../imagem/eua.png" width="40px"> |
 
@@ -495,9 +418,9 @@
 
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
-| [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../imagem/br.png" width="40px">| [Flexbox Defense](http://www.flexboxdefense.com) | <img src="../imagem/eua.png" width="40px"> |
+| [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../imagem/br.png" width="40px"> | 
 | [Grid Garden](https://cssgridgarden.com/#pt-br) | <img src="../imagem/br.png" width="40px"> | [Frontend Mentor](https://www.frontendmentor.io) | <img src="../imagem/eua.png" width="40px"> |
-| [Grasshopper](https://grasshopper.app/pt_br/) | <img src="../imagem/br.png" width="40px"> | [CodeWars](https://www.codewars.com/) | <img src="../imagem/eua.png" width="40px"> |
+| | [CodeWars](https://www.codewars.com/) | <img src="../imagem/eua.png" width="40px"> |
 | | | [LeetCode](https://leetcode.com/) | <img src="../imagem/eua.png" width="40px"> |
 | | | [Exercism](https://exercism.io/) | <img src="../imagem/eua.png" width="40px"> |
 
