@@ -57,10 +57,9 @@
 ## Ilustrações 🚀 
 
 | Link      | Idioma | Link      | Idioma |
-| ---------- | :------: | ---------- | :------: |
-| [Canva](https://www.canva.com/) | <img src="../imagem/br.png" width="40px"> | 
+| ---------- | :------: | ---------- | :------: | 
 | [Absurd Design](https://absurd.design/) | <img src="../imagem/eua.png" width="40px"> | [Ouch](https://icons8.com.br/illustrations) | <img src="../imagem/br.png" width="40px"> |
-| [Black illustrations](https://www.blackillustrations.com/) | <img src="../imagem/eua.png" width="40px"> | 
+| [Black illustrations](https://www.blackillustrations.com/) | <img src="../imagem/eua.png" width="40px"> | [Canva](https://www.canva.com/) | <img src="../imagem/br.png" width="40px"> 
 | [Blob Marker](https://www.blobmaker.app/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Blush](https://blush.design/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Construtor de Ilustrações](https://itg.digital/) | <img src="../imagem/eua.png" width="40px"> | 
@@ -114,12 +113,11 @@
 
 ## Emojis 😛 
 
-| Link      | Idioma |
-| ---------- | :------: |
-| [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> |
+| Link      | Idioma | Link      | Idioma |
+| ---------- | :------: | ---------- | :------: |
+| [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> | [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> |
 | [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -191,9 +189,8 @@
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
 | [1001 Fonts](https://www.1001fonts.com/) | <img src="../imagem/eua.png" width="40px"> | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="../imagem/br.png" width="40px"> |
-| [DaFont](https://www.dafont.com/pt/) | <img src="../imagem/br.png" width="40px"> |
 | [Adobe Fonts](https://fonts.adobe.com/) | <img src="../imagem/eua.png" width="40px"> | [NetFonts](https://www.netfontes.com.br/) | <img src="../imagem/br.png" width="40px"> |
-| [Arabic fonts](https://arabicfonts.net/) | <img src="../imagem/eua.png" width="40px"> |
+| [Arabic fonts](https://arabicfonts.net/) | <img src="../imagem/eua.png" width="40px"> | [DaFont](https://www.dafont.com/pt/) | <img src="../imagem/br.png" width="40px"> |
 | [BeFonts](https://befonts.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Convertio](https://convertio.co/png-svg/) | <img src="../imagem/eua.png" width="40px"> |
 | [CSS Font Stack](https://www.cssfontstack.com/) | <img src="../imagem/eua.png" width="40px"> |
@@ -294,10 +291,9 @@
 | --------- | :------: | ---- | :------: |
 | [You Don't Know JS (tradução)](https://github.com/cezaraugusto/You-Dont-Know-JS) | <img src="../imagem/br.png" width="40px"> | [Online Library - Anna’s Archive](https://annas-archive.org/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Clean Code JavaScript (tradução)](https://github.com/felipe-augusto/clean-code-javascript) | <img src="../imagem/br.png" width="40px"> | [Eloquent Javascript (3ª edição)](https://eloquentjavascript.net/) | <img src="../imagem/eua.png" width="40px"> | 
-| [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="../imagem/br.png" width="40px"> | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../imagem/eua.png" width="40px">  |
-| | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../imagem/eua.png" width="40px"> | 
+| [Eloquente Javascript (2ª edição)](https://github.com/braziljs/eloquente-javascript) | <img src="../imagem/br.png" width="40px"> | [You Don't Know JS (2ª edição)](https://github.com/getify/You-Dont-Know-JS) | <img src="../imagem/eua.png" width="40px">  | 
 |  [Professor Frisby's Mostly Adequate Guide to Functional Programming (tradução)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR) | <img src="../imagem/br.png" width="40px"> | [Clojure for the Brave and True](https://www.braveclojure.com/) |<img src="../imagem/eua.png" width="40px">
-| [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../imagem/br.png" width="40px">
+| [Linguagem C](https://drive.google.com/file/d/0ByFgW1BKyIt0OFJneUxPcXdCV0U/edit) | <img src="../imagem/br.png" width="40px"> | [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -310,7 +306,6 @@
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="../imagem/br.png" width="40px"> | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)| Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
-| | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Future Learn](https://www.futurelearn.com) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | <img src="../imagem/br.png" width="40px"> | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> | 
 | [CaveiraTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
@@ -324,7 +319,7 @@
 | [Coursera](https://pt.coursera.org/) | Curso | Não | <img src="../imagem/br.png" width="40px"> | [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607) | Cursos | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="../imagem/br.png" width="40px"> | [Codecademy](https://www.codecademy.com/)| Curso | Não | <img src="../imagem/eua.png" width="40px">
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="../imagem/br.png" width="40px"> | [Cybrary Hacking Course](https://www.cybrary.it/)| Curso | Sim | <img src="../imagem/eua.png" width="40px">
-| [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+| [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
 | [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="../imagem/br.png" width="40px">| 
 | [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)| Youtube | Não | <img src="../imagem/br.png" width="40px"> |
@@ -402,13 +397,12 @@
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
 | [Desenvolvedor.io](https://desenvolvedor.io/) | <img src="../imagem/br.png" width="40px">| [HTML Dog](https://htmldog.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="../imagem/br.png" width="40px"> | 
-| [JavaScript Katas](https://jskatas.org/ ) | <img src="../imagem/eua.png" width="40px"> |
+| [Eduardo Cuducos](https://cuducos.me/blog/) | <img src="../imagem/br.png" width="40px"> | [JavaScript Katas](https://jskatas.org/ ) | <img src="../imagem/eua.png" width="40px"> |
 | [Jessica Temporal](https://jtemporal.com/ ) | <img src="../imagem/br.png" width="40px"> | [Web Skills](https://andreasbm.github.io/web-skills/)| <img src="../imagem/eua.png" width="40px"> |
-| [Laraveling](https://laraveling.tech/) | <img src="../imagem/br.png" width="40px"> | [Edabit](https://edabit.com/) | <img src="../imagem/eua.png" width="40px"> |
-| [Leticia Portella](https://leportella.com/pt-br) | <img src="../imagem/br.png" width="40px"> | 
+| [Laraveling](https://laraveling.tech/) | <img src="../imagem/br.png" width="40px"> | [Edabit](https://edabit.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../imagem/br.png" width="40px"> | [Boring Rails](https://boringrails.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [DevChallenge](https://devchallenge.now.sh/) | <img src="../imagem/br.png" width="40px"> | [Ruby Guides](https://www.rubyguides.com/ruby-post-index/) | <img src="../imagem/eua.png" width="40px"> |
+| [Leticia Portella](https://leportella.com/pt-br) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -418,11 +412,10 @@
 
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
-| [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../imagem/br.png" width="40px"> | 
-| [Grid Garden](https://cssgridgarden.com/#pt-br) | <img src="../imagem/br.png" width="40px"> | [Frontend Mentor](https://www.frontendmentor.io) | <img src="../imagem/eua.png" width="40px"> |
-| | [CodeWars](https://www.codewars.com/) | <img src="../imagem/eua.png" width="40px"> |
-| | | [LeetCode](https://leetcode.com/) | <img src="../imagem/eua.png" width="40px"> |
-| | | [Exercism](https://exercism.io/) | <img src="../imagem/eua.png" width="40px"> |
+| [Frontend Mentor](https://www.frontendmentor.io) | <img src="../imagem/eua.png" width="40px"> | [Grid Garden](https://cssgridgarden.com/#pt-br) | <img src="../imagem/br.png" width="40px"> 
+| [CodeWars](https://www.codewars.com/) | <img src="../imagem/eua.png" width="40px"> | [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../imagem/br.png" width="40px"> |
+| [LeetCode](https://leetcode.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [Exercism](https://exercism.io/) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
