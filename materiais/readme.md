@@ -247,7 +247,8 @@
 | [Shape.so](https://shape.so/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Simple Icons](https://simpleicons.org/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../imagem/eua.png" width="40px"> |  
-| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../imagem/eua.png" width="40px"> |  
+| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../imagem/eua.png" width="40px"> | 
+| [SVG Repo](https://www.svgrepo.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Tabler Icons](https://tablericons.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1) | <img src="../imagem/eua.png" width="40px"> |
 | [Tilda Icons](https://tilda.cc/free-icons/) | <img src="../imagem/eua.png" width="40px"> |  
