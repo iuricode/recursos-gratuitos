@@ -115,9 +115,9 @@
 
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
-| [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> | [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
-| [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> |
-| [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> | [Emojipedia](https://emojipedia.org/) | <img src="../imagem/br.png" width="40px"> |
+| [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> | [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
+| [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> | [Symbl - Emojis e Símbolos](https://symbl.cc/pt/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -247,7 +247,8 @@
 | [Shape.so](https://shape.so/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Simple Icons](https://simpleicons.org/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Streamline Free](https://www.streamlineicons.com/free/) | <img src="../imagem/eua.png" width="40px"> |  
-| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../imagem/eua.png" width="40px"> |  
+| [Streamline UX](https://www.streamlineicons.com/ux/) | <img src="../imagem/eua.png" width="40px"> | 
+| [SVG Repo](https://www.svgrepo.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Tabler Icons](https://tablericons.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1) | <img src="../imagem/eua.png" width="40px"> |
 | [Tilda Icons](https://tilda.cc/free-icons/) | <img src="../imagem/eua.png" width="40px"> |  
