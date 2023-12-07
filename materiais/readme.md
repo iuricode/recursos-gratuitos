@@ -115,9 +115,9 @@
 
 | Link      | Idioma | Link      | Idioma |
 | ---------- | :------: | ---------- | :------: |
-| [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> | [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
-| [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> |
-| [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [EmojiCopy](https://www.emojicopy.com/) | <img src="../imagem/eua.png" width="40px"> | [Emojipedia](https://emojipedia.org/) | <img src="../imagem/br.png" width="40px"> |
+| [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../imagem/eua.png" width="40px"> | [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) | <img src="../imagem/br.png" width="40px"> |
+| [Get Emoji](https://getemoji.com/) | <img src="../imagem/eua.png" width="40px"> | [Symbl - Emojis e Símbolos](https://symbl.cc/pt/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
