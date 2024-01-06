@@ -231,7 +231,8 @@
 | [Heroicons](https://heroicons.dev/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Health icons](https://healthicons.org/) |  <img src="../imagem/eua.png" width="40px"> |
 | [Iconfinder](https://www.iconfinder.com/free_icons) | <img src="../imagem/eua.png" width="40px"> |
-| [Icon Icons](https://icon-icons.com/) | <img src="../imagem/eua.png" width="40px"> | 
+| [Icon Icons](https://icon-icons.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [Icon Moon](https://icomoon.io/) | <img src="../imagem/eua.png" width="40px">
 | [Iconscout](https://iconscout.com/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Iconsvg](https://iconsvg.xyz/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Ikonate](https://ikonate.com/) | <img src="../imagem/eua.png" width="40px"> |  
