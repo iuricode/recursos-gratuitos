@@ -264,6 +264,7 @@
 | ---------- | :------: |
 | [Airbnb](https://airbnb.design/lottie/) | <img src="../imagem/eua.png" width="40px"> |
 | [Animista](https://animista.net/) | <img src="../imagem/eua.png" width="40px">
+| [cubic-bezier](https://cubic-bezier.com/) |  <img src="../imagem/eua.png" width="40px">
 | [Free FrontEnd](https://freefrontend.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Giphy](https://giphy.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [LottieFiles](https://lottiefiles.com/) | <img src="../imagem/eua.png" width="40px"> |
