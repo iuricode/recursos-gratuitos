@@ -285,6 +285,7 @@
 | [Seeklogo](https://seeklogo.com/) | <img src="../imagem/eua.png" width="40px"> |                                                      
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../imagem/eua.png" width="40px"> |                                   
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../imagem/eua.png" width="40px"> |         
+| [Zarla Free Logo Maker](https://www.zarla.com/br) | <img src="../imagem/br.png" width="40px"> |
 
 ## Livros 📚
 
