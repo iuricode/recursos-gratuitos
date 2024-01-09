@@ -268,6 +268,14 @@
 | [LottieFiles](https://lottiefiles.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Repo GitHub](https://github.com/davisonio/awesome-gif) | <img src="../imagem/eua.png" width="40px"> |
 | [Tenor](https://tenor.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [Swiper](https://swiperjs.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [barba](https://barba.js.org/) | <img src="../imagem/eua.png" width="40px">  |
+| [slick](https://kenwheeler.github.io/slick/) | <img src="../imagem/eua.png" width="40px">  |
+| [Particles](https://vincentgarreau.com/particles.js/) | <img src="../imagem/eua.png" width="40px">  |
+| [Tilt](https://gijsroge.github.io/tilt.js/) | <img src="../imagem/eua.png" width="40px">  |
+| [GSAP](https://gsap.com/) | <img src="../imagem/eua.png" width="40px">  |
+| [mo.js](https://mojs.github.io/) | <img src="../imagem/eua.png" width="40px">  |
+| [shadcn](https://ui.shadcn.com/) | <img src="../imagem/eua.png" width="40px">  |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
