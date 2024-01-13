@@ -305,7 +305,7 @@
 | Link      | Tipo  | Certificado | Idioma | Link      | Tipo  | Certificado | Idioma |
 | ---------- | ------ | ---------- | :------: | ---------- | ------ | ---------- | :------: |
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="../imagem/br.png" width="40px"> | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
-| [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
+| [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [AmigosCode](https://www.youtube.com/@amigoscode) | Youtube | Não | <img src="../imagem/eua.png" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)| Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Future Learn](https://www.futurelearn.com) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | <img src="../imagem/br.png" width="40px"> | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> | 
@@ -330,12 +330,14 @@
 | [EXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | <img src="../imagem/br.png" width="40px"> | 
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| Não | <img src="../imagem/br.png" width="40px"> |
+| [Fernanda Kipper - Dev](https://www.youtube.com/@kipperdev) | Youtube| Não | <img src="../imagem/br.png" width="40px"> |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | <img src="../imagem/br.png" width="40px"> | 
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Curso | Sim | <img src="../imagem/br.png" width="40px"> | 
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="../imagem/br.png" width="40px"> |
 |[Fundação Estudar- Curso CC50](https://materiais.napratica.org.br/cc50) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+| [Javanauta](https://www.youtube.com/@javanauta) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
 | [IFRS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
