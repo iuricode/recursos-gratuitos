@@ -238,8 +238,10 @@
 | [Ionicons](https://ionicons.com/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="../imagem/eua.png" width="40px"> |
 | [Linearicons](https://linearicons.com/free) | <img src="../imagem/eua.png" width="40px"> |
+| [Lucide Icons](https://lucide.dev) | <img src="../imagem/eua.png" width="40px"> |
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../imagem/eua.png" width="40px"> |  
 | [Noun Project](https://thenounproject.com/) | <img src="../imagem/eua.png" width="40px"> | 
+| [Phosphor Icons](https://phosphoricons.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Pixeden](https://www.pixeden.com/icons-set) | <img src="../imagem/eua.png" width="40px"> | 
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../imagem/eua.png" width="40px"> |
 | [Remix Icon](https://remixicon.com/) | <img src="../imagem/eua.png" width="40px"> |  
