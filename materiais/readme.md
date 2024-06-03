@@ -179,6 +179,8 @@
 | [UiGradients](https://uigradients.com/#Memariani) | <img src="../imagem/eua.png" width="40px"> |
 | [Web Gradients](https://webgradients.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [whocanuse](https://whocanuse.com) | <img src="../imagem/eua.png" width="40px"> |
+| [UiColors](https://uicolors.app/create) | <img src="../imagem/eua.png" width="40px"> |
+| [Color Lisa](https://colorlisa.com) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
