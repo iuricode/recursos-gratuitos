@@ -435,6 +435,8 @@
 | [LeetCode](https://leetcode.com/) | <img src="../imagem/eua.png" width="40px"> | [Devgym](https://www.devgym.com.br) | <img src="../imagem/br.png" width="40px"> |
 | [Exercism](https://exercism.io/) | <img src="../imagem/eua.png" width="40px"> |
 | [iCodeThis](https://icodethis.com) | <img src="../imagem/eua.png" width="40px"> |
+| [HackerRank](https://www.hackerrank.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [TryHackMe](https://tryhackme.com/) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
