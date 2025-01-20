@@ -257,6 +257,7 @@
 | [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1) | <img src="../imagem/eua.png" width="40px"> |
 | [Tilda Icons](https://tilda.cc/free-icons/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Oblador](https://oblador.github.io/react-native-vector-icons/) | <img src="../imagem/eua.png" width="40px"> |
+| [Houston Icons](https://www.houstonicons.com.br/icons) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
