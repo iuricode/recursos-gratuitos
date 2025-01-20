@@ -164,6 +164,7 @@
 | [HTML Color Codes](https://htmlcolorcodes.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [HTML CSS Color](https://www.htmlcsscolor.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Image Color Picker](https://image-color.com/) | <img src="../imagem/eua.png" width="40px"> |
+[Khroma](https://www.khroma.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Material Palette](https://www.materialpalette.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Material UI Colors](https://materialuicolors.co/) | <img src="../imagem/eua.png" width="40px"> |
 | [Name that Color](https://chir.ag/projects/name-that-color/) | <img src="../imagem/eua.png" width="40px"> |
