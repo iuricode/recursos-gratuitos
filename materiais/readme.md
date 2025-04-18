@@ -423,6 +423,7 @@
 | [DevChallenge](https://devchallenge.now.sh/) | <img src="../imagem/br.png" width="40px"> | [Ruby Guides](https://www.rubyguides.com/ruby-post-index/) | <img src="../imagem/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../imagem/br.png" width="40px"> |
 | [Aprenda Golang](https://aprendagolang.com.br/) | <img src="../imagem/br.png" width="40px"> |
+| [TabNews](https://www.tabnews.com.br/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
