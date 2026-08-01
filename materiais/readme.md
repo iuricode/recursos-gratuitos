@@ -211,6 +211,7 @@
 | [Glyphter](https://glyphter.com) | <img src="../imagem/eua.png" width="40px"> |
 | [Golden Ratio](https://grtcalculator.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [Google Fonts](https://fonts.google.com/) | <img src="../imagem/eua.png" width="40px"> | 
+| [WhatFontFinder](https://whatfontfinder.com/) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
