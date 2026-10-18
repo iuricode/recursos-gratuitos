@@ -26,6 +26,6 @@ Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contrib
 
 Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
 
-📬 Entre em contato:
+📬 Entre em contato:.
 📧 iuricold99@gmail.com
 💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
