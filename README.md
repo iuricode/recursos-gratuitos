@@ -1,31 +1,48 @@
-# Recursos gratuitos 🌈
+<h1 align="center">Recursos gratuitos 🌈</h1>
+
+<p align="center">
+  Uma seleção criteriosa dos melhores recursos gratuitos para quem desenvolve projetos.
+</p>
+
+<p align="center">
+  <a href="materiais/readme.md">Ver todos os materiais</a> ·
+  <a href="CONTRIBUTING.md">Como contribuir</a> ·
+  <a href="LICENSE.md">Licença</a>
+</p>
 
 Toda vez que me deparo com o desafio de desenvolver projetos, surge uma dúvida constante: "Quais recursos utilizar e onde posso encontrá-los?" Com esse questionamento em mente, decidi criar este repositório como uma solução. Mas ele é mais do que uma simples coleção de links, trata-se de uma seleção criteriosa do que considero serem alguns dos melhores recursos disponíveis gratuitamente.
 
-## Tabelas de conteúdos 📚
+## Categorias 📚
 
-- [Imagens](materiais/readme.md#-imagens)
-- [Ilustrações](materiais/readme.md#-ilustrações)
-- [Emojis](materiais/readme.md#-emojis)
-- [Paletas de cores](materiais/readme.md#-paletas-de-cores)
-- [Fontes](materiais/readme.md#-fontes)
-- [Ícones](materiais/readme.md#-ícones)
-- [Animações](materiais/readme.md#-animações)
-- [Logos](materiais/readme.md#-logos)
-- [Livros](materiais/readme.md#-livros)
-- [Cursos](materiais/readme.md#-cursos)
-- [Podcasts](materiais/readme.md#-podcasts)
-- [Sites e blogs](materiais/readme.md#-sites-e-blogs)
-- [Desafios](materiais/readme.md#-desafios)
+| Categoria | O que você encontra |
+| --- | --- |
+| [🖼️ Imagens](materiais/readme.md#imagens) | Bancos de fotos, imagens de teste e geradores de placeholder |
+| [🚀 Ilustrações](materiais/readme.md#ilustrações) | Ilustrações, vetores, formas e geradores de arte para interfaces e sites |
+| [😛 Emojis](materiais/readme.md#emojis) | Para copiar, pesquisar e descobrir o significado de cada emoji |
+| [🎨 Paletas de cores](materiais/readme.md#paletas-de-cores) | Geradores de paletas e gradientes, verificação de contraste e inspirações |
+| [🔤 Fontes](materiais/readme.md#fontes) | Bibliotecas de fontes e ferramentas para combinar tipografias |
+| [🎉 Ícones](materiais/readme.md#ícones) | Pacotes e bibliotecas de ícones para web e mobile |
+| [😺 Animações](materiais/readme.md#animações) | Animações Lottie, GIFs e efeitos para o front-end |
+| [🎃 Logos](materiais/readme.md#logos) | Logos de marcas e geradores de logotipos |
+| [📚 Livros](materiais/readme.md#livros) | Livros e guias de programação com leitura gratuita |
+| [👨‍💻 Cursos](materiais/readme.md#cursos) | Plataformas, cursos e canais do YouTube para estudar de graça |
+| [🎤 Podcasts](materiais/readme.md#podcasts) | Podcasts sobre tecnologia, programação e carreira |
+| [💻 Sites e blogs](materiais/readme.md#sites-e-blogs) | Blogs e sites para aprender e praticar programação |
+| [🎮 Desafios](materiais/readme.md#desafios) | Plataformas para praticar lógica, algoritmos, CSS e segurança |
 
-## Contribuição ✨
+Cada categoria é uma tabela em ordem alfabética. A coluna **Idioma** mostra se o recurso está em português (<img src="imagem/br.png" width="20" height="14" alt="Português">) ou em inglês (<img src="imagem/eua.png" width="20" height="14" alt="Inglês">).
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/recursos-gratuitos/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/recursos-gratuitos/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+## Como contribuir ✨
 
-## Disponível para freelas - #OpenToWork 🚀
+Ajude a comunidade tornando este projeto ainda mais incrível:
 
-Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
+1. Crie um fork deste repositório.
+2. Adicione o link na categoria certa, seguindo o padrão do [guia de contribuição](CONTRIBUTING.md).
+3. Confira se o recurso é realmente gratuito e se o link abre.
+4. Abra um pull request com um pequeno resumo do que foi adicionado.
 
-📬 Entre em contato:
-📧 iuricold99@gmail.com
-💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
+Estou convencido de que juntos alcançaremos coisas incríveis!
+
+## Licença 📄
+
+Distribuído sob a [licença do projeto](LICENSE.md). Criado por [Iuri Silva](https://github.com/iuricode).

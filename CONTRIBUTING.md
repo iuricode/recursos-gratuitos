@@ -6,10 +6,28 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 
 1. Crie um fork deste repositório.
 2. Adicione os links de acordo com o estilo padronizado neste guia.
-3. Verifique se o recurso é realmente gratuito.
+3. Verifique se o recurso é realmente gratuito e se o link abre.
 4. Envie seus commits em português.
 5. Insira um pequeno resumo sobre o que foi adicionado.
 6. Solicite um pull request.
+
+## O que pode entrar
+
+- O recurso precisa ser gratuito. Se só parte dele for gratuita, deixe isso claro no resumo do pull request.
+- Não adicione conteúdo pirata nem que viole direitos autorais.
+- Não repita um recurso que já está na lista. Procure pelo nome e pelo endereço antes de adicionar.
+
+## Como adicionar um link
+
+Todo o conteúdo fica em [`materiais/readme.md`](materiais/readme.md). Cada categoria é uma tabela, com um recurso por linha e em **ordem alfabética**. Para adicionar, acrescente uma linha na posição correta:
+
+```md
+| [Nome do recurso](https://exemplo.com/) | <img src="../imagem/eua.png" width="28" height="20" alt="Inglês"> |
+```
+
+- Para um recurso em português, use `../imagem/br.png` e `alt="Português"`.
+- Em **Cursos**, use a tabela _Cursos e plataformas_ e informe na coluna **Certificado** se há certificado (`Sim` ou `Não`).
+- Canais do YouTube entram na tabela _Canais do YouTube_, dentro de **Cursos**.
 
 ## Estilo dos links
 
