@@ -45,4 +45,4 @@ Estou convencido de que juntos alcançaremos coisas incríveis!
 
 ## Licença 📄
 
-Distribuído sob a [licença do projeto](LICENSE.md). Criado por [Iuri Silva](https://github.com/iuricode).
+Distribuído sob a [licença MIT](LICENSE.md). Criado por [Iuri Silva](https://github.com/iuricode).
